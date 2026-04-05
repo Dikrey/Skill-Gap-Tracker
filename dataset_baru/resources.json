@@ -1,0 +1,3854 @@
+[
+  {
+    "skill_name": "ACID Properties",
+    "resources": [
+      {
+        "title": "IBM ACID Overview",
+        "type": "article",
+        "url": "https://www.ibm.com/docs/en/cics-ts/5.4?topic=processing-acid-properties-transactions",
+        "platform": "Official Documentation / Article"
+      },
+      {
+        "title": "ByteByteGo ACID vs BASE",
+        "type": "video",
+        "url": "https://www.youtube.com/watch?v=7MTEkR8e8kE",
+        "platform": "YouTube / Video Platform"
+      }
+    ]
+  },
+  {
+    "skill_name": "ASP.NET Core",
+    "resources": [
+      {
+        "title": "Microsoft ASP.NET Docs",
+        "type": "article",
+        "url": "https://learn.microsoft.com/en-us/aspnet/core/",
+        "platform": "Official Documentation / Article"
+      },
+      {
+        "title": "FreeCodeCamp ASP.NET",
+        "type": "video",
+        "url": "https://www.youtube.com/watch?v=hZ1DASYd9rk",
+        "platform": "YouTube / Video Platform"
+      }
+    ]
+  },
+  {
+    "skill_name": "AWS EC2",
+    "resources": [
+      {
+        "title": "Amazon EC2 Docs",
+        "type": "article",
+        "url": "https://docs.aws.amazon.com/ec2/",
+        "platform": "Official Documentation / Article"
+      },
+      {
+        "title": "FreeCodeCamp AWS EC2",
+        "type": "video",
+        "url": "https://www.youtube.com/watch?v=a9__D53WsUs",
+        "platform": "YouTube / Video Platform"
+      },
+      {
+        "title": "AWS EC2 Tutorial - freeCodeCamp",
+        "type": "video",
+        "url": "https://www.youtube.com/watch?v=iHX-jtKIVNA",
+        "platform": "YouTube"
+      },
+      {
+        "title": "AWS EC2 Documentation",
+        "type": "article",
+        "url": "https://docs.aws.amazon.com/ec2/",
+        "platform": "Official Documentation"
+      }
+    ]
+  },
+  {
+    "skill_name": "AWS Lambda",
+    "resources": [
+      {
+        "title": "FreeCodeCamp AWS Lambda",
+        "type": "video",
+        "url": "https://www.youtube.com/watch?v=eOBq__h4OJ4",
+        "platform": "YouTube / Video Platform"
+      },
+      {
+        "title": "AWS Lambda Docs",
+        "type": "article",
+        "url": "https://docs.aws.amazon.com/lambda/",
+        "platform": "Official Documentation / Article"
+      }
+    ]
+  },
+  {
+    "skill_name": "AWS S3",
+    "resources": [
+      {
+        "title": "Amazon S3 Docs",
+        "type": "article",
+        "url": "https://docs.aws.amazon.com/s3/",
+        "platform": "Official Documentation / Article"
+      },
+      {
+        "title": "Be A Better Dev AWS S3",
+        "type": "video",
+        "url": "https://www.youtube.com/watch?v=vjTzB3kO-Bw",
+        "platform": "YouTube / Video Platform"
+      }
+    ]
+  },
+  {
+    "skill_name": "Active Listening",
+    "resources": [
+      {
+        "title": "MindTools Active Listening",
+        "type": "article",
+        "url": "https://www.mindtools.com/CommSkll/ActiveListening.htm",
+        "platform": "Official Documentation / Article"
+      },
+      {
+        "title": "TED-Ed Active Listening",
+        "type": "video",
+        "url": "https://www.youtube.com/watch?v=HBe-N5TNBHs",
+        "platform": "YouTube / Video Platform"
+      }
+    ]
+  },
+  {
+    "skill_name": "Adaptability & Flexibility",
+    "resources": [
+      {
+        "title": "TEDx Power of Adaptability",
+        "type": "video",
+        "url": "https://www.youtube.com/watch?v=2NqatMn4twU",
+        "platform": "YouTube / Video Platform"
+      },
+      {
+        "title": "CCL Adaptability",
+        "type": "article",
+        "url": "https://www.ccl.org/articles/leading-effectively-articles/adaptability-in-the-workplace/",
+        "platform": "Official Documentation / Article"
+      }
+    ]
+  },
+  {
+    "skill_name": "Adobe XD",
+    "resources": [
+      {
+        "title": "Adobe XD Tutorials",
+        "type": "article",
+        "url": "https://helpx.adobe.com/xd/tutorials.html",
+        "platform": "Official Documentation / Article"
+      },
+      {
+        "title": "DesignCourse Adobe XD",
+        "type": "video",
+        "url": "https://www.youtube.com/watch?v=W0y2Z-EU1E8",
+        "platform": "YouTube / Video Platform"
+      }
+    ]
+  },
+  {
+    "skill_name": "Agile Methodology",
+    "resources": [
+      {
+        "title": "Agile Tutorial - Simplilearn",
+        "type": "video",
+        "url": "https://www.youtube.com/watch?v=Z9QbYZh1YXY",
+        "platform": "YouTube"
+      },
+      {
+        "title": "Agile Alliance Manifesto",
+        "type": "article",
+        "url": "https://agilemanifesto.org/",
+        "platform": "Official Documentation / Article"
+      },
+      {
+        "title": "Simplilearn Agile",
+        "type": "video",
+        "url": "https://www.youtube.com/watch?v=Z9QbYZh1YXY",
+        "platform": "YouTube / Video Platform"
+      },
+      {
+        "title": "Agile Manifesto",
+        "type": "article",
+        "url": "https://agilemanifesto.org/",
+        "platform": "Official Website"
+      }
+    ]
+  },
+  {
+    "skill_name": "Analytical Thinking",
+    "resources": [
+      {
+        "title": "MindTools Analytical Thinking",
+        "type": "article",
+        "url": "https://www.mindtools.com/pages/article/analytical-thinking.htm",
+        "platform": "Official Documentation / Article"
+      },
+      {
+        "title": "Simplilearn Analytical Thinking",
+        "type": "video",
+        "url": "https://www.youtube.com/watch?v=XAasi_9Ngqk",
+        "platform": "YouTube / Video Platform"
+      }
+    ]
+  },
+  {
+    "skill_name": "Angular",
+    "resources": [
+      {
+        "title": "Angular Tutorial - Programming with Mosh",
+        "type": "video",
+        "url": "https://www.youtube.com/watch?v=k5E2AVpwsko",
+        "platform": "YouTube"
+      },
+      {
+        "title": "Angular Official Documentation",
+        "type": "article",
+        "url": "https://angular.io/docs",
+        "platform": "Official Documentation"
+      },
+      {
+        "title": "Angular Getting Started",
+        "type": "article",
+        "url": "https://angular.io/start",
+        "platform": "Official Documentation / Article"
+      },
+      {
+        "title": "FreeCodeCamp Angular",
+        "type": "video",
+        "url": "https://www.youtube.com/watch?v=3qBXWUpoPHo",
+        "platform": "YouTube / Video Platform"
+      }
+    ]
+  },
+  {
+    "skill_name": "Ansible",
+    "resources": [
+      {
+        "title": "Ansible Documentation",
+        "type": "article",
+        "url": "https://docs.ansible.com/",
+        "platform": "Official Documentation / Article"
+      },
+      {
+        "title": "Ansible Tutorial - TechWorld with Nana",
+        "type": "video",
+        "url": "https://www.youtube.com/watch?v=1id6ERvfozo",
+        "platform": "YouTube"
+      },
+      {
+        "title": "TechWorld with Nana Ansible",
+        "type": "video",
+        "url": "https://www.youtube.com/watch?v=goclfp6a2IQ",
+        "platform": "YouTube / Video Platform"
+      },
+      {
+        "title": "Ansible Official Documentation",
+        "type": "article",
+        "url": "https://docs.ansible.com/",
+        "platform": "Official Documentation"
+      }
+    ]
+  },
+  {
+    "skill_name": "Apache HTTP Server",
+    "resources": [
+      {
+        "title": "Apache Official Docs",
+        "type": "article",
+        "url": "https://httpd.apache.org/docs/",
+        "platform": "Official Documentation / Article"
+      },
+      {
+        "title": "ProgrammingKnowledge Apache",
+        "type": "video",
+        "url": "https://www.youtube.com/watch?v=WxwGgMIti84",
+        "platform": "YouTube / Video Platform"
+      }
+    ]
+  },
+  {
+    "skill_name": "Apache Kafka",
+    "resources": [
+      {
+        "title": "Apache Kafka Documentation",
+        "type": "article",
+        "url": "https://kafka.apache.org/documentation/",
+        "platform": "Official Documentation / Article"
+      },
+      {
+        "title": "FreeCodeCamp Kafka",
+        "type": "video",
+        "url": "https://www.youtube.com/watch?v=Ch5VhJzaoaI",
+        "platform": "YouTube / Video Platform"
+      }
+    ]
+  },
+  {
+    "skill_name": "Apollo Client",
+    "resources": [
+      {
+        "title": "Apollo Client React",
+        "type": "article",
+        "url": "https://www.apollographql.com/docs/react/",
+        "platform": "Official Documentation / Article"
+      },
+      {
+        "title": "Web Dev Simplified Apollo",
+        "type": "video",
+        "url": "https://www.youtube.com/watch?v=YyUWW04HNcw",
+        "platform": "YouTube / Video Platform"
+      }
+    ]
+  },
+  {
+    "skill_name": "Authentication & JWT",
+    "resources": [
+      {
+        "title": "JSON Web Tokens Introduction - JWT.io",
+        "type": "article",
+        "url": "https://jwt.io/introduction",
+        "platform": "JWT.io / Official Docs"
+      },
+      {
+        "title": "JWT Authentication Tutorial - Web Dev Simplified",
+        "type": "video",
+        "url": "https://www.youtube.com/watch?v=mbsmsi7l3r4",
+        "platform": "YouTube / Web Dev Simplified"
+      }
+    ]
+  },
+  {
+    "skill_name": "Bash/Shell Scripting",
+    "resources": [
+      {
+        "title": "FreeCodeCamp Bash",
+        "type": "video",
+        "url": "https://www.youtube.com/watch?v=tK9Oc6AEnxc",
+        "platform": "YouTube / Video Platform"
+      },
+      {
+        "title": "GNU Bash Reference",
+        "type": "article",
+        "url": "https://www.gnu.org/software/bash/manual/",
+        "platform": "Official Documentation / Article"
+      }
+    ]
+  },
+  {
+    "skill_name": "Basic Statistics",
+    "resources": [
+      {
+        "title": "Statistics - CrashCourse (Full Playlist)",
+        "type": "video",
+        "url": "https://www.youtube.com/watch?v=zouPoc49xbk",
+        "platform": "YouTube / CrashCourse"
+      },
+      {
+        "title": "Statistics and Probability - Khan Academy",
+        "type": "article",
+        "url": "https://www.khanacademy.org/math/statistics-probability",
+        "platform": "Khan Academy"
+      }
+    ]
+  },
+  {
+    "skill_name": "Behavior-Driven Development (BDD)",
+    "resources": [
+      {
+        "title": "Simplilearn BDD",
+        "type": "video",
+        "url": "https://www.youtube.com/watch?v=4xR8z_U_dUU",
+        "platform": "YouTube / Video Platform"
+      },
+      {
+        "title": "Cucumber BDD Overview",
+        "type": "article",
+        "url": "https://cucumber.io/docs/bdd/",
+        "platform": "Official Documentation / Article"
+      }
+    ]
+  },
+  {
+    "skill_name": "Bootstrap",
+    "resources": [
+      {
+        "title": "Bootstrap Docs",
+        "type": "article",
+        "url": "https://getbootstrap.com/docs/5.3/getting-started/introduction/",
+        "platform": "Official Documentation / Article"
+      },
+      {
+        "title": "FreeCodeCamp Bootstrap",
+        "type": "video",
+        "url": "https://www.youtube.com/watch?v=-qfEOE4vtxE",
+        "platform": "YouTube / Video Platform"
+      }
+    ]
+  },
+  {
+    "skill_name": "Burp Suite",
+    "resources": [
+      {
+        "title": "The Cyber Mentor Burp",
+        "type": "video",
+        "url": "https://www.youtube.com/watch?v=2_lswM1S264",
+        "platform": "YouTube / Video Platform"
+      },
+      {
+        "title": "PortSwigger Burp Suite Docs",
+        "type": "article",
+        "url": "https://portswigger.net/burp/documentation",
+        "platform": "Official Documentation / Article"
+      }
+    ]
+  },
+  {
+    "skill_name": "C#",
+    "resources": [
+      {
+        "title": "FreeCodeCamp C#",
+        "type": "video",
+        "url": "https://www.youtube.com/watch?v=GhQdlIFylQ8",
+        "platform": "YouTube / Video Platform"
+      },
+      {
+        "title": "Microsoft Learn C#",
+        "type": "article",
+        "url": "https://learn.microsoft.com/en-us/dotnet/csharp/",
+        "platform": "Official Documentation / Article"
+      }
+    ]
+  },
+  {
+    "skill_name": "C++",
+    "resources": [
+      {
+        "title": "CPlusPlus.com Tutorial",
+        "type": "article",
+        "url": "https://cplusplus.com/doc/tutorial/",
+        "platform": "Official Documentation / Article"
+      },
+      {
+        "title": "FreeCodeCamp C++",
+        "type": "video",
+        "url": "https://www.youtube.com/watch?v=vLnPwxZdW4Y",
+        "platform": "YouTube / Video Platform"
+      }
+    ]
+  },
+  {
+    "skill_name": "CAP Theorem",
+    "resources": [
+      {
+        "title": "IBM CAP Theorem",
+        "type": "article",
+        "url": "https://www.ibm.com/topics/cap-theorem",
+        "platform": "Official Documentation / Article"
+      },
+      {
+        "title": "FreeCodeCamp CAP Theorem",
+        "type": "video",
+        "url": "https://www.youtube.com/watch?v=mJWbBItX51k",
+        "platform": "YouTube / Video Platform"
+      }
+    ]
+  },
+  {
+    "skill_name": "CI/CD Principles",
+    "resources": [
+      {
+        "title": "Red Hat CI/CD Guide",
+        "type": "article",
+        "url": "https://www.redhat.com/en/topics/devops/what-is-ci-cd",
+        "platform": "Official Documentation / Article"
+      },
+      {
+        "title": "TechWorld with Nana CI/CD",
+        "type": "video",
+        "url": "https://www.youtube.com/watch?v=scEDHlsCECw",
+        "platform": "YouTube / Video Platform"
+      }
+    ]
+  },
+  {
+    "skill_name": "CSS3",
+    "resources": [
+      {
+        "title": "CSS-Tricks",
+        "type": "article",
+        "url": "https://css-tricks.com/",
+        "platform": "Tutorial Website"
+      },
+      {
+        "title": "FreeCodeCamp CSS",
+        "type": "video",
+        "url": "https://www.youtube.com/watch?v=1Rs2ND1ryYc",
+        "platform": "YouTube / Video Platform"
+      },
+      {
+        "title": "MDN CSS Basics",
+        "type": "article",
+        "url": "https://developer.mozilla.org/en-US/docs/Learn/CSS",
+        "platform": "Official Documentation / Article"
+      },
+      {
+        "title": "CSS Tutorial - Web Dev Simplified",
+        "type": "video",
+        "url": "https://www.youtube.com/watch?v=1Rs2ND1ryYc",
+        "platform": "YouTube"
+      },
+      {
+        "title": "MDN CSS Guide",
+        "type": "article",
+        "url": "https://developer.mozilla.org/en-US/docs/Web/CSS",
+        "platform": "Official Documentation"
+      }
+    ]
+  },
+  {
+    "skill_name": "Cassandra",
+    "resources": [
+      {
+        "title": "Apache Cassandra Docs",
+        "type": "article",
+        "url": "https://cassandra.apache.org/doc/latest/",
+        "platform": "Official Documentation / Article"
+      },
+      {
+        "title": "Simplilearn Cassandra",
+        "type": "video",
+        "url": "https://www.youtube.com/watch?v=0bT4RFTy2J4",
+        "platform": "YouTube / Video Platform"
+      }
+    ]
+  },
+  {
+    "skill_name": "Client Relationship Management",
+    "resources": [
+      {
+        "title": "Harvard Business Review CRM",
+        "type": "video",
+        "url": "https://www.youtube.com/watch?v=4eW4Uroqe0w",
+        "platform": "YouTube / Video Platform"
+      },
+      {
+        "title": "HubSpot CRM Basics",
+        "type": "article",
+        "url": "https://www.hubspot.com/crm",
+        "platform": "Official Documentation / Article"
+      }
+    ]
+  },
+  {
+    "skill_name": "Conflict Resolution",
+    "resources": [
+      {
+        "title": "SkillsYouNeed Conflict Management",
+        "type": "article",
+        "url": "https://www.skillsyouneed.com/ips/conflict-resolution.html",
+        "platform": "Official Documentation / Article"
+      },
+      {
+        "title": "Bob Bordone Resolving Conflict",
+        "type": "video",
+        "url": "https://www.youtube.com/watch?v=HBe-N5TNBHs",
+        "platform": "YouTube / Video Platform"
+      }
+    ]
+  },
+  {
+    "skill_name": "Containerization Concepts",
+    "resources": [
+      {
+        "title": "IBM Technology Containers",
+        "type": "video",
+        "url": "https://www.youtube.com/watch?v=cjXI-yxqGTI",
+        "platform": "YouTube / Video Platform"
+      },
+      {
+        "title": "Docker Containers",
+        "type": "article",
+        "url": "https://www.docker.com/resources/what-container/",
+        "platform": "Official Documentation / Article"
+      }
+    ]
+  },
+  {
+    "skill_name": "Content Writing",
+    "resources": [
+      {
+        "title": "Content Strategy Guide - HubSpot Blog",
+        "type": "article",
+        "url": "https://blog.hubspot.com/marketing/content-strategy",
+        "platform": "HubSpot Blog"
+      },
+      {
+        "title": "SEO Writing Tutorial - Backlinko",
+        "type": "video",
+        "url": "https://www.youtube.com/watch?v=hULKjbH6MZY",
+        "platform": "YouTube / Backlinko"
+      }
+    ]
+  },
+  {
+    "skill_name": "Creative Thinking",
+    "resources": [
+      {
+        "title": "TEDx Creative Problem Solving",
+        "type": "video",
+        "url": "https://www.youtube.com/watch?v=A9pygQghgH4",
+        "platform": "YouTube / Video Platform"
+      },
+      {
+        "title": "Articulate Innovation Skills",
+        "type": "article",
+        "url": "https://www.articulate.com/blog/the-best-soft-skills-training-strategies-to-boost-team-performance/",
+        "platform": "Official Documentation / Article"
+      }
+    ]
+  },
+  {
+    "skill_name": "Critical Thinking",
+    "resources": [
+      {
+        "title": "TED-Ed Critical Thinking",
+        "type": "video",
+        "url": "https://www.youtube.com/watch?v=A9pygQghgH4",
+        "platform": "YouTube / Video Platform"
+      },
+      {
+        "title": "SkillsYouNeed Critical Thinking",
+        "type": "article",
+        "url": "https://www.skillsyouneed.com/learn/critical-thinking.html",
+        "platform": "Official Documentation / Article"
+      }
+    ]
+  },
+  {
+    "skill_name": "Cryptography Fundamentals",
+    "resources": [
+      {
+        "title": "FreeCodeCamp Cryptography",
+        "type": "video",
+        "url": "https://www.youtube.com/watch?v=jhXCTbFnK8o",
+        "platform": "YouTube / Video Platform"
+      },
+      {
+        "title": "Cloudflare Cryptography",
+        "type": "article",
+        "url": "https://www.cloudflare.com/learning/ssl/what-is-cryptography/",
+        "platform": "Official Documentation / Article"
+      }
+    ]
+  },
+  {
+    "skill_name": "DNS Management",
+    "resources": [
+      {
+        "title": "Cloudflare DNS Overview",
+        "type": "article",
+        "url": "https://www.cloudflare.com/learning/dns/what-is-dns/",
+        "platform": "Official Documentation / Article"
+      },
+      {
+        "title": "NetworkChuck DNS",
+        "type": "video",
+        "url": "https://www.youtube.com/watch?v=mpQZVYPuDGU",
+        "platform": "YouTube / Video Platform"
+      }
+    ]
+  },
+  {
+    "skill_name": "DRY & KISS Principles",
+    "resources": [
+      {
+        "title": "WorkAt.Tech Design Principles",
+        "type": "article",
+        "url": "https://workat.tech/machine-coding/tutorial/software-design-principles-dry-yagni-eytrxfhz1fla",
+        "platform": "Official Documentation / Article"
+      },
+      {
+        "title": "Programming with Mosh Clean Code",
+        "type": "video",
+        "url": "https://www.youtube.com/watch?v=UjhX2sVf0eg",
+        "platform": "YouTube / Video Platform"
+      }
+    ]
+  },
+  {
+    "skill_name": "Dart",
+    "resources": [
+      {
+        "title": "Dart Language Tour",
+        "type": "article",
+        "url": "https://dart.dev/language",
+        "platform": "Official Documentation / Article"
+      },
+      {
+        "title": "FreeCodeCamp Dart",
+        "type": "video",
+        "url": "https://www.youtube.com/watch?v=Ej_Pcr4uC2Q",
+        "platform": "YouTube / Video Platform"
+      }
+    ]
+  },
+  {
+    "skill_name": "Data Modeling",
+    "resources": [
+      {
+        "title": "MongoDB Data Modeling",
+        "type": "article",
+        "url": "https://www.mongodb.com/docs/manual/core/data-modeling-introduction/",
+        "platform": "Official Documentation / Article"
+      },
+      {
+        "title": "Simplilearn Data Modeling",
+        "type": "video",
+        "url": "https://www.youtube.com/watch?v=XJYO4TWO150",
+        "platform": "YouTube / Video Platform"
+      }
+    ]
+  },
+  {
+    "skill_name": "Data Visualization",
+    "resources": [
+      {
+        "title": "Data Visualization Curriculum - FreeCodeCamp",
+        "type": "article",
+        "url": "https://www.freecodecamp.org/learn/data-visualization/",
+        "platform": "FreeCodeCamp"
+      },
+      {
+        "title": "Data Visualization with Python - freeCodeCamp",
+        "type": "video",
+        "url": "https://www.youtube.com/watch?v=0P7QnIQDBJY",
+        "platform": "YouTube"
+      },
+      {
+        "title": "Data Visualization with D3.js - FreeCodeCamp",
+        "type": "video",
+        "url": "https://www.youtube.com/watch?v=oTahLEX3NXo",
+        "platform": "YouTube / FreeCodeCamp"
+      },
+      {
+        "title": "Data Visualization Guide - Tableau",
+        "type": "article",
+        "url": "https://www.tableau.com/learn/articles/data-visualization",
+        "platform": "Tableau Learning"
+      }
+    ]
+  },
+  {
+    "skill_name": "Data Warehousing Concepts",
+    "resources": [
+      {
+        "title": "AWS Data Warehouse Guide",
+        "type": "article",
+        "url": "https://aws.amazon.com/data-warehouse/",
+        "platform": "Official Documentation / Article"
+      },
+      {
+        "title": "FreeCodeCamp Data Warehouse",
+        "type": "video",
+        "url": "https://www.youtube.com/watch?v=HKcEyHF1U00",
+        "platform": "YouTube / Video Platform"
+      }
+    ]
+  },
+  {
+    "skill_name": "Database Normalization",
+    "resources": [
+      {
+        "title": "FreeCodeCamp Normalization",
+        "type": "video",
+        "url": "https://www.youtube.com/watch?v=GFQaEYEc8_8",
+        "platform": "YouTube / Video Platform"
+      },
+      {
+        "title": "Microsoft Normalization Basics",
+        "type": "article",
+        "url": "https://learn.microsoft.com/en-us/office/troubleshoot/access/database-normalization-description",
+        "platform": "Official Documentation / Article"
+      }
+    ]
+  },
+  {
+    "skill_name": "Datadog",
+    "resources": [
+      {
+        "title": "Datadog Documentation",
+        "type": "article",
+        "url": "https://docs.datadoghq.com/",
+        "platform": "Official Documentation / Article"
+      },
+      {
+        "title": "DevOps Directive Datadog",
+        "type": "video",
+        "url": "https://www.youtube.com/watch?v=bMKNfKXIFA8",
+        "platform": "YouTube / Video Platform"
+      }
+    ]
+  },
+  {
+    "skill_name": "Deep Learning Fundamentals",
+    "resources": [
+      {
+        "title": "FreeCodeCamp Deep Learning",
+        "type": "video",
+        "url": "https://www.youtube.com/watch?v=VyWAvY2CF9c",
+        "platform": "YouTube / Video Platform"
+      },
+      {
+        "title": "IBM Deep Learning Intro",
+        "type": "article",
+        "url": "https://www.ibm.com/topics/deep-learning",
+        "platform": "Official Documentation / Article"
+      }
+    ]
+  },
+  {
+    "skill_name": "Deno",
+    "resources": [
+      {
+        "title": "Deno Official Manual",
+        "type": "article",
+        "url": "https://docs.deno.com/",
+        "platform": "Official Documentation / Article"
+      },
+      {
+        "title": "Traversy Media Deno",
+        "type": "video",
+        "url": "https://www.youtube.com/watch?v=NHHhiqwcfRM",
+        "platform": "YouTube / Video Platform"
+      }
+    ]
+  },
+  {
+    "skill_name": "Design System",
+    "resources": [
+      {
+        "title": "Design Systems Explained in Detail - DesignCourse",
+        "type": "video",
+        "url": "https://www.youtube.com/watch?v=wIuVvCuiJhU",
+        "platform": "YouTube / DesignCourse"
+      },
+      {
+        "title": "Material Design 3 Components - Google",
+        "type": "article",
+        "url": "https://m3.material.io/",
+        "platform": "Material Design / Google"
+      }
+    ]
+  },
+  {
+    "skill_name": "Django",
+    "resources": [
+      {
+        "title": "Programming with Mosh Django",
+        "type": "video",
+        "url": "https://www.youtube.com/watch?v=rHux0gMZ3Eg",
+        "platform": "YouTube / Video Platform"
+      },
+      {
+        "title": "Django Official Documentation",
+        "type": "article",
+        "url": "https://docs.djangoproject.com/",
+        "platform": "Official Documentation"
+      },
+      {
+        "title": "Django Official Docs",
+        "type": "article",
+        "url": "https://docs.djangoproject.com/en/stable/",
+        "platform": "Official Documentation / Article"
+      },
+      {
+        "title": "Django Tutorial - Corey Schafer",
+        "type": "video",
+        "url": "https://www.youtube.com/playlist?list=PL-osiE80TeTtoQCKZ03TU5fNfx2UY6U4p",
+        "platform": "YouTube"
+      }
+    ]
+  },
+  {
+    "skill_name": "Docker",
+    "resources": [
+      {
+        "title": "Docker in 100 Seconds - Fireship",
+        "type": "video",
+        "url": "https://www.youtube.com/watch?v=Gjnup-PuquQ",
+        "platform": "YouTube / Fireship"
+      },
+      {
+        "title": "Docker Official Documentation",
+        "type": "article",
+        "url": "https://docs.docker.com/get-started/",
+        "platform": "Official Documentation"
+      },
+      {
+        "title": "Docker Crash Course - Traversy Media",
+        "type": "video",
+        "url": "https://www.youtube.com/watch?v=pg19Z8LL06w",
+        "platform": "YouTube"
+      },
+      {
+        "title": "Programming with Mosh Docker",
+        "type": "video",
+        "url": "https://www.youtube.com/watch?v=pTFZFxd4hOI",
+        "platform": "YouTube / Video Platform"
+      },
+      {
+        "title": "Docker Tutorial for Beginners - TechWorld with Nana",
+        "type": "video",
+        "url": "https://www.youtube.com/watch?v=3c-iBn73dDE",
+        "platform": "YouTube"
+      },
+      {
+        "title": "Docker Overview",
+        "type": "article",
+        "url": "https://docs.docker.com/get-started/",
+        "platform": "Official Documentation / Article"
+      }
+    ]
+  },
+  {
+    "skill_name": "Domain-Driven Design (DDD)",
+    "resources": [
+      {
+        "title": "Codecrafters DDD",
+        "type": "video",
+        "url": "https://www.youtube.com/watch?v=DqZIxUPx1YU",
+        "platform": "YouTube / Video Platform"
+      },
+      {
+        "title": "Martin Fowler DDD",
+        "type": "article",
+        "url": "https://martinfowler.com/bliki/DomainDrivenDesign.html",
+        "platform": "Official Documentation / Article"
+      }
+    ]
+  },
+  {
+    "skill_name": "Effective Written Communication",
+    "resources": [
+      {
+        "title": "SkillsYouNeed Writing",
+        "type": "article",
+        "url": "https://www.skillsyouneed.com/writing-skills.html",
+        "platform": "Official Documentation / Article"
+      },
+      {
+        "title": "FreeCodeCamp Business Writing",
+        "type": "video",
+        "url": "https://www.youtube.com/watch?v=KYLwiELcwbo",
+        "platform": "YouTube / Video Platform"
+      }
+    ]
+  },
+  {
+    "skill_name": "Elasticsearch",
+    "resources": [
+      {
+        "title": "Elastic Reference",
+        "type": "article",
+        "url": "https://www.elastic.co/guide/en/elasticsearch/reference/current/index.html",
+        "platform": "Official Documentation / Article"
+      },
+      {
+        "title": "Traversy Media Elastic",
+        "type": "video",
+        "url": "https://www.youtube.com/watch?v=gQq34p2H1g0",
+        "platform": "YouTube / Video Platform"
+      }
+    ]
+  },
+  {
+    "skill_name": "Eloquent ORM",
+    "resources": [
+      {
+        "title": "Traversy Media Eloquent",
+        "type": "video",
+        "url": "https://www.youtube.com/watch?v=vHt2LC1EM3Q",
+        "platform": "YouTube / Video Platform"
+      },
+      {
+        "title": "Laravel Eloquent Docs",
+        "type": "article",
+        "url": "https://laravel.com/docs/eloquent",
+        "platform": "Official Documentation / Article"
+      }
+    ]
+  },
+  {
+    "skill_name": "Emotional Intelligence (EQ)",
+    "resources": [
+      {
+        "title": "MindTools EQ at Work",
+        "type": "article",
+        "url": "https://www.mindtools.com/general/emotional-intelligence.html",
+        "platform": "Official Documentation / Article"
+      },
+      {
+        "title": "Audiobook Advisor EQ",
+        "type": "video",
+        "url": "https://www.youtube.com/watch?v=K3qScH6v7uk",
+        "platform": "YouTube / Video Platform"
+      }
+    ]
+  },
+  {
+    "skill_name": "Empathy",
+    "resources": [
+      {
+        "title": "MindTools Emotional Intelligence",
+        "type": "article",
+        "url": "https://www.mindtools.com/axbwm3m/how-emotionally-intelligent-are-you",
+        "platform": "Official Documentation / Article"
+      },
+      {
+        "title": "Harvard Business Review Empathy",
+        "type": "video",
+        "url": "https://www.youtube.com/watch?v=K3qScH6v7uk",
+        "platform": "YouTube / Video Platform"
+      }
+    ]
+  },
+  {
+    "skill_name": "Excel (Data Analysis)",
+    "resources": [
+      {
+        "title": "Microsoft Excel Help & Learning",
+        "type": "article",
+        "url": "https://support.microsoft.com/en-us/excel",
+        "platform": "Microsoft Support"
+      },
+      {
+        "title": "Excel for Data Analysts Full Course - Alex The Analyst",
+        "type": "video",
+        "url": "https://www.youtube.com/watch?v=PSNXoAs2FtQ",
+        "platform": "YouTube / Alex The Analyst"
+      }
+    ]
+  },
+  {
+    "skill_name": "Express.js",
+    "resources": [
+      {
+        "title": "Traversy Media Express",
+        "type": "video",
+        "url": "https://www.youtube.com/watch?v=L72fhGm1tfE",
+        "platform": "YouTube / Video Platform"
+      },
+      {
+        "title": "Express JS Crash Course - Traversy Media",
+        "type": "video",
+        "url": "https://www.youtube.com/watch?v=L72fhGm1tfE",
+        "platform": "YouTube"
+      },
+      {
+        "title": "Express.js Official Guide",
+        "type": "article",
+        "url": "https://expressjs.com/en/guide/routing.html",
+        "platform": "Official Documentation"
+      },
+      {
+        "title": "Express Starter Guide",
+        "type": "article",
+        "url": "https://expressjs.com/en/starter/installing.html",
+        "platform": "Official Documentation / Article"
+      },
+      {
+        "title": "Express.js Official Routing Guide",
+        "type": "article",
+        "url": "https://expressjs.com/en/guide/routing.html",
+        "platform": "Official Documentation"
+      }
+    ]
+  },
+  {
+    "skill_name": "FastAPI",
+    "resources": [
+      {
+        "title": "FastAPI SQL Databases",
+        "type": "article",
+        "url": "https://fastapi.tiangolo.com/tutorial/sql-databases/",
+        "platform": "Official Documentation / Article"
+      },
+      {
+        "title": "FreeCodeCamp FastAPI",
+        "type": "video",
+        "url": "https://www.youtube.com/watch?v=0sOvCWFmrtA",
+        "platform": "YouTube / Video Platform"
+      }
+    ]
+  },
+  {
+    "skill_name": "Figma",
+    "resources": [
+      {
+        "title": "DesignCourse Figma",
+        "type": "video",
+        "url": "https://www.youtube.com/watch?v=4W4LvvnYgGM",
+        "platform": "YouTube / Video Platform"
+      },
+      {
+        "title": "Figma Official Help Center",
+        "type": "article",
+        "url": "https://help.figma.com/",
+        "platform": "Official Documentation"
+      },
+      {
+        "title": "Figma Tutorial - DesignCourse",
+        "type": "video",
+        "url": "https://www.youtube.com/watch?v=FTFaQWZBqQ8",
+        "platform": "YouTube"
+      },
+      {
+        "title": "Figma Help Center",
+        "type": "article",
+        "url": "https://help.figma.com/hc/en-us",
+        "platform": "Official Documentation / Article"
+      }
+    ]
+  },
+  {
+    "skill_name": "Flask",
+    "resources": [
+      {
+        "title": "Flask Tutorial - Corey Schafer",
+        "type": "video",
+        "url": "https://www.youtube.com/playlist?list=PL-osiE80TeTs4UjLw5MM6OjgkjFeUxCYH",
+        "platform": "YouTube"
+      },
+      {
+        "title": "Flask Quickstart",
+        "type": "article",
+        "url": "https://flask.palletsprojects.com/en/stable/quickstart/",
+        "platform": "Official Documentation / Article"
+      },
+      {
+        "title": "FreeCodeCamp Flask",
+        "type": "video",
+        "url": "https://www.youtube.com/watch?v=Z1RJmh_OqeA",
+        "platform": "YouTube / Video Platform"
+      },
+      {
+        "title": "Flask Official Documentation",
+        "type": "article",
+        "url": "https://flask.palletsprojects.com/",
+        "platform": "Official Documentation"
+      }
+    ]
+  },
+  {
+    "skill_name": "Flutter",
+    "resources": [
+      {
+        "title": "Flutter Official Documentation",
+        "type": "article",
+        "url": "https://docs.flutter.dev/",
+        "platform": "Official Documentation"
+      },
+      {
+        "title": "Flutter Course - freeCodeCamp",
+        "type": "video",
+        "url": "https://www.youtube.com/watch?v=VPvVD8t02U8",
+        "platform": "YouTube"
+      },
+      {
+        "title": "FreeCodeCamp Flutter",
+        "type": "video",
+        "url": "https://www.youtube.com/watch?v=VPvVD8t02U8",
+        "platform": "YouTube / Video Platform"
+      },
+      {
+        "title": "Flutter Official Docs",
+        "type": "article",
+        "url": "https://docs.flutter.dev/",
+        "platform": "Official Documentation / Article"
+      }
+    ]
+  },
+  {
+    "skill_name": "Functional Programming",
+    "resources": [
+      {
+        "title": "MDN FP Guide",
+        "type": "article",
+        "url": "https://developer.mozilla.org/en-US/docs/Glossary/Functional_programming",
+        "platform": "Official Documentation / Article"
+      },
+      {
+        "title": "FreeCodeCamp FP",
+        "type": "video",
+        "url": "https://www.youtube.com/watch?v=e-5obm1G_FY",
+        "platform": "YouTube / Video Platform"
+      }
+    ]
+  },
+  {
+    "skill_name": "Git",
+    "resources": [
+      {
+        "title": "Git and GitHub for Beginners - freeCodeCamp",
+        "type": "video",
+        "url": "https://www.youtube.com/watch?v=RGOj5yH7evk",
+        "platform": "YouTube"
+      },
+      {
+        "title": "FreeCodeCamp Git",
+        "type": "video",
+        "url": "https://www.youtube.com/watch?v=RGOj5yH7evk",
+        "platform": "YouTube / Video Platform"
+      },
+      {
+        "title": "Pro Git Book",
+        "type": "article",
+        "url": "https://git-scm.com/book/en/v2",
+        "platform": "Official Documentation / Article"
+      },
+      {
+        "title": "Learn Git Branching (Interactive)",
+        "type": "article",
+        "url": "https://learngitbranching.js.org/",
+        "platform": "Interactive Tutorial"
+      },
+      {
+        "title": "Git Official Reference Documentation",
+        "type": "article",
+        "url": "https://git-scm.com/doc",
+        "platform": "Official Documentation"
+      },
+      {
+        "title": "Git Tutorial for Beginners - Programming with Mosh",
+        "type": "video",
+        "url": "https://www.youtube.com/watch?v=8JJ101D3knE",
+        "platform": "YouTube / Programming with Mosh"
+      },
+      {
+        "title": "Pro Git Book (Free)",
+        "type": "article",
+        "url": "https://git-scm.com/book/en/v2",
+        "platform": "Official Book"
+      }
+    ]
+  },
+  {
+    "skill_name": "GitHub",
+    "resources": [
+      {
+        "title": "GitHub Docs",
+        "type": "article",
+        "url": "https://docs.github.com/en",
+        "platform": "Official Documentation / Article"
+      },
+      {
+        "title": "Traversy Media GitHub",
+        "type": "video",
+        "url": "https://www.youtube.com/watch?v=yVTnedU1U-0",
+        "platform": "YouTube / Video Platform"
+      }
+    ]
+  },
+  {
+    "skill_name": "GitHub Actions",
+    "resources": [
+      {
+        "title": "TechWorld with Nana Actions",
+        "type": "video",
+        "url": "https://www.youtube.com/watch?v=R8_veQiYBjI",
+        "platform": "YouTube / Video Platform"
+      },
+      {
+        "title": "GitHub Actions Guide",
+        "type": "article",
+        "url": "https://docs.github.com/en/actions",
+        "platform": "Official Documentation / Article"
+      }
+    ]
+  },
+  {
+    "skill_name": "GitLab",
+    "resources": [
+      {
+        "title": "GitLab CI/CD Guide",
+        "type": "article",
+        "url": "https://docs.gitlab.com/ee/ci/",
+        "platform": "Official Documentation / Article"
+      },
+      {
+        "title": "TechWorld with Nana GitLab",
+        "type": "video",
+        "url": "https://www.youtube.com/watch?v=qP8kilTQOzg",
+        "platform": "YouTube / Video Platform"
+      }
+    ]
+  },
+  {
+    "skill_name": "Go (Golang)",
+    "resources": [
+      {
+        "title": "Effective Go",
+        "type": "article",
+        "url": "https://go.dev/doc/effective_go",
+        "platform": "Official Documentation / Article"
+      },
+      {
+        "title": "FreeCodeCamp Go",
+        "type": "video",
+        "url": "https://www.youtube.com/watch?v=YS4e4q9oBaU",
+        "platform": "YouTube / Video Platform"
+      }
+    ]
+  },
+  {
+    "skill_name": "Google Ads",
+    "resources": [
+      {
+        "title": "Google Ads Tutorial for Beginners - Solutions 8",
+        "type": "video",
+        "url": "https://www.youtube.com/watch?v=Z3ND2dYMeH0",
+        "platform": "YouTube / Solutions 8"
+      },
+      {
+        "title": "Google Ads Help Center",
+        "type": "article",
+        "url": "https://support.google.com/google-ads",
+        "platform": "Google Ads Official Support"
+      }
+    ]
+  },
+  {
+    "skill_name": "Google Analytics",
+    "resources": [
+      {
+        "title": "Google Analytics 4 Tutorial for Beginners - Analytics Mania",
+        "type": "video",
+        "url": "https://www.youtube.com/watch?v=lnKLoT8UXOc",
+        "platform": "YouTube / Analytics Mania"
+      },
+      {
+        "title": "Google Analytics Developer Documentation",
+        "type": "article",
+        "url": "https://developers.google.com/analytics",
+        "platform": "Google Developers / Official Docs"
+      }
+    ]
+  },
+  {
+    "skill_name": "Google Cloud Platform (GCP)",
+    "resources": [
+      {
+        "title": "GCP Documentation",
+        "type": "article",
+        "url": "https://cloud.google.com/docs",
+        "platform": "Official Documentation / Article"
+      },
+      {
+        "title": "FreeCodeCamp GCP",
+        "type": "video",
+        "url": "https://www.youtube.com/watch?v=vReySEUMNV0",
+        "platform": "YouTube / Video Platform"
+      }
+    ]
+  },
+  {
+    "skill_name": "Grafana",
+    "resources": [
+      {
+        "title": "NetworkChuck Grafana",
+        "type": "video",
+        "url": "https://www.youtube.com/watch?v=i-_n7ee_u2E",
+        "platform": "YouTube / Video Platform"
+      },
+      {
+        "title": "Grafana Tutorial - TechWorld with Nana",
+        "type": "video",
+        "url": "https://www.youtube.com/watch?v=9TJx7QTrTyo",
+        "platform": "YouTube"
+      },
+      {
+        "title": "Grafana Docs",
+        "type": "article",
+        "url": "https://grafana.com/docs/",
+        "platform": "Official Documentation / Article"
+      },
+      {
+        "title": "Grafana Official Documentation",
+        "type": "article",
+        "url": "https://grafana.com/docs/",
+        "platform": "Official Documentation"
+      }
+    ]
+  },
+  {
+    "skill_name": "GraphQL",
+    "resources": [
+      {
+        "title": "GraphQL Crash Course - Traversy Media",
+        "type": "video",
+        "url": "https://www.youtube.com/watch?v=ed8SzALpx1Q",
+        "platform": "YouTube"
+      },
+      {
+        "title": "GraphQL Official Documentation",
+        "type": "article",
+        "url": "https://graphql.org/learn/",
+        "platform": "Official Documentation"
+      },
+      {
+        "title": "GraphQL Introduction",
+        "type": "article",
+        "url": "https://graphql.org/learn/",
+        "platform": "Official Documentation / Article"
+      },
+      {
+        "title": "FreeCodeCamp GraphQL",
+        "type": "video",
+        "url": "https://www.youtube.com/watch?v=ed8SzALpx1Q",
+        "platform": "YouTube / Video Platform"
+      }
+    ]
+  },
+  {
+    "skill_name": "GraphQL Concepts",
+    "resources": [
+      {
+        "title": "Fireship GraphQL",
+        "type": "video",
+        "url": "https://www.youtube.com/watch?v=eCGsq0cQCEU",
+        "platform": "YouTube / Video Platform"
+      },
+      {
+        "title": "GraphQL Introduction",
+        "type": "article",
+        "url": "https://graphql.org/learn/",
+        "platform": "Official Documentation / Article"
+      }
+    ]
+  },
+  {
+    "skill_name": "HTML5",
+    "resources": [
+      {
+        "title": "HTML Full Course - freeCodeCamp",
+        "type": "video",
+        "url": "https://www.youtube.com/watch?v=pQN-pnXPaVg",
+        "platform": "YouTube"
+      },
+      {
+        "title": "MDN HTML Guide",
+        "type": "article",
+        "url": "https://developer.mozilla.org/en-US/docs/Web/HTML",
+        "platform": "Official Documentation"
+      },
+      {
+        "title": "MDN HTML Structuring",
+        "type": "article",
+        "url": "https://developer.mozilla.org/en-US/docs/Learn/HTML",
+        "platform": "Official Documentation / Article"
+      },
+      {
+        "title": "FreeCodeCamp HTML",
+        "type": "video",
+        "url": "https://www.youtube.com/watch?v=pQN-pnXPaVg",
+        "platform": "YouTube / Video Platform"
+      }
+    ]
+  },
+  {
+    "skill_name": "HTTP/HTTPS Lifecycle",
+    "resources": [
+      {
+        "title": "Traversy Media HTTP",
+        "type": "video",
+        "url": "https://www.youtube.com/watch?v=iYM2zFP3Zn0",
+        "platform": "YouTube / Video Platform"
+      },
+      {
+        "title": "Roadmap.sh HTTP Guide",
+        "type": "article",
+        "url": "https://roadmap.sh/guides/journey-to-http-2",
+        "platform": "Official Documentation / Article"
+      }
+    ]
+  },
+  {
+    "skill_name": "Hadoop",
+    "resources": [
+      {
+        "title": "Hadoop Official Documentation",
+        "type": "article",
+        "url": "https://hadoop.apache.org/docs/stable/",
+        "platform": "Official Documentation"
+      },
+      {
+        "title": "Hadoop Tutorial - Edureka",
+        "type": "video",
+        "url": "https://www.youtube.com/watch?v=mafw2-CVYnA",
+        "platform": "YouTube"
+      }
+    ]
+  },
+  {
+    "skill_name": "ITIL Framework",
+    "resources": [
+      {
+        "title": "Atlassian ITIL Overview",
+        "type": "article",
+        "url": "https://www.atlassian.com/itsm/itil",
+        "platform": "Official Documentation / Article"
+      },
+      {
+        "title": "Simplilearn ITIL",
+        "type": "video",
+        "url": "https://www.youtube.com/watch?v=Z2MsbFB5VGw",
+        "platform": "YouTube / Video Platform"
+      }
+    ]
+  },
+  {
+    "skill_name": "Identity and Access Management (IAM)",
+    "resources": [
+      {
+        "title": "AWS IAM Concepts",
+        "type": "article",
+        "url": "https://docs.aws.amazon.com/IAM/latest/UserGuide/introduction.html",
+        "platform": "Official Documentation / Article"
+      },
+      {
+        "title": "FreeCodeCamp IAM",
+        "type": "video",
+        "url": "https://www.youtube.com/watch?v=5YFdUUvo7hM",
+        "platform": "YouTube / Video Platform"
+      }
+    ]
+  },
+  {
+    "skill_name": "Incident Response Planning",
+    "resources": [
+      {
+        "title": "Simplilearn Incident Mgt",
+        "type": "video",
+        "url": "https://www.youtube.com/watch?v=Z2MsbFB5VGw",
+        "platform": "YouTube / Video Platform"
+      },
+      {
+        "title": "CISA IR Lifecycle",
+        "type": "article",
+        "url": "https://www.cisa.gov/resources-tools/programs/Incident-Response-Training",
+        "platform": "Official Documentation / Article"
+      }
+    ]
+  },
+  {
+    "skill_name": "Insomnia",
+    "resources": [
+      {
+        "title": "Kong Insomnia Tutorial",
+        "type": "video",
+        "url": "https://www.youtube.com/watch?v=fzLPHpOP3Wc",
+        "platform": "YouTube / Video Platform"
+      },
+      {
+        "title": "Kong Insomnia Docs",
+        "type": "article",
+        "url": "https://docs.insomnia.rest/",
+        "platform": "Official Documentation / Article"
+      }
+    ]
+  },
+  {
+    "skill_name": "Java",
+    "resources": [
+      {
+        "title": "Oracle Java Tutorials",
+        "type": "article",
+        "url": "https://docs.oracle.com/javase/tutorial/",
+        "platform": "Official Documentation / Article"
+      },
+      {
+        "title": "Programming with Mosh Java",
+        "type": "video",
+        "url": "https://www.youtube.com/watch?v=eIrMbAQSU34",
+        "platform": "YouTube / Video Platform"
+      }
+    ]
+  },
+  {
+    "skill_name": "JavaScript",
+    "resources": [
+      {
+        "title": "JavaScript.info - Modern JavaScript Tutorial",
+        "type": "article",
+        "url": "https://javascript.info/",
+        "platform": "Tutorial Website"
+      },
+      {
+        "title": "JavaScript Crash Course - Traversy Media",
+        "type": "video",
+        "url": "https://www.youtube.com/watch?v=hdI2bqOjy3c",
+        "platform": "YouTube"
+      },
+      {
+        "title": "Eloquent JavaScript (Free Book)",
+        "type": "article",
+        "url": "https://eloquentjavascript.net/",
+        "platform": "Online Book"
+      },
+      {
+        "title": "MDN JavaScript Guide",
+        "type": "article",
+        "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide",
+        "platform": "Official Documentation / Article"
+      },
+      {
+        "title": "FreeCodeCamp JS Course",
+        "type": "video",
+        "url": "https://www.youtube.com/watch?v=PkZNo7MFOUg",
+        "platform": "YouTube / Video Platform"
+      }
+    ]
+  },
+  {
+    "skill_name": "Jenkins",
+    "resources": [
+      {
+        "title": "Jenkins Tutorial - TechWorld with Nana",
+        "type": "video",
+        "url": "https://www.youtube.com/watch?v=7KCS70sCoK0",
+        "platform": "YouTube"
+      },
+      {
+        "title": "Jenkins User Docs",
+        "type": "article",
+        "url": "https://www.jenkins.io/doc/",
+        "platform": "Official Documentation / Article"
+      },
+      {
+        "title": "Jenkins Official Documentation",
+        "type": "article",
+        "url": "https://www.jenkins.io/doc/",
+        "platform": "Official Documentation"
+      },
+      {
+        "title": "FreeCodeCamp Jenkins",
+        "type": "video",
+        "url": "https://www.youtube.com/watch?v=FX322RVNGj4",
+        "platform": "YouTube / Video Platform"
+      }
+    ]
+  },
+  {
+    "skill_name": "Jira",
+    "resources": [
+      {
+        "title": "Simplilearn Jira",
+        "type": "video",
+        "url": "https://www.youtube.com/watch?v=vV1kO08xUfs",
+        "platform": "YouTube / Video Platform"
+      },
+      {
+        "title": "Atlassian Jira Guides",
+        "type": "article",
+        "url": "https://www.atlassian.com/software/jira/guides",
+        "platform": "Official Documentation / Article"
+      }
+    ]
+  },
+  {
+    "skill_name": "Kanban",
+    "resources": [
+      {
+        "title": "Simplilearn Kanban",
+        "type": "video",
+        "url": "https://www.youtube.com/watch?v=BjdE6D-D1gI",
+        "platform": "YouTube / Video Platform"
+      },
+      {
+        "title": "Atlassian Kanban Guide",
+        "type": "article",
+        "url": "https://www.atlassian.com/agile/kanban",
+        "platform": "Official Documentation / Article"
+      }
+    ]
+  },
+  {
+    "skill_name": "Kibana",
+    "resources": [
+      {
+        "title": "TechWorld with Nana Kibana",
+        "type": "video",
+        "url": "https://www.youtube.com/watch?v=Vq_O2511-K0",
+        "platform": "YouTube / Video Platform"
+      },
+      {
+        "title": "Kibana Guide",
+        "type": "article",
+        "url": "https://www.elastic.co/guide/en/kibana/current/index.html",
+        "platform": "Official Documentation / Article"
+      }
+    ]
+  },
+  {
+    "skill_name": "Kotlin",
+    "resources": [
+      {
+        "title": "FreeCodeCamp Kotlin",
+        "type": "video",
+        "url": "https://www.youtube.com/watch?v=F9UC9tjQ3j0",
+        "platform": "YouTube / Video Platform"
+      },
+      {
+        "title": "Kotlin Getting Started",
+        "type": "article",
+        "url": "https://kotlinlang.org/docs/getting-started.html",
+        "platform": "Official Documentation / Article"
+      }
+    ]
+  },
+  {
+    "skill_name": "Kubernetes",
+    "resources": [
+      {
+        "title": "Kubernetes Official Documentation",
+        "type": "article",
+        "url": "https://kubernetes.io/docs/home/",
+        "platform": "Official Documentation"
+      },
+      {
+        "title": "FreeCodeCamp Kubernetes",
+        "type": "video",
+        "url": "https://www.youtube.com/watch?v=_4uQI4ihGVU",
+        "platform": "YouTube / Video Platform"
+      },
+      {
+        "title": "Kubernetes Concepts",
+        "type": "article",
+        "url": "https://kubernetes.io/docs/concepts/",
+        "platform": "Official Documentation / Article"
+      },
+      {
+        "title": "Kubernetes Tutorial for Beginners - TechWorld with Nana",
+        "type": "video",
+        "url": "https://www.youtube.com/watch?v=X48VuDVv0do",
+        "platform": "YouTube"
+      }
+    ]
+  },
+  {
+    "skill_name": "Laravel",
+    "resources": [
+      {
+        "title": "Laravel Deployment",
+        "type": "article",
+        "url": "https://laravel.com/docs",
+        "platform": "Official Documentation / Article"
+      },
+      {
+        "title": "Traversy Media Laravel",
+        "type": "video",
+        "url": "https://www.youtube.com/watch?v=MFh0Fd7BsjE",
+        "platform": "YouTube / Video Platform"
+      }
+    ]
+  },
+  {
+    "skill_name": "Leadership",
+    "resources": [
+      {
+        "title": "TED-Ed Leadership",
+        "type": "video",
+        "url": "https://www.youtube.com/watch?v=Lrma85k6fuc",
+        "platform": "YouTube / Video Platform"
+      },
+      {
+        "title": "CCL Leadership Skills",
+        "type": "article",
+        "url": "https://www.ccl.org/articles/leading-effectively-articles/soft-skill-development-the-human-skills-needed-for-success-at-every-leader-level/",
+        "platform": "Official Documentation / Article"
+      }
+    ]
+  },
+  {
+    "skill_name": "Linux",
+    "resources": [
+      {
+        "title": "Linux for Beginners - freeCodeCamp",
+        "type": "video",
+        "url": "https://www.youtube.com/watch?v=sWbUDq4S6Y8",
+        "platform": "YouTube"
+      },
+      {
+        "title": "Linux Journey",
+        "type": "article",
+        "url": "https://linuxjourney.com/",
+        "platform": "Interactive Tutorial"
+      }
+    ]
+  },
+  {
+    "skill_name": "Load Balancing Strategies",
+    "resources": [
+      {
+        "title": "ByteByteGo Load Balancing",
+        "type": "video",
+        "url": "https://www.youtube.com/watch?v=K0Ta65OqQkY",
+        "platform": "YouTube / Video Platform"
+      },
+      {
+        "title": "NGINX Load Balancing",
+        "type": "article",
+        "url": "https://docs.nginx.com/nginx/admin-guide/load-balancer/http-load-balancer/",
+        "platform": "Official Documentation / Article"
+      }
+    ]
+  },
+  {
+    "skill_name": "Logstash",
+    "resources": [
+      {
+        "title": "Simplilearn ELK Stack",
+        "type": "video",
+        "url": "https://www.youtube.com/watch?v=0hK27oPrtA4",
+        "platform": "YouTube / Video Platform"
+      },
+      {
+        "title": "Logstash Reference",
+        "type": "article",
+        "url": "https://www.elastic.co/guide/en/logstash/current/index.html",
+        "platform": "Official Documentation / Article"
+      }
+    ]
+  },
+  {
+    "skill_name": "MVC Architecture",
+    "resources": [
+      {
+        "title": "MDN MVC Concept",
+        "type": "article",
+        "url": "https://developer.mozilla.org/en-US/docs/Glossary/MVC",
+        "platform": "Official Documentation / Article"
+      },
+      {
+        "title": "FreeCodeCamp MVC",
+        "type": "video",
+        "url": "https://www.youtube.com/watch?v=DUg2SWWK18I",
+        "platform": "YouTube / Video Platform"
+      }
+    ]
+  },
+  {
+    "skill_name": "Machine Learning Lifecycle",
+    "resources": [
+      {
+        "title": "Machine Learning Course - Andrew Ng",
+        "type": "video",
+        "url": "https://www.youtube.com/playlist?list=PLkDaE6sCZn6FNC6YRfRQc_FbeQrF8BwGI",
+        "platform": "YouTube"
+      },
+      {
+        "title": "FreeCodeCamp Machine Learning",
+        "type": "video",
+        "url": "https://www.youtube.com/watch?v=i_LwzRmA_08",
+        "platform": "YouTube / Video Platform"
+      },
+      {
+        "title": "Machine Learning Crash Course - Google",
+        "type": "article",
+        "url": "https://developers.google.com/machine-learning/crash-course",
+        "platform": "Google Developers"
+      },
+      {
+        "title": "Google Cloud ML Lifecycle",
+        "type": "article",
+        "url": "https://cloud.google.com/architecture/ml-ops-continuous-delivery-and-automation-pipelines-in-machine-learning",
+        "platform": "Official Documentation / Article"
+      }
+    ]
+  },
+  {
+    "skill_name": "Mentoring & Coaching",
+    "resources": [
+      {
+        "title": "SkillsYouNeed Mentoring",
+        "type": "article",
+        "url": "https://www.skillsyouneed.com/learn/mentoring.html",
+        "platform": "Official Documentation / Article"
+      },
+      {
+        "title": "TEDx Great Mentor",
+        "type": "video",
+        "url": "https://www.youtube.com/watch?v=Mgi4Onnn1sc",
+        "platform": "YouTube / Video Platform"
+      }
+    ]
+  },
+  {
+    "skill_name": "Meta Ads",
+    "resources": [
+      {
+        "title": "Facebook Ads Tutorial for Beginners - Ben Heath",
+        "type": "video",
+        "url": "https://www.youtube.com/watch?v=NLuvzDGr3HM",
+        "platform": "YouTube / Ben Heath"
+      },
+      {
+        "title": "Meta Blueprint - Free Online Learning",
+        "type": "article",
+        "url": "https://www.facebook.com/business/learn",
+        "platform": "Meta Blueprint"
+      }
+    ]
+  },
+  {
+    "skill_name": "Metasploit",
+    "resources": [
+      {
+        "title": "HackerSploit Metasploit",
+        "type": "video",
+        "url": "https://www.youtube.com/watch?v=8lR27r8Y_ik",
+        "platform": "YouTube / Video Platform"
+      },
+      {
+        "title": "OffSec Metasploit Unleashed",
+        "type": "article",
+        "url": "https://www.offsec.com/metasploit-unleashed/",
+        "platform": "Official Documentation / Article"
+      }
+    ]
+  },
+  {
+    "skill_name": "Microservices Architecture",
+    "resources": [
+      {
+        "title": "FreeCodeCamp Microservices",
+        "type": "video",
+        "url": "https://www.youtube.com/watch?v=oB5ctmEwzG8",
+        "platform": "YouTube / Video Platform"
+      },
+      {
+        "title": "Martin Fowler Microservices",
+        "type": "article",
+        "url": "https://martinfowler.com/articles/microservices.html",
+        "platform": "Official Documentation / Article"
+      }
+    ]
+  },
+  {
+    "skill_name": "Microsoft Azure",
+    "resources": [
+      {
+        "title": "Azure Docs",
+        "type": "article",
+        "url": "https://learn.microsoft.com/en-us/azure/",
+        "platform": "Official Documentation / Article"
+      },
+      {
+        "title": "FreeCodeCamp Azure",
+        "type": "video",
+        "url": "https://www.youtube.com/watch?v=NKEFWyqJ5XA",
+        "platform": "YouTube / Video Platform"
+      }
+    ]
+  },
+  {
+    "skill_name": "MongoDB",
+    "resources": [
+      {
+        "title": "Web Dev Simplified MongoDB",
+        "type": "video",
+        "url": "https://www.youtube.com/watch?v=ofme2o29ngU",
+        "platform": "YouTube / Video Platform"
+      },
+      {
+        "title": "MongoDB Official Documentation",
+        "type": "article",
+        "url": "https://www.mongodb.com/docs/",
+        "platform": "Official Documentation"
+      },
+      {
+        "title": "MongoDB Crash Course - Traversy Media",
+        "type": "video",
+        "url": "https://www.youtube.com/watch?v=-56x56UppqQ",
+        "platform": "YouTube"
+      },
+      {
+        "title": "MongoDB Manual",
+        "type": "article",
+        "url": "https://www.mongodb.com/docs/manual/",
+        "platform": "Official Documentation / Article"
+      }
+    ]
+  },
+  {
+    "skill_name": "Mongoose",
+    "resources": [
+      {
+        "title": "Web Dev Simplified Mongoose",
+        "type": "video",
+        "url": "https://www.youtube.com/watch?v=DZBGEVgL2eE",
+        "platform": "YouTube / Video Platform"
+      },
+      {
+        "title": "Mongoose Quick Start",
+        "type": "article",
+        "url": "https://mongoosejs.com/docs/index.html",
+        "platform": "Official Documentation / Article"
+      }
+    ]
+  },
+  {
+    "skill_name": "Monolithic Architecture",
+    "resources": [
+      {
+        "title": "Atlassian Monolith vs Microservices",
+        "type": "article",
+        "url": "https://www.atlassian.com/microservices/microservices-architecture/microservices-vs-monolith",
+        "platform": "Official Documentation / Article"
+      },
+      {
+        "title": "IBM Technology Monolith",
+        "type": "video",
+        "url": "https://www.youtube.com/watch?v=Pj1_3i0K2k4",
+        "platform": "YouTube / Video Platform"
+      }
+    ]
+  },
+  {
+    "skill_name": "MySQL",
+    "resources": [
+      {
+        "title": "MySQL Reference Manual",
+        "type": "article",
+        "url": "https://dev.mysql.com/doc/",
+        "platform": "Official Documentation / Article"
+      },
+      {
+        "title": "FreeCodeCamp MySQL",
+        "type": "video",
+        "url": "https://www.youtube.com/watch?v=HXV3zeQKqGY",
+        "platform": "YouTube / Video Platform"
+      }
+    ]
+  },
+  {
+    "skill_name": "Natural Language Processing (NLP)",
+    "resources": [
+      {
+        "title": "Simplilearn NLP",
+        "type": "video",
+        "url": "https://www.youtube.com/watch?v=0Ooa3sXxc8U",
+        "platform": "YouTube / Video Platform"
+      },
+      {
+        "title": "IBM NLP Guide",
+        "type": "article",
+        "url": "https://www.ibm.com/topics/natural-language-processing",
+        "platform": "Official Documentation / Article"
+      }
+    ]
+  },
+  {
+    "skill_name": "Negotiation Skills",
+    "resources": [
+      {
+        "title": "SkillsYouNeed Negotiation",
+        "type": "article",
+        "url": "https://www.skillsyouneed.com/ips/negotiation.html",
+        "platform": "Official Documentation / Article"
+      },
+      {
+        "title": "Bob Bordone Negotiation",
+        "type": "video",
+        "url": "https://www.youtube.com/watch?v=2NqatMn4twU",
+        "platform": "YouTube / Video Platform"
+      }
+    ]
+  },
+  {
+    "skill_name": "Nessus",
+    "resources": [
+      {
+        "title": "NetworkChuck Nessus",
+        "type": "video",
+        "url": "https://www.youtube.com/watch?v=pse-ClBW1qU",
+        "platform": "YouTube / Video Platform"
+      },
+      {
+        "title": "Tenable Nessus User Guide",
+        "type": "article",
+        "url": "https://docs.tenable.com/nessus/",
+        "platform": "Official Documentation / Article"
+      }
+    ]
+  },
+  {
+    "skill_name": "NestJS",
+    "resources": [
+      {
+        "title": "Traversy Media NestJS",
+        "type": "video",
+        "url": "https://www.youtube.com/watch?v=GHTA143_b-s",
+        "platform": "YouTube / Video Platform"
+      },
+      {
+        "title": "NestJS Fundamentals",
+        "type": "article",
+        "url": "https://docs.nestjs.com/",
+        "platform": "Official Documentation / Article"
+      }
+    ]
+  },
+  {
+    "skill_name": "Netlify",
+    "resources": [
+      {
+        "title": "Netlify Documentation",
+        "type": "article",
+        "url": "https://docs.netlify.com/",
+        "platform": "Official Documentation / Article"
+      },
+      {
+        "title": "Traversy Media Netlify",
+        "type": "video",
+        "url": "https://www.youtube.com/watch?v=eB1qH8v7HQQ",
+        "platform": "YouTube / Video Platform"
+      }
+    ]
+  },
+  {
+    "skill_name": "Network Protocols (TCP/IP, UDP)",
+    "resources": [
+      {
+        "title": "FreeCodeCamp Protocols",
+        "type": "video",
+        "url": "https://www.youtube.com/watch?v=t9aAhuG0LkE",
+        "platform": "YouTube / Video Platform"
+      },
+      {
+        "title": "IBM TCP/IP Suite",
+        "type": "article",
+        "url": "https://www.ibm.com/docs/en/aix/7.2?topic=network-tcpip-protocols",
+        "platform": "Official Documentation / Article"
+      }
+    ]
+  },
+  {
+    "skill_name": "Next.js",
+    "resources": [
+      {
+        "title": "Next.js 14 Tutorial - Code with Antonio",
+        "type": "video",
+        "url": "https://www.youtube.com/watch?v=wm5gMKuwSYk",
+        "platform": "YouTube"
+      },
+      {
+        "title": "Next.js Official Documentation",
+        "type": "article",
+        "url": "https://nextjs.org/docs",
+        "platform": "Official Documentation"
+      },
+      {
+        "title": "Next.js Official Docs",
+        "type": "article",
+        "url": "https://nextjs.org/docs",
+        "platform": "Official Documentation / Article"
+      },
+      {
+        "title": "FreeCodeCamp Next.js",
+        "type": "video",
+        "url": "https://www.youtube.com/watch?v=wm5gMKuwSYk",
+        "platform": "YouTube / Video Platform"
+      }
+    ]
+  },
+  {
+    "skill_name": "Nginx",
+    "resources": [
+      {
+        "title": "Nginx Beginner's Guide",
+        "type": "article",
+        "url": "https://nginx.org/en/docs/beginners_guide.html",
+        "platform": "Official Documentation / Article"
+      },
+      {
+        "title": "FreeCodeCamp Nginx",
+        "type": "video",
+        "url": "https://www.youtube.com/watch?v=JKxlsvZXG7c",
+        "platform": "YouTube / Video Platform"
+      }
+    ]
+  },
+  {
+    "skill_name": "Nmap",
+    "resources": [
+      {
+        "title": "Nmap Network Scanning",
+        "type": "article",
+        "url": "https://nmap.org/book/",
+        "platform": "Official Documentation / Article"
+      },
+      {
+        "title": "HackerSploit Nmap",
+        "type": "video",
+        "url": "https://www.youtube.com/watch?v=4t4kBkMsDbQ",
+        "platform": "YouTube / Video Platform"
+      }
+    ]
+  },
+  {
+    "skill_name": "Node.js",
+    "resources": [
+      {
+        "title": "Node.js Tutorial - The Net Ninja",
+        "type": "video",
+        "url": "https://www.youtube.com/playlist?list=PL4cUxeGkcC9jsz4LDYc6kv3ymONOKxwBU",
+        "platform": "YouTube"
+      },
+      {
+        "title": "Programming with Mosh Node",
+        "type": "video",
+        "url": "https://www.youtube.com/watch?v=TlB_eWDSMt4",
+        "platform": "YouTube / Video Platform"
+      },
+      {
+        "title": "Node.js Official Docs",
+        "type": "article",
+        "url": "https://nodejs.org/docs/latest/api/",
+        "platform": "Official Documentation"
+      },
+      {
+        "title": "Node.js Getting Started",
+        "type": "article",
+        "url": "https://nodejs.org/en/learn/getting-started/introduction-to-nodejs",
+        "platform": "Official Documentation / Article"
+      },
+      {
+        "title": "Node.js Official API Documentation",
+        "type": "article",
+        "url": "https://nodejs.org/en/docs/",
+        "platform": "Official Documentation"
+      },
+      {
+        "title": "Node.js Crash Course - Traversy Media",
+        "type": "video",
+        "url": "https://www.youtube.com/watch?v=fBNz5xF-Kx4",
+        "platform": "YouTube / Traversy Media"
+      }
+    ]
+  },
+  {
+    "skill_name": "NumPy",
+    "resources": [
+      {
+        "title": "NumPy Official Documentation",
+        "type": "article",
+        "url": "https://numpy.org/doc/",
+        "platform": "Official Documentation"
+      },
+      {
+        "title": "NumPy Tutorial - freeCodeCamp",
+        "type": "video",
+        "url": "https://www.youtube.com/watch?v=QUT1VHiLmmI",
+        "platform": "YouTube"
+      }
+    ]
+  },
+  {
+    "skill_name": "Nuxt.js",
+    "resources": [
+      {
+        "title": "Nuxt 4 Documentation",
+        "type": "article",
+        "url": "https://nuxt.com/docs/4.x",
+        "platform": "Official Documentation / Article"
+      },
+      {
+        "title": "Traversy Media Nuxt",
+        "type": "video",
+        "url": "https://www.youtube.com/watch?v=RhZZ0whiuT8",
+        "platform": "YouTube / Video Platform"
+      }
+    ]
+  },
+  {
+    "skill_name": "OWASP Top 10",
+    "resources": [
+      {
+        "title": "OWASP Top 10 Official",
+        "type": "article",
+        "url": "https://owasp.org/www-project-top-ten/",
+        "platform": "OWASP Official"
+      },
+      {
+        "title": "OWASP Top 10 Explained - freeCodeCamp",
+        "type": "video",
+        "url": "https://www.youtube.com/watch?v=rWHvp7rUka8",
+        "platform": "YouTube"
+      },
+      {
+        "title": "OWASP Framework",
+        "type": "article",
+        "url": "https://owasp.org/Top10/",
+        "platform": "Official Documentation / Article"
+      },
+      {
+        "title": "FreeCodeCamp OWASP",
+        "type": "video",
+        "url": "https://www.youtube.com/watch?v=Z_k8I6gX-r0",
+        "platform": "YouTube / Video Platform"
+      }
+    ]
+  },
+  {
+    "skill_name": "Object-Oriented Programming (OOP)",
+    "resources": [
+      {
+        "title": "MDN OOP Concepts",
+        "type": "article",
+        "url": "https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Object-oriented_programming",
+        "platform": "Official Documentation / Article"
+      },
+      {
+        "title": "FreeCodeCamp OOP",
+        "type": "video",
+        "url": "https://www.youtube.com/watch?v=pTB0EiLXUC8",
+        "platform": "YouTube / Video Platform"
+      }
+    ]
+  },
+  {
+    "skill_name": "Operational Technology (OT) Security",
+    "resources": [
+      {
+        "title": "Introduction to ICS/SCADA Security",
+        "type": "video",
+        "url": "https://www.youtube.com/watch?v=5c0S1qTcQJQ",
+        "platform": "YouTube / SANS Institute"
+      },
+      {
+        "title": "NetworkChuck ICS & OT",
+        "type": "video",
+        "url": "https://www.youtube.com/watch?v=8QF_bRJUlHs",
+        "platform": "YouTube / Video Platform"
+      },
+      {
+        "title": "Dragos OT Security Guide",
+        "type": "article",
+        "url": "https://www.dragos.com/blog/implementing-zero-trust-in-operational-technology-ot-environments/",
+        "platform": "Official Documentation / Article"
+      },
+      {
+        "title": "Operational Technology (OT) Cybersecurity Guide",
+        "type": "article",
+        "url": "https://www.fortinet.com/resources/cyberglossary/ot-security",
+        "platform": "Fortinet / Industry Guide"
+      },
+      {
+        "title": "NIST Guide to Industrial Control Systems (ICS) Security",
+        "type": "article",
+        "url": "https://csrc.nist.gov/publications/detail/sp/800-82/rev-2/final",
+        "platform": "NIST (Official Standard)"
+      }
+    ]
+  },
+  {
+    "skill_name": "PHP",
+    "resources": [
+      {
+        "title": "FreeCodeCamp PHP",
+        "type": "video",
+        "url": "https://www.youtube.com/watch?v=OK_JCtrrv-c",
+        "platform": "YouTube / Video Platform"
+      },
+      {
+        "title": "PHP Official Manual",
+        "type": "article",
+        "url": "https://www.php.net/manual/en/",
+        "platform": "Official Documentation / Article"
+      }
+    ]
+  },
+  {
+    "skill_name": "PL/SQL",
+    "resources": [
+      {
+        "title": "ProgrammingKnowledge PL/SQL",
+        "type": "video",
+        "url": "https://www.youtube.com/watch?v=1F_E1w-P4-A",
+        "platform": "YouTube / Video Platform"
+      },
+      {
+        "title": "Oracle PL/SQL Guide",
+        "type": "article",
+        "url": "https://docs.oracle.com/cd/B19306_01/appdev.102/b14261/toc.htm",
+        "platform": "Official Documentation / Article"
+      }
+    ]
+  },
+  {
+    "skill_name": "Pandas",
+    "resources": [
+      {
+        "title": "Pandas Official User Guide",
+        "type": "article",
+        "url": "https://pandas.pydata.org/docs/user_guide/index.html",
+        "platform": "Official Documentation"
+      },
+      {
+        "title": "Pandas Tutorial - Corey Schafer",
+        "type": "video",
+        "url": "https://www.youtube.com/playlist?list=PL-osiE80TeTsWmV9i9c58mdDCSskIFdDS",
+        "platform": "YouTube"
+      },
+      {
+        "title": "Pandas Official Documentation",
+        "type": "article",
+        "url": "https://pandas.pydata.org/docs/",
+        "platform": "Official Documentation"
+      },
+      {
+        "title": "Pandas Tutorial Series - Corey Schafer",
+        "type": "video",
+        "url": "https://www.youtube.com/watch?v=ZyhVh-qRZPA",
+        "platform": "YouTube / Corey Schafer"
+      }
+    ]
+  },
+  {
+    "skill_name": "Penetration Testing Methodologies",
+    "resources": [
+      {
+        "title": "The Cyber Mentor Pentesting",
+        "type": "video",
+        "url": "https://www.youtube.com/watch?v=3Kq1MIfTWCE",
+        "platform": "YouTube / Video Platform"
+      },
+      {
+        "title": "PTES Standard",
+        "type": "article",
+        "url": "http://www.pentest-standard.org/",
+        "platform": "Official Documentation / Article"
+      }
+    ]
+  },
+  {
+    "skill_name": "PostgreSQL",
+    "resources": [
+      {
+        "title": "FreeCodeCamp PostgreSQL",
+        "type": "video",
+        "url": "https://www.youtube.com/watch?v=qw--VYLpxG4",
+        "platform": "YouTube / Video Platform"
+      },
+      {
+        "title": "PostgreSQL Official Documentation",
+        "type": "article",
+        "url": "https://www.postgresql.org/docs/",
+        "platform": "Official Documentation"
+      },
+      {
+        "title": "PostgreSQL Tutorial - freeCodeCamp",
+        "type": "video",
+        "url": "https://www.youtube.com/watch?v=qw--VYLpxG4",
+        "platform": "YouTube"
+      },
+      {
+        "title": "PostgreSQL Tutorial",
+        "type": "article",
+        "url": "https://www.postgresql.org/docs/current/tutorial.html",
+        "platform": "Official Documentation / Article"
+      }
+    ]
+  },
+  {
+    "skill_name": "Postman",
+    "resources": [
+      {
+        "title": "Postman Learning Center",
+        "type": "article",
+        "url": "https://learning.postman.com/docs/",
+        "platform": "Official Documentation / Article"
+      },
+      {
+        "title": "FreeCodeCamp Postman",
+        "type": "video",
+        "url": "https://www.youtube.com/watch?v=VywxIQ2ZXw4",
+        "platform": "YouTube / Video Platform"
+      }
+    ]
+  },
+  {
+    "skill_name": "Power BI",
+    "resources": [
+      {
+        "title": "Power BI Tutorial for Beginners - Guy in a Cube",
+        "type": "video",
+        "url": "https://www.youtube.com/watch?v=AGrl-H87pRU",
+        "platform": "YouTube / Guy in a Cube"
+      },
+      {
+        "title": "Get Started with Power BI Desktop - Microsoft Learn",
+        "type": "article",
+        "url": "https://learn.microsoft.com/en-us/power-bi/fundamentals/desktop-getting-started",
+        "platform": "Microsoft Learn"
+      }
+    ]
+  },
+  {
+    "skill_name": "PowerShell",
+    "resources": [
+      {
+        "title": "Microsoft PowerShell Docs",
+        "type": "article",
+        "url": "https://learn.microsoft.com/en-us/powershell/",
+        "platform": "Official Documentation / Article"
+      },
+      {
+        "title": "FreeCodeCamp PowerShell",
+        "type": "video",
+        "url": "https://www.youtube.com/watch?v=UVUd9_k9C6A",
+        "platform": "YouTube / Video Platform"
+      }
+    ]
+  },
+  {
+    "skill_name": "Presentation & Public Speaking",
+    "resources": [
+      {
+        "title": "TED-Ed Public Speaking",
+        "type": "video",
+        "url": "https://www.youtube.com/watch?v=Lrma85k6fuc",
+        "platform": "YouTube / Video Platform"
+      },
+      {
+        "title": "SkillsYouNeed Presentation",
+        "type": "article",
+        "url": "https://www.skillsyouneed.com/presentation-skills.html",
+        "platform": "Official Documentation / Article"
+      }
+    ]
+  },
+  {
+    "skill_name": "Prisma ORM",
+    "resources": [
+      {
+        "title": "Web Dev Simplified Prisma",
+        "type": "video",
+        "url": "https://www.youtube.com/watch?v=RebA5J-rlwg",
+        "platform": "YouTube / Video Platform"
+      },
+      {
+        "title": "Prisma Introduction",
+        "type": "article",
+        "url": "https://www.prisma.io/docs",
+        "platform": "Official Documentation / Article"
+      }
+    ]
+  },
+  {
+    "skill_name": "Problem Solving",
+    "resources": [
+      {
+        "title": "TEDx Problem Solving",
+        "type": "video",
+        "url": "https://www.youtube.com/watch?v=SFdSUHslLhU",
+        "platform": "YouTube / Video Platform"
+      },
+      {
+        "title": "MindTools Problem Solving",
+        "type": "article",
+        "url": "https://www.mindtools.com/pages/article/newTMC_00.htm",
+        "platform": "Official Documentation / Article"
+      }
+    ]
+  },
+  {
+    "skill_name": "Prometheus",
+    "resources": [
+      {
+        "title": "TechWorld with Nana Prom",
+        "type": "video",
+        "url": "https://www.youtube.com/watch?v=h4Sl21AKiDg",
+        "platform": "YouTube / Video Platform"
+      },
+      {
+        "title": "Prometheus Official Documentation",
+        "type": "article",
+        "url": "https://prometheus.io/docs/introduction/overview/",
+        "platform": "Official Documentation"
+      },
+      {
+        "title": "Prometheus Documentation",
+        "type": "article",
+        "url": "https://prometheus.io/docs/introduction/overview/",
+        "platform": "Official Documentation / Article"
+      },
+      {
+        "title": "Prometheus Monitoring Tutorial - TechWorld with Nana",
+        "type": "video",
+        "url": "https://www.youtube.com/watch?v=h4Sl21AKiDg",
+        "platform": "YouTube"
+      }
+    ]
+  },
+  {
+    "skill_name": "Prompt Engineering",
+    "resources": [
+      {
+        "title": "IBM Prompt Engineering",
+        "type": "article",
+        "url": "https://www.ibm.com/think/prompt-engineering",
+        "platform": "Official Documentation / Article"
+      },
+      {
+        "title": "FreeCodeCamp Prompt Eng",
+        "type": "video",
+        "url": "https://www.youtube.com/watch?v=d0ghohL5Z2c",
+        "platform": "YouTube / Video Platform"
+      }
+    ]
+  },
+  {
+    "skill_name": "Prototyping",
+    "resources": [
+      {
+        "title": "Figma Prototyping Tutorial - Official Figma",
+        "type": "video",
+        "url": "https://www.youtube.com/watch?v=PaPr4EjEuMk",
+        "platform": "YouTube / Figma"
+      },
+      {
+        "title": "Prototyping in Figma - Official Documentation",
+        "type": "article",
+        "url": "https://help.figma.com/hc/en-us/categories/360002051613-Prototyping",
+        "platform": "Figma Official Docs"
+      }
+    ]
+  },
+  {
+    "skill_name": "PyTorch",
+    "resources": [
+      {
+        "title": "PyTorch Tutorial - freeCodeCamp",
+        "type": "video",
+        "url": "https://www.youtube.com/watch?v=V_xro1bcAuA",
+        "platform": "YouTube"
+      },
+      {
+        "title": "PyTorch Official Documentation",
+        "type": "article",
+        "url": "https://pytorch.org/docs/stable/index.html",
+        "platform": "Official Documentation"
+      }
+    ]
+  },
+  {
+    "skill_name": "Python",
+    "resources": [
+      {
+        "title": "Python 3 Official Tutorial",
+        "type": "article",
+        "url": "https://docs.python.org/3/tutorial/index.html",
+        "platform": "Official Documentation / Article"
+      },
+      {
+        "title": "Python Official Tutorial",
+        "type": "article",
+        "url": "https://docs.python.org/3/tutorial/",
+        "platform": "Official Documentation"
+      },
+      {
+        "title": "Automate the Boring Stuff with Python",
+        "type": "article",
+        "url": "https://automatetheboringstuff.com/",
+        "platform": "Online Book"
+      },
+      {
+        "title": "Python for Beginners - Programming with Mosh",
+        "type": "video",
+        "url": "https://www.youtube.com/watch?v=_uQrJ0TkZlc",
+        "platform": "YouTube"
+      },
+      {
+        "title": "FreeCodeCamp Python",
+        "type": "video",
+        "url": "https://www.youtube.com/watch?v=eWRfhZUzrAc",
+        "platform": "YouTube / Video Platform"
+      }
+    ]
+  },
+  {
+    "skill_name": "Qualys",
+    "resources": [
+      {
+        "title": "Qualys Documentation",
+        "type": "article",
+        "url": "https://www.qualys.com/documentation/",
+        "platform": "Official Documentation / Article"
+      },
+      {
+        "title": "TopTechCourses Qualys",
+        "type": "video",
+        "url": "https://www.youtube.com/watch?v=Q337Nl8T9D8",
+        "platform": "YouTube / Video Platform"
+      }
+    ]
+  },
+  {
+    "skill_name": "REST API",
+    "resources": [
+      {
+        "title": "REST API Design Best Practices - FreeCodeCamp",
+        "type": "article",
+        "url": "https://www.freecodecamp.org/news/rest-api-design-best-practices-build-a-rest-api/",
+        "platform": "FreeCodeCamp / Article"
+      },
+      {
+        "title": "APIs for Beginners - FreeCodeCamp",
+        "type": "video",
+        "url": "https://www.youtube.com/watch?v=GZvSYJDk-us",
+        "platform": "YouTube / FreeCodeCamp"
+      }
+    ]
+  },
+  {
+    "skill_name": "RESTful API Architecture",
+    "resources": [
+      {
+        "title": "FreeCodeCamp REST API",
+        "type": "video",
+        "url": "https://www.youtube.com/watch?v=-MTSQjw5DrM",
+        "platform": "YouTube / Video Platform"
+      },
+      {
+        "title": "Microsoft API Design",
+        "type": "article",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/best-practices/api-design",
+        "platform": "Official Documentation / Article"
+      }
+    ]
+  },
+  {
+    "skill_name": "RabbitMQ",
+    "resources": [
+      {
+        "title": "RabbitMQ Tutorials",
+        "type": "article",
+        "url": "https://www.rabbitmq.com/getstarted.html",
+        "platform": "Official Documentation / Article"
+      },
+      {
+        "title": "Fireship RabbitMQ",
+        "type": "video",
+        "url": "https://www.youtube.com/watch?v=CjieEOmihZE",
+        "platform": "YouTube / Video Platform"
+      }
+    ]
+  },
+  {
+    "skill_name": "React Native",
+    "resources": [
+      {
+        "title": "React Native Official Docs",
+        "type": "article",
+        "url": "https://reactnative.dev/docs/getting-started",
+        "platform": "Official Documentation"
+      },
+      {
+        "title": "React Native Tutorial - Programming with Mosh",
+        "type": "video",
+        "url": "https://www.youtube.com/watch?v=0-S5a0eXPoc",
+        "platform": "YouTube"
+      },
+      {
+        "title": "React Native Docs",
+        "type": "article",
+        "url": "https://reactnative.dev/docs/getting-started",
+        "platform": "Official Documentation / Article"
+      },
+      {
+        "title": "Programming with Mosh RN",
+        "type": "video",
+        "url": "https://www.youtube.com/watch?v=0-S5a0eXPoc",
+        "platform": "YouTube / Video Platform"
+      }
+    ]
+  },
+  {
+    "skill_name": "React.js",
+    "resources": [
+      {
+        "title": "React Course - freeCodeCamp",
+        "type": "video",
+        "url": "https://www.youtube.com/watch?v=bMknfKXIFA8",
+        "platform": "YouTube"
+      },
+      {
+        "title": "React Tutorial - W3Schools",
+        "type": "article",
+        "url": "https://www.w3schools.com/react/",
+        "platform": "Tutorial Website"
+      },
+      {
+        "title": "React.dev Quick Start",
+        "type": "article",
+        "url": "https://react.dev/learn",
+        "platform": "Official Documentation / Article"
+      },
+      {
+        "title": "FreeCodeCamp React",
+        "type": "video",
+        "url": "https://www.youtube.com/watch?v=bMknfKXIFA8",
+        "platform": "YouTube / Video Platform"
+      },
+      {
+        "title": "React Official Documentation",
+        "type": "article",
+        "url": "https://react.dev/",
+        "platform": "Official Documentation"
+      }
+    ]
+  },
+  {
+    "skill_name": "Redis",
+    "resources": [
+      {
+        "title": "Redis Crash Course - Traversy Media",
+        "type": "video",
+        "url": "https://www.youtube.com/watch?v=jgpVdJB2sKQ",
+        "platform": "YouTube"
+      },
+      {
+        "title": "Traversy Media Redis",
+        "type": "video",
+        "url": "https://www.youtube.com/watch?v=jgpVdJB2sKQ",
+        "platform": "YouTube / Video Platform"
+      },
+      {
+        "title": "Redis Documentation",
+        "type": "article",
+        "url": "https://redis.io/docs/",
+        "platform": "Official Documentation / Article"
+      },
+      {
+        "title": "Redis Official Documentation",
+        "type": "article",
+        "url": "https://redis.io/docs/",
+        "platform": "Official Documentation"
+      }
+    ]
+  },
+  {
+    "skill_name": "Redux",
+    "resources": [
+      {
+        "title": "FreeCodeCamp Redux",
+        "type": "video",
+        "url": "https://www.youtube.com/watch?v=zrs7u6bdbUw",
+        "platform": "YouTube / Video Platform"
+      },
+      {
+        "title": "Redux Core Concepts",
+        "type": "article",
+        "url": "https://redux.js.org/tutorials/fundamentals/part-1-overview",
+        "platform": "Official Documentation / Article"
+      }
+    ]
+  },
+  {
+    "skill_name": "Redux / State Management",
+    "resources": [
+      {
+        "title": "Web Dev Simplified State",
+        "type": "video",
+        "url": "https://www.youtube.com/watch?v=-bZAafvGNMA",
+        "platform": "YouTube / Video Platform"
+      },
+      {
+        "title": "React State Management",
+        "type": "article",
+        "url": "https://react.dev/learn/managing-state",
+        "platform": "Official Documentation / Article"
+      },
+      {
+        "title": "Redux Toolkit Official Documentation",
+        "type": "article",
+        "url": "https://redux-toolkit.js.org/introduction/getting-started",
+        "platform": "Official Documentation"
+      },
+      {
+        "title": "Redux Toolkit Tutorial - Web Dev Simplified",
+        "type": "video",
+        "url": "https://www.youtube.com/watch?v=iBUJVy8phqw",
+        "platform": "YouTube / Web Dev Simplified"
+      }
+    ]
+  },
+  {
+    "skill_name": "Responsive Web Design",
+    "resources": [
+      {
+        "title": "FreeCodeCamp RWD",
+        "type": "video",
+        "url": "https://www.youtube.com/watch?v=srvUrASNj0s",
+        "platform": "YouTube / Video Platform"
+      },
+      {
+        "title": "MDN Responsive Design",
+        "type": "article",
+        "url": "https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Responsive_Design",
+        "platform": "Official Documentation / Article"
+      }
+    ]
+  },
+  {
+    "skill_name": "Ruby",
+    "resources": [
+      {
+        "title": "FreeCodeCamp Ruby",
+        "type": "video",
+        "url": "https://www.youtube.com/watch?v=t_ispmWmdjY",
+        "platform": "YouTube / Video Platform"
+      },
+      {
+        "title": "Ruby in 20 Minutes",
+        "type": "article",
+        "url": "https://www.ruby-lang.org/en/documentation/quickstart/",
+        "platform": "Official Documentation / Article"
+      }
+    ]
+  },
+  {
+    "skill_name": "Ruby on Rails",
+    "resources": [
+      {
+        "title": "Active Record Basics",
+        "type": "article",
+        "url": "https://guides.rubyonrails.org/active_record_basics.html",
+        "platform": "Official Documentation / Article"
+      },
+      {
+        "title": "Traversy Media Rails",
+        "type": "video",
+        "url": "https://www.youtube.com/watch?v=B3Fbpc8EEqw",
+        "platform": "YouTube / Video Platform"
+      }
+    ]
+  },
+  {
+    "skill_name": "Rust",
+    "resources": [
+      {
+        "title": "The Rust Programming Book",
+        "type": "article",
+        "url": "https://doc.rust-lang.org/book/",
+        "platform": "Official Documentation / Article"
+      },
+      {
+        "title": "Traversy Media Rust",
+        "type": "video",
+        "url": "https://www.youtube.com/watch?v=zF34dRivLOw",
+        "platform": "YouTube / Video Platform"
+      }
+    ]
+  },
+  {
+    "skill_name": "SEO",
+    "resources": [
+      {
+        "title": "Google Search Central SEO",
+        "type": "article",
+        "url": "https://developers.google.com/search/docs/fundamentals/seo-starter-guide",
+        "platform": "Official Documentation / Article"
+      },
+      {
+        "title": "FreeCodeCamp SEO",
+        "type": "video",
+        "url": "https://www.youtube.com/watch?v=xsVTqzcsb5Q",
+        "platform": "YouTube / Video Platform"
+      }
+    ]
+  },
+  {
+    "skill_name": "SOLID Principles",
+    "resources": [
+      {
+        "title": "DigitalOcean SOLID",
+        "type": "article",
+        "url": "https://www.digitalocean.com/community/conceptual-articles/s-o-l-i-d-the-first-five-principles-of-object-oriented-design",
+        "platform": "Official Documentation / Article"
+      },
+      {
+        "title": "FreeCodeCamp SOLID",
+        "type": "video",
+        "url": "https://www.youtube.com/watch?v=txZqSZWU9AQ",
+        "platform": "YouTube / Video Platform"
+      }
+    ]
+  },
+  {
+    "skill_name": "SQL",
+    "resources": [
+      {
+        "title": "FreeCodeCamp SQL",
+        "type": "video",
+        "url": "https://www.youtube.com/watch?v=HXV3zeQKqGY",
+        "platform": "YouTube / Video Platform"
+      },
+      {
+        "title": "W3Schools SQL Tutorial",
+        "type": "article",
+        "url": "https://www.w3schools.com/sql/",
+        "platform": "Official Documentation / Article"
+      },
+      {
+        "title": "SQL for Beginners - Programming with Mosh",
+        "type": "video",
+        "url": "https://www.youtube.com/watch?v=7S_tz1z_5bA",
+        "platform": "YouTube"
+      },
+      {
+        "title": "SQLBolt - Interactive SQL Tutorial",
+        "type": "article",
+        "url": "https://sqlbolt.com/",
+        "platform": "Interactive Tutorial"
+      },
+      {
+        "title": "SQL Tutorial - W3Schools",
+        "type": "article",
+        "url": "https://www.w3schools.com/sql/",
+        "platform": "Tutorial Website"
+      }
+    ]
+  },
+  {
+    "skill_name": "Sass/SCSS",
+    "resources": [
+      {
+        "title": "FreeCodeCamp Sass",
+        "type": "video",
+        "url": "https://www.youtube.com/watch?v=_a5j7KoflTs",
+        "platform": "YouTube / Video Platform"
+      },
+      {
+        "title": "Sass Basics",
+        "type": "article",
+        "url": "https://sass-lang.com/guide",
+        "platform": "Official Documentation / Article"
+      }
+    ]
+  },
+  {
+    "skill_name": "Scikit-learn",
+    "resources": [
+      {
+        "title": "Scikit-learn Official Documentation",
+        "type": "article",
+        "url": "https://scikit-learn.org/stable/documentation.html",
+        "platform": "Official Documentation"
+      },
+      {
+        "title": "Scikit-learn Tutorial - freeCodeCamp",
+        "type": "video",
+        "url": "https://www.youtube.com/watch?v=0B5eIE_1vpU",
+        "platform": "YouTube"
+      }
+    ]
+  },
+  {
+    "skill_name": "Scrum Framework",
+    "resources": [
+      {
+        "title": "Scrum Tutorial - freeCodeCamp",
+        "type": "video",
+        "url": "https://www.youtube.com/watch?v=9TycLR0TqFA",
+        "platform": "YouTube"
+      },
+      {
+        "title": "Scrum Guide (Official)",
+        "type": "article",
+        "url": "https://scrumguides.org/",
+        "platform": "Official Guide"
+      },
+      {
+        "title": "FreeCodeCamp Scrum",
+        "type": "video",
+        "url": "https://www.youtube.com/watch?v=TRcReyRYIMg",
+        "platform": "YouTube / Video Platform"
+      },
+      {
+        "title": "Scrum Guide",
+        "type": "article",
+        "url": "https://scrumguides.org/scrum-guide.html",
+        "platform": "Official Documentation / Article"
+      }
+    ]
+  },
+  {
+    "skill_name": "Sequelize",
+    "resources": [
+      {
+        "title": "Sequelize Getting Started",
+        "type": "article",
+        "url": "https://sequelize.org/docs/v6/getting-started/",
+        "platform": "Official Documentation / Article"
+      },
+      {
+        "title": "Traversy Media Sequelize",
+        "type": "video",
+        "url": "https://www.youtube.com/watch?v=qsDvJrGMSINw",
+        "platform": "YouTube / Video Platform"
+      }
+    ]
+  },
+  {
+    "skill_name": "Serverless Computing Concepts",
+    "resources": [
+      {
+        "title": "FreeCodeCamp Serverless",
+        "type": "video",
+        "url": "https://www.youtube.com/watch?v=vxjobLqB_f0",
+        "platform": "YouTube / Video Platform"
+      },
+      {
+        "title": "AWS Serverless Architectures",
+        "type": "article",
+        "url": "https://aws.amazon.com/serverless/",
+        "platform": "Official Documentation / Article"
+      }
+    ]
+  },
+  {
+    "skill_name": "Social Media Marketing",
+    "resources": [
+      {
+        "title": "Social Media Marketing Free Course - HubSpot Academy",
+        "type": "article",
+        "url": "https://academy.hubspot.com/courses/social-media-marketing",
+        "platform": "HubSpot Academy"
+      },
+      {
+        "title": "Social Media Marketing Tutorial 2024 - HubSpot",
+        "type": "video",
+        "url": "https://www.youtube.com/watch?v=1C7U4R7AY-k",
+        "platform": "YouTube / HubSpot"
+      }
+    ]
+  },
+  {
+    "skill_name": "Spark",
+    "resources": [
+      {
+        "title": "Apache Spark Official Documentation",
+        "type": "article",
+        "url": "https://spark.apache.org/docs/latest/",
+        "platform": "Official Documentation"
+      },
+      {
+        "title": "Spark Tutorial - freeCodeCamp",
+        "type": "video",
+        "url": "https://www.youtube.com/watch?v=_C8kWso4ne4",
+        "platform": "YouTube"
+      }
+    ]
+  },
+  {
+    "skill_name": "Splunk",
+    "resources": [
+      {
+        "title": "FreeCodeCamp Splunk",
+        "type": "video",
+        "url": "https://www.youtube.com/watch?v=baFL6FhDknY",
+        "platform": "YouTube / Video Platform"
+      },
+      {
+        "title": "Splunk Training Free Courses",
+        "type": "article",
+        "url": "https://www.splunk.com/en_us/training.html",
+        "platform": "Official Documentation / Article"
+      }
+    ]
+  },
+  {
+    "skill_name": "Spring Boot",
+    "resources": [
+      {
+        "title": "FreeCodeCamp Spring Boot",
+        "type": "video",
+        "url": "https://www.youtube.com/watch?v=vtPkZShrvXQ",
+        "platform": "YouTube / Video Platform"
+      },
+      {
+        "title": "Spring Boot Reference",
+        "type": "article",
+        "url": "https://spring.io/projects/spring-boot",
+        "platform": "Official Documentation / Article"
+      }
+    ]
+  },
+  {
+    "skill_name": "Strategic Decision Making",
+    "resources": [
+      {
+        "title": "Simplilearn Strategic Thinking",
+        "type": "video",
+        "url": "https://www.youtube.com/watch?v=XAasi_9Ngqk",
+        "platform": "YouTube / Video Platform"
+      },
+      {
+        "title": "MindTools Decision Models",
+        "type": "article",
+        "url": "https://www.mindtools.com/pages/article/newTED_00.htm",
+        "platform": "Official Documentation / Article"
+      }
+    ]
+  },
+  {
+    "skill_name": "Stress Management & Resilience",
+    "resources": [
+      {
+        "title": "TEDx Stress Management",
+        "type": "video",
+        "url": "https://www.youtube.com/watch?v=SFdSUHslLhU",
+        "platform": "YouTube / Video Platform"
+      },
+      {
+        "title": "CCL Resilience Training",
+        "type": "article",
+        "url": "https://www.ccl.org/articles/leading-effectively-articles/building-resilience/",
+        "platform": "Official Documentation / Article"
+      }
+    ]
+  },
+  {
+    "skill_name": "Svelte",
+    "resources": [
+      {
+        "title": "Svelte Official Tutorial",
+        "type": "article",
+        "url": "https://svelte.dev/tutorial",
+        "platform": "Official Documentation / Article"
+      },
+      {
+        "title": "Traversy Media Svelte",
+        "type": "video",
+        "url": "https://www.youtube.com/watch?v=3TVy6GdtNuQ",
+        "platform": "YouTube / Video Platform"
+      }
+    ]
+  },
+  {
+    "skill_name": "Swift",
+    "resources": [
+      {
+        "title": "Swift.org Documentation",
+        "type": "article",
+        "url": "https://www.swift.org/documentation/",
+        "platform": "Official Documentation / Article"
+      },
+      {
+        "title": "FreeCodeCamp Swift",
+        "type": "video",
+        "url": "https://www.youtube.com/watch?v=comQ1-x2a1Q",
+        "platform": "YouTube / Video Platform"
+      }
+    ]
+  },
+  {
+    "skill_name": "System Design",
+    "resources": [
+      {
+        "title": "System Design Primer (GitHub)",
+        "type": "article",
+        "url": "https://github.com/donnemartin/system-design-primer",
+        "platform": "GitHub Repository"
+      },
+      {
+        "title": "Roadmap.sh System Design",
+        "type": "article",
+        "url": "https://roadmap.sh/system-design",
+        "platform": "Official Documentation / Article"
+      },
+      {
+        "title": "FreeCodeCamp System Design",
+        "type": "video",
+        "url": "https://www.youtube.com/watch?v=bBTPHL9NwCQ",
+        "platform": "YouTube / Video Platform"
+      },
+      {
+        "title": "System Design Interview - Gaurav Sen",
+        "type": "video",
+        "url": "https://www.youtube.com/playlist?list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX",
+        "platform": "YouTube"
+      }
+    ]
+  },
+  {
+    "skill_name": "Tableau",
+    "resources": [
+      {
+        "title": "Tableau Tutorial for Beginners - Kevin Stratvert",
+        "type": "video",
+        "url": "https://www.youtube.com/watch?v=jEgVto5QME8",
+        "platform": "YouTube / Kevin Stratvert"
+      },
+      {
+        "title": "Tableau Free Training Videos - Official",
+        "type": "article",
+        "url": "https://www.tableau.com/learn/training",
+        "platform": "Tableau Official"
+      }
+    ]
+  },
+  {
+    "skill_name": "Tailwind CSS",
+    "resources": [
+      {
+        "title": "Tailwind CSS Crash Course - Traversy Media",
+        "type": "video",
+        "url": "https://www.youtube.com/watch?v=UBOj6rqRUME",
+        "platform": "YouTube"
+      },
+      {
+        "title": "Tailwind CSS Official Docs",
+        "type": "article",
+        "url": "https://tailwindcss.com/docs",
+        "platform": "Official Documentation"
+      },
+      {
+        "title": "Tailwind Core Concepts",
+        "type": "article",
+        "url": "https://tailwindcss.com/docs/utility-first",
+        "platform": "Official Documentation / Article"
+      },
+      {
+        "title": "FreeCodeCamp Tailwind",
+        "type": "video",
+        "url": "https://www.youtube.com/watch?v=ft30zcMlFao",
+        "platform": "YouTube / Video Platform"
+      },
+      {
+        "title": "Tailwind CSS Official Documentation",
+        "type": "article",
+        "url": "https://tailwindcss.com/docs/installation",
+        "platform": "Official Documentation"
+      },
+      {
+        "title": "Tailwind CSS Full Course for Beginners - Dave Gray",
+        "type": "video",
+        "url": "https://www.youtube.com/watch?v=lCxcTsOHrjo",
+        "platform": "YouTube / Dave Gray"
+      }
+    ]
+  },
+  {
+    "skill_name": "Team Collaboration",
+    "resources": [
+      {
+        "title": "Open University Diverse Teams",
+        "type": "article",
+        "url": "https://www.open.edu/openlearn/money-business/working-diverse-teams/content-section-0",
+        "platform": "Official Documentation / Article"
+      },
+      {
+        "title": "Atlassian Collaboration",
+        "type": "video",
+        "url": "https://www.youtube.com/watch?v=4eW4Uroqe0w",
+        "platform": "YouTube / Video Platform"
+      }
+    ]
+  },
+  {
+    "skill_name": "TensorFlow",
+    "resources": [
+      {
+        "title": "TensorFlow Official Documentation",
+        "type": "article",
+        "url": "https://www.tensorflow.org/learn",
+        "platform": "Official Documentation"
+      },
+      {
+        "title": "TensorFlow 2.0 Complete Course - freeCodeCamp",
+        "type": "video",
+        "url": "https://www.youtube.com/watch?v=tPYj3fFJGjk",
+        "platform": "YouTube"
+      }
+    ]
+  },
+  {
+    "skill_name": "Terraform",
+    "resources": [
+      {
+        "title": "Terraform Course - freeCodeCamp",
+        "type": "video",
+        "url": "https://www.youtube.com/watch?v=SLB_c_ayRMo",
+        "platform": "YouTube"
+      },
+      {
+        "title": "Terraform Official Documentation",
+        "type": "article",
+        "url": "https://developer.hashicorp.com/terraform/docs",
+        "platform": "Official Documentation"
+      },
+      {
+        "title": "FreeCodeCamp Terraform",
+        "type": "video",
+        "url": "https://www.youtube.com/watch?v=7xngnjfIlK4",
+        "platform": "YouTube / Video Platform"
+      },
+      {
+        "title": "Terraform Introduction",
+        "type": "article",
+        "url": "https://developer.hashicorp.com/terraform/intro",
+        "platform": "Official Documentation / Article"
+      }
+    ]
+  },
+  {
+    "skill_name": "Test-Driven Development (TDD)",
+    "resources": [
+      {
+        "title": "FreeCodeCamp TDD",
+        "type": "video",
+        "url": "https://www.youtube.com/watch?v=Jv2uxzhPFl4",
+        "platform": "YouTube / Video Platform"
+      },
+      {
+        "title": "Agile Alliance TDD",
+        "type": "article",
+        "url": "https://www.agilealliance.org/glossary/tdd/",
+        "platform": "Official Documentation / Article"
+      }
+    ]
+  },
+  {
+    "skill_name": "Threat Modeling",
+    "resources": [
+      {
+        "title": "Google Cloud Threat Modeling",
+        "type": "video",
+        "url": "https://www.youtube.com/watch?v=oB1sKnOa6ZQ",
+        "platform": "YouTube / Video Platform"
+      },
+      {
+        "title": "OWASP Threat Modeling",
+        "type": "article",
+        "url": "https://owasp.org/www-community/Threat_Modeling",
+        "platform": "Official Documentation / Article"
+      }
+    ]
+  },
+  {
+    "skill_name": "Time Management",
+    "resources": [
+      {
+        "title": "SkillsYouNeed Time Management",
+        "type": "article",
+        "url": "https://www.skillsyouneed.com/ps/time-management.html",
+        "platform": "Official Documentation / Article"
+      },
+      {
+        "title": "FreeCodeCamp Time Management",
+        "type": "video",
+        "url": "https://www.youtube.com/watch?v=8glqLdVFYBI",
+        "platform": "YouTube / Video Platform"
+      }
+    ]
+  },
+  {
+    "skill_name": "Trello",
+    "resources": [
+      {
+        "title": "Atlassian Trello",
+        "type": "video",
+        "url": "https://www.youtube.com/watch?v=iE1T0oSjBjQ",
+        "platform": "YouTube / Video Platform"
+      },
+      {
+        "title": "Trello Guide",
+        "type": "article",
+        "url": "https://trello.com/guide",
+        "platform": "Official Documentation / Article"
+      }
+    ]
+  },
+  {
+    "skill_name": "TypeScript",
+    "resources": [
+      {
+        "title": "Programming with Mosh TS",
+        "type": "video",
+        "url": "https://www.youtube.com/watch?v=d56mG7DezGs",
+        "platform": "YouTube / Video Platform"
+      },
+      {
+        "title": "TypeScript Official Handbook",
+        "type": "article",
+        "url": "https://www.typescriptlang.org/docs/",
+        "platform": "Official Documentation / Article"
+      },
+      {
+        "title": "TypeScript Course - freeCodeCamp",
+        "type": "video",
+        "url": "https://www.youtube.com/watch?v=30LWjhZzg50",
+        "platform": "YouTube"
+      },
+      {
+        "title": "TypeScript Handbook",
+        "type": "article",
+        "url": "https://www.typescriptlang.org/docs/handbook/intro.html",
+        "platform": "Official Documentation"
+      }
+    ]
+  },
+  {
+    "skill_name": "UI Design Systems",
+    "resources": [
+      {
+        "title": "InVision Design Systems",
+        "type": "article",
+        "url": "https://xd.adobe.com/ideas/principles/design-systems/",
+        "platform": "Official Documentation / Article"
+      },
+      {
+        "title": "DesignCourse Design Systems",
+        "type": "video",
+        "url": "https://www.youtube.com/watch?v=ZfPBqfXUj3M",
+        "platform": "YouTube / Video Platform"
+      }
+    ]
+  },
+  {
+    "skill_name": "User Research",
+    "resources": [
+      {
+        "title": "UX Research Methods - Nielsen Norman Group",
+        "type": "video",
+        "url": "https://www.youtube.com/watch?v=Ovj_XjRllSI",
+        "platform": "YouTube / Nielsen Norman Group"
+      },
+      {
+        "title": "NN Group UX Research",
+        "type": "article",
+        "url": "https://www.nngroup.com/articles/ux-research-cheat-sheet/",
+        "platform": "Official Documentation / Article"
+      },
+      {
+        "title": "UX Research Methods Overview - Nielsen Norman Group",
+        "type": "article",
+        "url": "https://www.nngroup.com/articles/which-ux-research-methods/",
+        "platform": "Nielsen Norman Group"
+      },
+      {
+        "title": "FreeCodeCamp UX",
+        "type": "video",
+        "url": "https://www.youtube.com/watch?v=c9Wg6Cb_YlU",
+        "platform": "YouTube / Video Platform"
+      }
+    ]
+  },
+  {
+    "skill_name": "VMware/VirtualBox",
+    "resources": [
+      {
+        "title": "Oracle VirtualBox Manual",
+        "type": "article",
+        "url": "https://www.virtualbox.org/manual/",
+        "platform": "Official Documentation / Article"
+      },
+      {
+        "title": "NetworkChuck VirtualBox",
+        "type": "video",
+        "url": "https://www.youtube.com/watch?v=wX75Z-4MEoM",
+        "platform": "YouTube / Video Platform"
+      }
+    ]
+  },
+  {
+    "skill_name": "Verbal Communication",
+    "resources": [
+      {
+        "title": "Simerjeet Singh Communication",
+        "type": "video",
+        "url": "https://www.youtube.com/watch?v=Mgi4Onnn1sc",
+        "platform": "YouTube / Video Platform"
+      },
+      {
+        "title": "Alison Interpersonal Skills",
+        "type": "article",
+        "url": "https://alison.com/course/diploma-in-interpersonal-skills",
+        "platform": "Official Documentation / Article"
+      }
+    ]
+  },
+  {
+    "skill_name": "Vercel",
+    "resources": [
+      {
+        "title": "Traversy Media Vercel",
+        "type": "video",
+        "url": "https://www.youtube.com/watch?v=85JVKjW-uG0",
+        "platform": "YouTube / Video Platform"
+      },
+      {
+        "title": "Vercel Deployment Docs",
+        "type": "article",
+        "url": "https://vercel.com/docs",
+        "platform": "Official Documentation / Article"
+      }
+    ]
+  },
+  {
+    "skill_name": "Version Control Workflows (Git Flow)",
+    "resources": [
+      {
+        "title": "Atlassian Git Flow",
+        "type": "article",
+        "url": "https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow",
+        "platform": "Official Documentation / Article"
+      },
+      {
+        "title": "FreeCodeCamp Git Flow",
+        "type": "video",
+        "url": "https://www.youtube.com/watch?v=aJnFGMclhU8",
+        "platform": "YouTube / Video Platform"
+      }
+    ]
+  },
+  {
+    "skill_name": "Vite",
+    "resources": [
+      {
+        "title": "FreeCodeCamp Vite",
+        "type": "video",
+        "url": "https://www.youtube.com/watch?v=K1JoQv-FvEw",
+        "platform": "YouTube / Video Platform"
+      },
+      {
+        "title": "Vite Guide",
+        "type": "article",
+        "url": "https://vitejs.dev/guide/",
+        "platform": "Official Documentation / Article"
+      }
+    ]
+  },
+  {
+    "skill_name": "Vue.js",
+    "resources": [
+      {
+        "title": "Vue.js Official Guide",
+        "type": "article",
+        "url": "https://vuejs.org/guide/introduction.html",
+        "platform": "Official Documentation"
+      },
+      {
+        "title": "Vue.js Introduction",
+        "type": "article",
+        "url": "https://vuejs.org/guide/introduction.html",
+        "platform": "Official Documentation / Article"
+      },
+      {
+        "title": "FreeCodeCamp Vue",
+        "type": "video",
+        "url": "https://www.youtube.com/watch?v=FXpIoQ_rT_c",
+        "platform": "YouTube / Video Platform"
+      },
+      {
+        "title": "Vue.js Course - freeCodeCamp",
+        "type": "video",
+        "url": "https://www.youtube.com/watch?v=FXpIoQ_rT_c",
+        "platform": "YouTube"
+      }
+    ]
+  },
+  {
+    "skill_name": "Vulnerability Management",
+    "resources": [
+      {
+        "title": "NIST Vulnerability Guide",
+        "type": "article",
+        "url": "https://csrc.nist.gov/publications/detail/sp/800-40/version-2/archive/2005-10-24",
+        "platform": "Official Documentation / Article"
+      },
+      {
+        "title": "Simplilearn Vuln Management",
+        "type": "video",
+        "url": "https://www.youtube.com/watch?v=Q337Nl8T9D8",
+        "platform": "YouTube / Video Platform"
+      }
+    ]
+  },
+  {
+    "skill_name": "Web Accessibility (WCAG)",
+    "resources": [
+      {
+        "title": "W3C WCAG Guidelines",
+        "type": "article",
+        "url": "https://www.w3.org/WAI/standards-guidelines/wcag/",
+        "platform": "Official Documentation / Article"
+      },
+      {
+        "title": "Traversy Media WCAG",
+        "type": "video",
+        "url": "https://www.youtube.com/watch?v=20BofLku754",
+        "platform": "YouTube / Video Platform"
+      }
+    ]
+  },
+  {
+    "skill_name": "Webpack",
+    "resources": [
+      {
+        "title": "Webpack Concepts",
+        "type": "article",
+        "url": "https://webpack.js.org/concepts/",
+        "platform": "Official Documentation / Article"
+      },
+      {
+        "title": "Traversy Media Webpack",
+        "type": "video",
+        "url": "https://www.youtube.com/watch?v=CPQjK1kbbns",
+        "platform": "YouTube / Video Platform"
+      }
+    ]
+  },
+  {
+    "skill_name": "Wireframing",
+    "resources": [
+      {
+        "title": "UI Design Tutorial for Beginners - FreeCodeCamp",
+        "type": "video",
+        "url": "https://www.youtube.com/watch?v=qpH7-KFWZRI",
+        "platform": "YouTube / FreeCodeCamp"
+      },
+      {
+        "title": "The Definitive Guide to Wireframing - Flux Academy",
+        "type": "article",
+        "url": "https://www.flux-academy.com/blog/the-definitive-guide-to-wireframing",
+        "platform": "Flux Academy / Blog"
+      }
+    ]
+  },
+  {
+    "skill_name": "Wireshark",
+    "resources": [
+      {
+        "title": "Wireshark User Guide",
+        "type": "article",
+        "url": "https://www.wireshark.org/docs/wsug_html_chunked/",
+        "platform": "Official Documentation / Article"
+      },
+      {
+        "title": "FreeCodeCamp Wireshark",
+        "type": "video",
+        "url": "https://www.youtube.com/watch?v=1VmTk2UlpLY",
+        "platform": "YouTube / Video Platform"
+      }
+    ]
+  },
+  {
+    "skill_name": "Zero Trust Architecture",
+    "resources": [
+      {
+        "title": "Go Cloud Architects Zero Trust",
+        "type": "video",
+        "url": "https://www.youtube.com/watch?v=ELSbzCDdUQI",
+        "platform": "YouTube / Video Platform"
+      },
+      {
+        "title": "Microsoft Zero Trust Guidance",
+        "type": "article",
+        "url": "https://learn.microsoft.com/en-us/security/zero-trust/",
+        "platform": "Official Documentation / Article"
+      }
+    ]
+  },
+  {
+    "skill_name": "Zustand",
+    "resources": [
+      {
+        "title": "Zustand GitHub Docs",
+        "type": "article",
+        "url": "https://zustand-demo.pmnd.rs/",
+        "platform": "Official Documentation / Article"
+      },
+      {
+        "title": "Web Dev Simplified Zustand",
+        "type": "video",
+        "url": "https://www.youtube.com/watch?v=_VqZNjaTXE",
+        "platform": "YouTube / Video Platform"
+      }
+    ]
+  },
+  {
+    "skill_name": "jQuery",
+    "resources": [
+      {
+        "title": "jQuery Core Docs",
+        "type": "article",
+        "url": "https://learn.jquery.com/",
+        "platform": "Official Documentation / Article"
+      },
+      {
+        "title": "Traversy Media jQuery",
+        "type": "video",
+        "url": "https://www.youtube.com/watch?v=3nrLocccHxs",
+        "platform": "YouTube / Video Platform"
+      }
+    ]
+  },
+  {
+    "skill_name": "npm",
+    "resources": [
+      {
+        "title": "npm Documentation",
+        "type": "article",
+        "url": "https://docs.npmjs.com/",
+        "platform": "Official Documentation / Article"
+      },
+      {
+        "title": "Traversy Media npm",
+        "type": "video",
+        "url": "https://www.youtube.com/watch?v=jHDhaSSKmB0",
+        "platform": "YouTube / Video Platform"
+      }
+    ]
+  },
+  {
+    "skill_name": "pnpm",
+    "resources": [
+      {
+        "title": "pnpm Motivation",
+        "type": "article",
+        "url": "https://pnpm.io/motivation",
+        "platform": "Official Documentation / Article"
+      },
+      {
+        "title": "Fireship pnpm",
+        "type": "video",
+        "url": "https://www.youtube.com/watch?v=RbjE_3ZJtV8",
+        "platform": "YouTube / Video Platform"
+      }
+    ]
+  },
+  {
+    "skill_name": "yarn",
+    "resources": [
+      {
+        "title": "Yarn Docs",
+        "type": "article",
+        "url": "https://classic.yarnpkg.com/en/docs/",
+        "platform": "Official Documentation / Article"
+      },
+      {
+        "title": "Academind Yarn",
+        "type": "video",
+        "url": "https://www.youtube.com/watch?v=g9_6KmiB8Mg",
+        "platform": "YouTube / Video Platform"
+      }
+    ]
+  }
+]

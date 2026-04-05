@@ -1,0 +1,1574 @@
+[
+  {
+    "name": "A/B Testing",
+    "category": "knowledge"
+  },
+  {
+    "name": "Accessibility (WCAG)",
+    "category": "knowledge"
+  },
+  {
+    "name": "ACID Properties",
+    "category": "knowledge"
+  },
+  {
+    "name": "Active Listening",
+    "category": "soft_skill"
+  },
+  {
+    "name": "Adaptability & Flexibility",
+    "category": "soft_skill"
+  },
+  {
+    "name": "Adobe XD",
+    "category": "tools"
+  },
+  {
+    "name": "Agile Methodology",
+    "category": "knowledge"
+  },
+  {
+    "name": "Agile Release Train",
+    "category": "knowledge"
+  },
+  {
+    "name": "Agile Scrum",
+    "category": "knowledge"
+  },
+  {
+    "name": "Algorithmic Trading Strategies",
+    "category": "knowledge"
+  },
+  {
+    "name": "Analytical Thinking",
+    "category": "soft_skill"
+  },
+  {
+    "name": "Android Development (Kotlin)",
+    "category": "programming"
+  },
+  {
+    "name": "Angular",
+    "category": "programming"
+  },
+  {
+    "name": "Animation Libraries (Framer Motion)",
+    "category": "programming"
+  },
+  {
+    "name": "Anomaly Detection",
+    "category": "knowledge"
+  },
+  {
+    "name": "Ansible",
+    "category": "tools"
+  },
+  {
+    "name": "Apache HTTP Server",
+    "category": "tools"
+  },
+  {
+    "name": "Apache Kafka",
+    "category": "tools"
+  },
+  {
+    "name": "API Design Best Practices",
+    "category": "knowledge"
+  },
+  {
+    "name": "API Gateway",
+    "category": "knowledge"
+  },
+  {
+    "name": "Apollo Client",
+    "category": "programming"
+  },
+  {
+    "name": "App Store Deployment",
+    "category": "knowledge"
+  },
+  {
+    "name": "ARIMA Models",
+    "category": "knowledge"
+  },
+  {
+    "name": "Artifact Management",
+    "category": "knowledge"
+  },
+  {
+    "name": "ASP.NET Core",
+    "category": "programming"
+  },
+  {
+    "name": "Audit Procedures",
+    "category": "knowledge"
+  },
+  {
+    "name": "Authentication & JWT",
+    "category": "programming"
+  },
+  {
+    "name": "Auto Scaling",
+    "category": "knowledge"
+  },
+  {
+    "name": "AWS CloudFormation",
+    "category": "tools"
+  },
+  {
+    "name": "AWS EC2",
+    "category": "tools"
+  },
+  {
+    "name": "AWS Lambda",
+    "category": "tools"
+  },
+  {
+    "name": "AWS RDS",
+    "category": "tools"
+  },
+  {
+    "name": "AWS S3",
+    "category": "tools"
+  },
+  {
+    "name": "Azure DevOps",
+    "category": "tools"
+  },
+  {
+    "name": "Backup & Recovery",
+    "category": "knowledge"
+  },
+  {
+    "name": "Bash/Shell Scripting",
+    "category": "programming"
+  },
+  {
+    "name": "Basic Statistics",
+    "category": "knowledge"
+  },
+  {
+    "name": "Behavior-Driven Development (BDD)",
+    "category": "knowledge"
+  },
+  {
+    "name": "Bioinformatics Tools",
+    "category": "tools"
+  },
+  {
+    "name": "Bootstrap",
+    "category": "programming"
+  },
+  {
+    "name": "Browser DevTools",
+    "category": "tools"
+  },
+  {
+    "name": "Build Automation",
+    "category": "knowledge"
+  },
+  {
+    "name": "Burp Suite",
+    "category": "tools"
+  },
+  {
+    "name": "C#",
+    "category": "programming"
+  },
+  {
+    "name": "C++",
+    "category": "programming"
+  },
+  {
+    "name": "Caching Strategies",
+    "category": "knowledge"
+  },
+  {
+    "name": "CAP Theorem",
+    "category": "knowledge"
+  },
+  {
+    "name": "Cassandra",
+    "category": "tools"
+  },
+  {
+    "name": "Chaos Engineering",
+    "category": "knowledge"
+  },
+  {
+    "name": "CI/CD Principles",
+    "category": "knowledge"
+  },
+  {
+    "name": "Classification Algorithms",
+    "category": "knowledge"
+  },
+  {
+    "name": "Client Relationship Management",
+    "category": "soft_skill"
+  },
+  {
+    "name": "Cloud Billing Analysis",
+    "category": "knowledge"
+  },
+  {
+    "name": "Cloud Computing Service Models (IaaS, PaaS, SaaS)",
+    "category": "knowledge"
+  },
+  {
+    "name": "Cloud Cost Optimization",
+    "category": "knowledge"
+  },
+  {
+    "name": "Cloud Databases",
+    "category": "knowledge"
+  },
+  {
+    "name": "Cloud Migration Strategies",
+    "category": "knowledge"
+  },
+  {
+    "name": "Cloud Networking",
+    "category": "knowledge"
+  },
+  {
+    "name": "Cloud Security Best Practices",
+    "category": "knowledge"
+  },
+  {
+    "name": "Cloud Troubleshooting",
+    "category": "knowledge"
+  },
+  {
+    "name": "Cloud Vendor Comparison",
+    "category": "knowledge"
+  },
+  {
+    "name": "CloudFormation",
+    "category": "tools"
+  },
+  {
+    "name": "Clustering Algorithms",
+    "category": "knowledge"
+  },
+  {
+    "name": "Code Optimization",
+    "category": "knowledge"
+  },
+  {
+    "name": "Code Review",
+    "category": "soft_skill"
+  },
+  {
+    "name": "Code Splitting",
+    "category": "knowledge"
+  },
+  {
+    "name": "Computer Vision",
+    "category": "knowledge"
+  },
+  {
+    "name": "Conflict Resolution",
+    "category": "soft_skill"
+  },
+  {
+    "name": "Container Orchestration",
+    "category": "knowledge"
+  },
+  {
+    "name": "Containerization Concepts",
+    "category": "knowledge"
+  },
+  {
+    "name": "Content Writing",
+    "category": "knowledge"
+  },
+  {
+    "name": "Continuous Learning",
+    "category": "soft_skill"
+  },
+  {
+    "name": "CQRS Pattern",
+    "category": "knowledge"
+  },
+  {
+    "name": "Creative Thinking",
+    "category": "soft_skill"
+  },
+  {
+    "name": "Crisis Management",
+    "category": "soft_skill"
+  },
+  {
+    "name": "Critical Thinking",
+    "category": "soft_skill"
+  },
+  {
+    "name": "Cross-functional Collaboration",
+    "category": "soft_skill"
+  },
+  {
+    "name": "Cryptography Fundamentals",
+    "category": "knowledge"
+  },
+  {
+    "name": "CSRF Protection",
+    "category": "knowledge"
+  },
+  {
+    "name": "CSS",
+    "category": "programming"
+  },
+  {
+    "name": "CSS Preprocessors (Sass/Less)",
+    "category": "programming"
+  },
+  {
+    "name": "CSS3",
+    "category": "programming"
+  },
+  {
+    "name": "Customer Support",
+    "category": "soft_skill"
+  },
+  {
+    "name": "Cypress",
+    "category": "tools"
+  },
+  {
+    "name": "Dart",
+    "category": "programming"
+  },
+  {
+    "name": "Data Architecture Patterns",
+    "category": "knowledge"
+  },
+  {
+    "name": "Data Classification",
+    "category": "knowledge"
+  },
+  {
+    "name": "Data Cleaning & Preprocessing",
+    "category": "knowledge"
+  },
+  {
+    "name": "Data Governance",
+    "category": "knowledge"
+  },
+  {
+    "name": "Data Lake Architecture",
+    "category": "knowledge"
+  },
+  {
+    "name": "Data Loss Prevention (DLP)",
+    "category": "knowledge"
+  },
+  {
+    "name": "Data Modeling",
+    "category": "knowledge"
+  },
+  {
+    "name": "Data Pipeline Automation",
+    "category": "knowledge"
+  },
+  {
+    "name": "Data Quality Monitoring",
+    "category": "knowledge"
+  },
+  {
+    "name": "Data Stewardship",
+    "category": "knowledge"
+  },
+  {
+    "name": "Data Transformation",
+    "category": "knowledge"
+  },
+  {
+    "name": "Data Visualization",
+    "category": "tools"
+  },
+  {
+    "name": "Data Warehousing Concepts",
+    "category": "knowledge"
+  },
+  {
+    "name": "Database as a Service (DBaaS)",
+    "category": "knowledge"
+  },
+  {
+    "name": "Database Indexing",
+    "category": "knowledge"
+  },
+  {
+    "name": "Database Normalization",
+    "category": "knowledge"
+  },
+  {
+    "name": "Database Query Optimization",
+    "category": "knowledge"
+  },
+  {
+    "name": "Database Replication",
+    "category": "knowledge"
+  },
+  {
+    "name": "Database Sharding",
+    "category": "knowledge"
+  },
+  {
+    "name": "Datadog",
+    "category": "tools"
+  },
+  {
+    "name": "Debugging Skills",
+    "category": "soft_skill"
+  },
+  {
+    "name": "Deep Learning Fundamentals",
+    "category": "knowledge"
+  },
+  {
+    "name": "Deno",
+    "category": "programming"
+  },
+  {
+    "name": "Design Patterns",
+    "category": "knowledge"
+  },
+  {
+    "name": "Design System",
+    "category": "knowledge"
+  },
+  {
+    "name": "Developer Experience",
+    "category": "knowledge"
+  },
+  {
+    "name": "Digital Forensics",
+    "category": "knowledge"
+  },
+  {
+    "name": "Disaster Recovery",
+    "category": "knowledge"
+  },
+  {
+    "name": "Distributed Tracing",
+    "category": "knowledge"
+  },
+  {
+    "name": "Django",
+    "category": "programming"
+  },
+  {
+    "name": "DNS Management",
+    "category": "knowledge"
+  },
+  {
+    "name": "Docker",
+    "category": "tools"
+  },
+  {
+    "name": "Domain-Driven Design (DDD)",
+    "category": "knowledge"
+  },
+  {
+    "name": "DRY & KISS Principles",
+    "category": "knowledge"
+  },
+  {
+    "name": "Edge Computing",
+    "category": "knowledge"
+  },
+  {
+    "name": "Effective Written Communication",
+    "category": "soft_skill"
+  },
+  {
+    "name": "Elasticsearch",
+    "category": "tools"
+  },
+  {
+    "name": "Eloquent ORM",
+    "category": "programming"
+  },
+  {
+    "name": "Emotional Intelligence (EQ)",
+    "category": "soft_skill"
+  },
+  {
+    "name": "Empathy",
+    "category": "soft_skill"
+  },
+  {
+    "name": "End-to-End Testing",
+    "category": "knowledge"
+  },
+  {
+    "name": "Enterprise Data Strategy",
+    "category": "knowledge"
+  },
+  {
+    "name": "ETL Pipelines",
+    "category": "knowledge"
+  },
+  {
+    "name": "Event-Driven Architecture",
+    "category": "knowledge"
+  },
+  {
+    "name": "Evidence Collection",
+    "category": "knowledge"
+  },
+  {
+    "name": "Excel",
+    "category": "tools"
+  },
+  {
+    "name": "Excel (Data Analysis)",
+    "category": "tools"
+  },
+  {
+    "name": "Executive Leadership",
+    "category": "soft_skill"
+  },
+  {
+    "name": "Expert Systems",
+    "category": "knowledge"
+  },
+  {
+    "name": "Express.js",
+    "category": "programming"
+  },
+  {
+    "name": "FastAPI",
+    "category": "programming"
+  },
+  {
+    "name": "Feature Engineering",
+    "category": "knowledge"
+  },
+  {
+    "name": "Figma",
+    "category": "tools"
+  },
+  {
+    "name": "Financial Markets",
+    "category": "knowledge"
+  },
+  {
+    "name": "Firewall Configuration",
+    "category": "knowledge"
+  },
+  {
+    "name": "Firmware Analysis",
+    "category": "knowledge"
+  },
+  {
+    "name": "Flask",
+    "category": "programming"
+  },
+  {
+    "name": "Flutter",
+    "category": "programming"
+  },
+  {
+    "name": "Forensic Analysis",
+    "category": "knowledge"
+  },
+  {
+    "name": "Fraud Detection Algorithms",
+    "category": "knowledge"
+  },
+  {
+    "name": "Frontend Performance Optimization",
+    "category": "knowledge"
+  },
+  {
+    "name": "Function as a Service (FaaS)",
+    "category": "knowledge"
+  },
+  {
+    "name": "Functional Programming",
+    "category": "knowledge"
+  },
+  {
+    "name": "Genomics",
+    "category": "knowledge"
+  },
+  {
+    "name": "Git",
+    "category": "tools"
+  },
+  {
+    "name": "Git Branching Strategies",
+    "category": "knowledge"
+  },
+  {
+    "name": "Git Rebase",
+    "category": "knowledge"
+  },
+  {
+    "name": "GitHub",
+    "category": "tools"
+  },
+  {
+    "name": "GitHub Actions",
+    "category": "tools"
+  },
+  {
+    "name": "GitLab",
+    "category": "tools"
+  },
+  {
+    "name": "GitLab CI/CD",
+    "category": "tools"
+  },
+  {
+    "name": "Go (Golang)",
+    "category": "programming"
+  },
+  {
+    "name": "Google Ads",
+    "category": "tools"
+  },
+  {
+    "name": "Google Analytics",
+    "category": "tools"
+  },
+  {
+    "name": "Google Cloud Platform (GCP)",
+    "category": "tools"
+  },
+  {
+    "name": "Google Kubernetes Engine (GKE)",
+    "category": "tools"
+  },
+  {
+    "name": "Grafana",
+    "category": "tools"
+  },
+  {
+    "name": "Graph Databases",
+    "category": "knowledge"
+  },
+  {
+    "name": "GraphQL",
+    "category": "programming"
+  },
+  {
+    "name": "GraphQL Concepts",
+    "category": "knowledge"
+  },
+  {
+    "name": "gRPC",
+    "category": "programming"
+  },
+  {
+    "name": "Hadoop",
+    "category": "tools"
+  },
+  {
+    "name": "Hardware Security",
+    "category": "knowledge"
+  },
+  {
+    "name": "High Availability",
+    "category": "knowledge"
+  },
+  {
+    "name": "HTML",
+    "category": "programming"
+  },
+  {
+    "name": "HTML5",
+    "category": "programming"
+  },
+  {
+    "name": "HTTP/HTTPS Lifecycle",
+    "category": "knowledge"
+  },
+  {
+    "name": "Hypervisor Management",
+    "category": "knowledge"
+  },
+  {
+    "name": "IAM Policies",
+    "category": "knowledge"
+  },
+  {
+    "name": "Identity and Access Management (IAM)",
+    "category": "knowledge"
+  },
+  {
+    "name": "Incident Command System",
+    "category": "knowledge"
+  },
+  {
+    "name": "Incident Response",
+    "category": "knowledge"
+  },
+  {
+    "name": "Incident Response Planning",
+    "category": "knowledge"
+  },
+  {
+    "name": "Infrastructure as Code (IaC)",
+    "category": "knowledge"
+  },
+  {
+    "name": "Insomnia",
+    "category": "tools"
+  },
+  {
+    "name": "Integration Testing",
+    "category": "knowledge"
+  },
+  {
+    "name": "iOS Development (Swift)",
+    "category": "programming"
+  },
+  {
+    "name": "IoT Protocols (MQTT, CoAP)",
+    "category": "knowledge"
+  },
+  {
+    "name": "ITIL Framework",
+    "category": "knowledge"
+  },
+  {
+    "name": "Java",
+    "category": "programming"
+  },
+  {
+    "name": "JavaScript",
+    "category": "programming"
+  },
+  {
+    "name": "Jenkins",
+    "category": "tools"
+  },
+  {
+    "name": "Jest",
+    "category": "tools"
+  },
+  {
+    "name": "Jira",
+    "category": "tools"
+  },
+  {
+    "name": "jQuery",
+    "category": "programming"
+  },
+  {
+    "name": "Jupyter Notebook",
+    "category": "tools"
+  },
+  {
+    "name": "Kali Linux",
+    "category": "tools"
+  },
+  {
+    "name": "Kanban",
+    "category": "knowledge"
+  },
+  {
+    "name": "Kibana",
+    "category": "tools"
+  },
+  {
+    "name": "Knowledge Representation",
+    "category": "knowledge"
+  },
+  {
+    "name": "Kotlin",
+    "category": "programming"
+  },
+  {
+    "name": "Kubernetes",
+    "category": "tools"
+  },
+  {
+    "name": "Laravel",
+    "category": "programming"
+  },
+  {
+    "name": "Lazy Loading",
+    "category": "knowledge"
+  },
+  {
+    "name": "Leadership",
+    "category": "soft_skill"
+  },
+  {
+    "name": "Legacy System Modernization",
+    "category": "knowledge"
+  },
+  {
+    "name": "Linux",
+    "category": "tools"
+  },
+  {
+    "name": "LLM Fine-tuning",
+    "category": "knowledge"
+  },
+  {
+    "name": "Load Balancing",
+    "category": "knowledge"
+  },
+  {
+    "name": "Load Balancing Strategies",
+    "category": "knowledge"
+  },
+  {
+    "name": "Load Testing",
+    "category": "knowledge"
+  },
+  {
+    "name": "Logstash",
+    "category": "tools"
+  },
+  {
+    "name": "Machine Learning Lifecycle",
+    "category": "knowledge"
+  },
+  {
+    "name": "Malware Analysis",
+    "category": "knowledge"
+  },
+  {
+    "name": "Memory Management",
+    "category": "knowledge"
+  },
+  {
+    "name": "Mentoring & Coaching",
+    "category": "soft_skill"
+  },
+  {
+    "name": "Mentoring & Teaching",
+    "category": "soft_skill"
+  },
+  {
+    "name": "Merge Conflict Resolution",
+    "category": "knowledge"
+  },
+  {
+    "name": "Message Queues",
+    "category": "knowledge"
+  },
+  {
+    "name": "Meta Ads",
+    "category": "tools"
+  },
+  {
+    "name": "Meta Ads / Google Ads",
+    "category": "tools"
+  },
+  {
+    "name": "Metasploit",
+    "category": "tools"
+  },
+  {
+    "name": "Microservices Architecture",
+    "category": "knowledge"
+  },
+  {
+    "name": "Microsoft Azure",
+    "category": "tools"
+  },
+  {
+    "name": "Mobile App Reverse Engineering",
+    "category": "knowledge"
+  },
+  {
+    "name": "Mobile Performance Optimization",
+    "category": "knowledge"
+  },
+  {
+    "name": "Mobile Security",
+    "category": "knowledge"
+  },
+  {
+    "name": "Mobile Security Best Practices",
+    "category": "knowledge"
+  },
+  {
+    "name": "Mobile UI/UX Patterns",
+    "category": "knowledge"
+  },
+  {
+    "name": "Model Deployment",
+    "category": "knowledge"
+  },
+  {
+    "name": "Model Evaluation & Validation",
+    "category": "knowledge"
+  },
+  {
+    "name": "Model Optimization",
+    "category": "knowledge"
+  },
+  {
+    "name": "Model Validation",
+    "category": "knowledge"
+  },
+  {
+    "name": "MongoDB",
+    "category": "tools"
+  },
+  {
+    "name": "Mongoose",
+    "category": "programming"
+  },
+  {
+    "name": "Monitoring & Logging",
+    "category": "knowledge"
+  },
+  {
+    "name": "Monolithic Architecture",
+    "category": "knowledge"
+  },
+  {
+    "name": "Multi-Cloud Management",
+    "category": "knowledge"
+  },
+  {
+    "name": "MVC Architecture",
+    "category": "knowledge"
+  },
+  {
+    "name": "MySQL",
+    "category": "tools"
+  },
+  {
+    "name": "Natural Language Processing (NLP)",
+    "category": "knowledge"
+  },
+  {
+    "name": "Negotiation Skills",
+    "category": "soft_skill"
+  },
+  {
+    "name": "Nessus",
+    "category": "tools"
+  },
+  {
+    "name": "NestJS",
+    "category": "programming"
+  },
+  {
+    "name": "Netlify",
+    "category": "tools"
+  },
+  {
+    "name": "Network Protocols (TCP/IP, UDP)",
+    "category": "knowledge"
+  },
+  {
+    "name": "Network Security",
+    "category": "knowledge"
+  },
+  {
+    "name": "Neural Networks",
+    "category": "knowledge"
+  },
+  {
+    "name": "Next.js",
+    "category": "programming"
+  },
+  {
+    "name": "Nginx",
+    "category": "tools"
+  },
+  {
+    "name": "Nmap",
+    "category": "tools"
+  },
+  {
+    "name": "Node.js",
+    "category": "programming"
+  },
+  {
+    "name": "NoSQL Databases",
+    "category": "knowledge"
+  },
+  {
+    "name": "npm",
+    "category": "tools"
+  },
+  {
+    "name": "NumPy",
+    "category": "programming"
+  },
+  {
+    "name": "Nuxt.js",
+    "category": "programming"
+  },
+  {
+    "name": "OAuth 2.0",
+    "category": "knowledge"
+  },
+  {
+    "name": "Object-Oriented Programming (OOP)",
+    "category": "knowledge"
+  },
+  {
+    "name": "Observability Tools",
+    "category": "knowledge"
+  },
+  {
+    "name": "Operational Technology (OT) Security",
+    "category": "knowledge"
+  },
+  {
+    "name": "ORM (Object-Relational Mapping)",
+    "category": "knowledge"
+  },
+  {
+    "name": "OWASP Security Principles",
+    "category": "knowledge"
+  },
+  {
+    "name": "OWASP Top 10",
+    "category": "knowledge"
+  },
+  {
+    "name": "Pandas",
+    "category": "programming"
+  },
+  {
+    "name": "Penetration Testing Methodologies",
+    "category": "knowledge"
+  },
+  {
+    "name": "Performance Profiling",
+    "category": "knowledge"
+  },
+  {
+    "name": "Performance Testing",
+    "category": "knowledge"
+  },
+  {
+    "name": "PHP",
+    "category": "programming"
+  },
+  {
+    "name": "PL/SQL",
+    "category": "programming"
+  },
+  {
+    "name": "Platform as a Service (PaaS)",
+    "category": "knowledge"
+  },
+  {
+    "name": "pnpm",
+    "category": "tools"
+  },
+  {
+    "name": "PostgreSQL",
+    "category": "tools"
+  },
+  {
+    "name": "Postman",
+    "category": "tools"
+  },
+  {
+    "name": "Postman API Testing",
+    "category": "tools"
+  },
+  {
+    "name": "Power BI",
+    "category": "tools"
+  },
+  {
+    "name": "PowerShell",
+    "category": "programming"
+  },
+  {
+    "name": "Presentation & Public Speaking",
+    "category": "soft_skill"
+  },
+  {
+    "name": "Prisma ORM",
+    "category": "programming"
+  },
+  {
+    "name": "Privacy by Design",
+    "category": "knowledge"
+  },
+  {
+    "name": "Privacy Regulations (GDPR, CCPA)",
+    "category": "knowledge"
+  },
+  {
+    "name": "Problem Solving",
+    "category": "soft_skill"
+  },
+  {
+    "name": "Progressive Web Apps (PWA)",
+    "category": "knowledge"
+  },
+  {
+    "name": "Prometheus",
+    "category": "tools"
+  },
+  {
+    "name": "Prompt Engineering",
+    "category": "knowledge"
+  },
+  {
+    "name": "Prototyping",
+    "category": "knowledge"
+  },
+  {
+    "name": "Pull Request Reviews",
+    "category": "knowledge"
+  },
+  {
+    "name": "Pulumi",
+    "category": "tools"
+  },
+  {
+    "name": "Push Notifications",
+    "category": "knowledge"
+  },
+  {
+    "name": "Python",
+    "category": "programming"
+  },
+  {
+    "name": "PyTorch",
+    "category": "programming"
+  },
+  {
+    "name": "Qualys",
+    "category": "tools"
+  },
+  {
+    "name": "Quantitative Analysis",
+    "category": "knowledge"
+  },
+  {
+    "name": "Query Optimization",
+    "category": "knowledge"
+  },
+  {
+    "name": "RabbitMQ",
+    "category": "tools"
+  },
+  {
+    "name": "React Native",
+    "category": "programming"
+  },
+  {
+    "name": "React.js",
+    "category": "programming"
+  },
+  {
+    "name": "Real-Time Processing",
+    "category": "knowledge"
+  },
+  {
+    "name": "Redis",
+    "category": "tools"
+  },
+  {
+    "name": "Redux",
+    "category": "programming"
+  },
+  {
+    "name": "Redux / State Management",
+    "category": "knowledge"
+  },
+  {
+    "name": "Regression Analysis",
+    "category": "knowledge"
+  },
+  {
+    "name": "Reinforcement Learning",
+    "category": "knowledge"
+  },
+  {
+    "name": "Release Management",
+    "category": "knowledge"
+  },
+  {
+    "name": "Research Methodology",
+    "category": "knowledge"
+  },
+  {
+    "name": "Responsive Web Design",
+    "category": "knowledge"
+  },
+  {
+    "name": "REST API",
+    "category": "programming"
+  },
+  {
+    "name": "RESTful API Architecture",
+    "category": "knowledge"
+  },
+  {
+    "name": "Retrospectives",
+    "category": "knowledge"
+  },
+  {
+    "name": "Reverse Engineering Tools",
+    "category": "tools"
+  },
+  {
+    "name": "Risk Assessment",
+    "category": "knowledge"
+  },
+  {
+    "name": "Robotics Programming",
+    "category": "programming"
+  },
+  {
+    "name": "Ruby",
+    "category": "programming"
+  },
+  {
+    "name": "Ruby on Rails",
+    "category": "programming"
+  },
+  {
+    "name": "Rule-Based Systems",
+    "category": "knowledge"
+  },
+  {
+    "name": "Rust",
+    "category": "programming"
+  },
+  {
+    "name": "SAML",
+    "category": "knowledge"
+  },
+  {
+    "name": "Sass/SCSS",
+    "category": "programming"
+  },
+  {
+    "name": "Scalability Principles",
+    "category": "knowledge"
+  },
+  {
+    "name": "Scikit-learn",
+    "category": "programming"
+  },
+  {
+    "name": "Scrum Framework",
+    "category": "knowledge"
+  },
+  {
+    "name": "Security Auditing",
+    "category": "knowledge"
+  },
+  {
+    "name": "Security Awareness Training",
+    "category": "knowledge"
+  },
+  {
+    "name": "Security Compliance (ISO 27001, SOC 2)",
+    "category": "knowledge"
+  },
+  {
+    "name": "Security Operations Center (SOC)",
+    "category": "knowledge"
+  },
+  {
+    "name": "Security Policy Development",
+    "category": "knowledge"
+  },
+  {
+    "name": "Security Scanning Tools",
+    "category": "tools"
+  },
+  {
+    "name": "Security Strategy",
+    "category": "knowledge"
+  },
+  {
+    "name": "Selenium",
+    "category": "tools"
+  },
+  {
+    "name": "Sensor Data Analysis",
+    "category": "knowledge"
+  },
+  {
+    "name": "SEO",
+    "category": "knowledge"
+  },
+  {
+    "name": "Sequelize",
+    "category": "programming"
+  },
+  {
+    "name": "Server-Side Rendering (SSR)",
+    "category": "knowledge"
+  },
+  {
+    "name": "Serverless Architecture",
+    "category": "knowledge"
+  },
+  {
+    "name": "Serverless Computing Concepts",
+    "category": "knowledge"
+  },
+  {
+    "name": "Service Mesh",
+    "category": "knowledge"
+  },
+  {
+    "name": "SIEM Tools",
+    "category": "tools"
+  },
+  {
+    "name": "Social Media Marketing",
+    "category": "knowledge"
+  },
+  {
+    "name": "SOLID Principles",
+    "category": "knowledge"
+  },
+  {
+    "name": "Spark",
+    "category": "tools"
+  },
+  {
+    "name": "Splunk",
+    "category": "tools"
+  },
+  {
+    "name": "Spring Boot",
+    "category": "programming"
+  },
+  {
+    "name": "Sprint Planning",
+    "category": "knowledge"
+  },
+  {
+    "name": "SQL",
+    "category": "programming"
+  },
+  {
+    "name": "SQL Injection Prevention",
+    "category": "knowledge"
+  },
+  {
+    "name": "SSL/TLS",
+    "category": "knowledge"
+  },
+  {
+    "name": "State Management (Redux/Zustand)",
+    "category": "programming"
+  },
+  {
+    "name": "Statistik Dasar",
+    "category": "knowledge"
+  },
+  {
+    "name": "Strategic Decision Making",
+    "category": "soft_skill"
+  },
+  {
+    "name": "Streaming Analytics",
+    "category": "knowledge"
+  },
+  {
+    "name": "Stress Management & Resilience",
+    "category": "soft_skill"
+  },
+  {
+    "name": "Svelte",
+    "category": "programming"
+  },
+  {
+    "name": "Swift",
+    "category": "programming"
+  },
+  {
+    "name": "System Design",
+    "category": "knowledge"
+  },
+  {
+    "name": "Tableau",
+    "category": "tools"
+  },
+  {
+    "name": "Tableau / Power BI",
+    "category": "tools"
+  },
+  {
+    "name": "Tailwind CSS",
+    "category": "programming"
+  },
+  {
+    "name": "Team Collaboration",
+    "category": "soft_skill"
+  },
+  {
+    "name": "Technical Documentation",
+    "category": "soft_skill"
+  },
+  {
+    "name": "TensorFlow",
+    "category": "programming"
+  },
+  {
+    "name": "Terraform",
+    "category": "tools"
+  },
+  {
+    "name": "Test Automation",
+    "category": "knowledge"
+  },
+  {
+    "name": "Test-Driven Development (TDD)",
+    "category": "knowledge"
+  },
+  {
+    "name": "Threat Hunting",
+    "category": "knowledge"
+  },
+  {
+    "name": "Threat Intelligence Platforms",
+    "category": "tools"
+  },
+  {
+    "name": "Threat Modeling",
+    "category": "knowledge"
+  },
+  {
+    "name": "Time Management",
+    "category": "soft_skill"
+  },
+  {
+    "name": "Time Series Analysis",
+    "category": "knowledge"
+  },
+  {
+    "name": "Time Series Forecasting",
+    "category": "knowledge"
+  },
+  {
+    "name": "Time-Series Databases",
+    "category": "knowledge"
+  },
+  {
+    "name": "Training Program Development",
+    "category": "knowledge"
+  },
+  {
+    "name": "Transformer Models",
+    "category": "knowledge"
+  },
+  {
+    "name": "Trello",
+    "category": "tools"
+  },
+  {
+    "name": "TypeScript",
+    "category": "programming"
+  },
+  {
+    "name": "UI Design Systems",
+    "category": "knowledge"
+  },
+  {
+    "name": "Unit Testing",
+    "category": "knowledge"
+  },
+  {
+    "name": "User Research",
+    "category": "knowledge"
+  },
+  {
+    "name": "User Story Writing",
+    "category": "knowledge"
+  },
+  {
+    "name": "Verbal Communication",
+    "category": "soft_skill"
+  },
+  {
+    "name": "Vercel",
+    "category": "tools"
+  },
+  {
+    "name": "Version Control Workflows (Git Flow)",
+    "category": "knowledge"
+  },
+  {
+    "name": "Virtualization Technologies",
+    "category": "knowledge"
+  },
+  {
+    "name": "Vite",
+    "category": "tools"
+  },
+  {
+    "name": "VMware/VirtualBox",
+    "category": "tools"
+  },
+  {
+    "name": "VPC Configuration",
+    "category": "knowledge"
+  },
+  {
+    "name": "Vue.js",
+    "category": "programming"
+  },
+  {
+    "name": "Vulnerability Assessment",
+    "category": "knowledge"
+  },
+  {
+    "name": "Vulnerability Management",
+    "category": "knowledge"
+  },
+  {
+    "name": "Vulnerability Scanning",
+    "category": "knowledge"
+  },
+  {
+    "name": "Web Accessibility (WCAG)",
+    "category": "knowledge"
+  },
+  {
+    "name": "Web Components",
+    "category": "programming"
+  },
+  {
+    "name": "Webpack",
+    "category": "tools"
+  },
+  {
+    "name": "WebSockets",
+    "category": "programming"
+  },
+  {
+    "name": "Wireframing",
+    "category": "knowledge"
+  },
+  {
+    "name": "Wireshark",
+    "category": "tools"
+  },
+  {
+    "name": "XSS Prevention",
+    "category": "knowledge"
+  },
+  {
+    "name": "yarn",
+    "category": "tools"
+  },
+  {
+    "name": "Zero Trust Architecture",
+    "category": "knowledge"
+  },
+  {
+    "name": "Zustand",
+    "category": "programming"
+  }
+]

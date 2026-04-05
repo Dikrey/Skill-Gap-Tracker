@@ -1,0 +1,5002 @@
+[
+  {
+    "role_name": "AI Researcher",
+    "skill_name": "Research Methodology",
+    "importance": "required"
+  },
+  {
+    "role_name": "AI Researcher",
+    "skill_name": "Google Cloud Platform (GCP)",
+    "importance": "nice_to_have"
+  },
+  {
+    "role_name": "AI Researcher",
+    "skill_name": "Python",
+    "importance": "required"
+  },
+  {
+    "role_name": "AI Researcher",
+    "skill_name": "Data Modeling",
+    "importance": "required"
+  },
+  {
+    "role_name": "AI Researcher",
+    "skill_name": "SQL",
+    "importance": "required"
+  },
+  {
+    "role_name": "AI Researcher",
+    "skill_name": "Data Warehousing Concepts",
+    "importance": "required"
+  },
+  {
+    "role_name": "AI Researcher",
+    "skill_name": "Bash/Shell Scripting",
+    "importance": "required"
+  },
+  {
+    "role_name": "AI Researcher",
+    "skill_name": "Apache Kafka",
+    "importance": "nice_to_have"
+  },
+  {
+    "role_name": "AI Researcher",
+    "skill_name": "Transformer Models",
+    "importance": "required"
+  },
+  {
+    "role_name": "AI Solutions Architect",
+    "skill_name": "Microservices Architecture",
+    "importance": "required"
+  },
+  {
+    "role_name": "AI Solutions Architect",
+    "skill_name": "Load Balancing Strategies",
+    "importance": "required"
+  },
+  {
+    "role_name": "AI Solutions Architect",
+    "skill_name": "Database Normalization",
+    "importance": "required"
+  },
+  {
+    "role_name": "AI Solutions Architect",
+    "skill_name": "Leadership",
+    "importance": "required"
+  },
+  {
+    "role_name": "AI Solutions Architect",
+    "skill_name": "Apache Kafka",
+    "importance": "nice_to_have"
+  },
+  {
+    "role_name": "AI Solutions Architect",
+    "skill_name": "AWS EC2",
+    "importance": "nice_to_have"
+  },
+  {
+    "role_name": "AI Solutions Architect",
+    "skill_name": "System Design",
+    "importance": "required"
+  },
+  {
+    "role_name": "Algorithmic Trader",
+    "skill_name": "Google Cloud Platform (GCP)",
+    "importance": "nice_to_have"
+  },
+  {
+    "role_name": "Algorithmic Trader",
+    "skill_name": "Apache Kafka",
+    "importance": "nice_to_have"
+  },
+  {
+    "role_name": "Algorithmic Trader",
+    "skill_name": "Bash/Shell Scripting",
+    "importance": "required"
+  },
+  {
+    "role_name": "Algorithmic Trader",
+    "skill_name": "Algorithmic Trading Strategies",
+    "importance": "required"
+  },
+  {
+    "role_name": "Algorithmic Trader",
+    "skill_name": "Quantitative Analysis",
+    "importance": "required"
+  },
+  {
+    "role_name": "Algorithmic Trader",
+    "skill_name": "Financial Markets",
+    "importance": "required"
+  },
+  {
+    "role_name": "Algorithmic Trader",
+    "skill_name": "SQL",
+    "importance": "required"
+  },
+  {
+    "role_name": "Algorithmic Trader",
+    "skill_name": "Data Warehousing Concepts",
+    "importance": "required"
+  },
+  {
+    "role_name": "Algorithmic Trader",
+    "skill_name": "Data Modeling",
+    "importance": "required"
+  },
+  {
+    "role_name": "Algorithmic Trader",
+    "skill_name": "Python",
+    "importance": "required"
+  },
+  {
+    "role_name": "Analytics Engineer",
+    "skill_name": "NumPy",
+    "importance": "nice_to_have"
+  },
+  {
+    "role_name": "Analytics Engineer",
+    "skill_name": "Pandas",
+    "importance": "required"
+  },
+  {
+    "role_name": "Analytics Engineer",
+    "skill_name": "Data Visualization",
+    "importance": "required"
+  },
+  {
+    "role_name": "Analytics Engineer",
+    "skill_name": "Basic Statistics",
+    "importance": "required"
+  },
+  {
+    "role_name": "Analytics Engineer",
+    "skill_name": "Apache Kafka",
+    "importance": "nice_to_have"
+  },
+  {
+    "role_name": "Analytics Engineer",
+    "skill_name": "Bash/Shell Scripting",
+    "importance": "required"
+  },
+  {
+    "role_name": "Analytics Engineer",
+    "skill_name": "SQL",
+    "importance": "required"
+  },
+  {
+    "role_name": "Analytics Engineer",
+    "skill_name": "Data Warehousing Concepts",
+    "importance": "required"
+  },
+  {
+    "role_name": "Analytics Engineer",
+    "skill_name": "Data Modeling",
+    "importance": "required"
+  },
+  {
+    "role_name": "Analytics Engineer",
+    "skill_name": "Python",
+    "importance": "required"
+  },
+  {
+    "role_name": "Analytics Engineer",
+    "skill_name": "Google Cloud Platform (GCP)",
+    "importance": "nice_to_have"
+  },
+  {
+    "role_name": "Analytics Engineer",
+    "skill_name": "Data Cleaning & Preprocessing",
+    "importance": "required"
+  },
+  {
+    "role_name": "Android Native Developer",
+    "skill_name": "App Store Deployment",
+    "importance": "required"
+  },
+  {
+    "role_name": "Android Native Developer",
+    "skill_name": "Mobile UI/UX Patterns",
+    "importance": "required"
+  },
+  {
+    "role_name": "Android Native Developer",
+    "skill_name": "Kotlin",
+    "importance": "required"
+  },
+  {
+    "role_name": "Android Native Developer",
+    "skill_name": "Android Development (Kotlin)",
+    "importance": "required"
+  },
+  {
+    "role_name": "Android Native Developer",
+    "skill_name": "Object-Oriented Programming (OOP)",
+    "importance": "required"
+  },
+  {
+    "role_name": "Android Native Developer",
+    "skill_name": "Problem Solving",
+    "importance": "required"
+  },
+  {
+    "role_name": "Android Native Developer",
+    "skill_name": "Mobile Performance Optimization",
+    "importance": "nice_to_have"
+  },
+  {
+    "role_name": "Android Native Developer",
+    "skill_name": "RESTful API Architecture",
+    "importance": "required"
+  },
+  {
+    "role_name": "Android Native Developer",
+    "skill_name": "Java",
+    "importance": "required"
+  },
+  {
+    "role_name": "Android Native Developer",
+    "skill_name": "CI/CD Principles",
+    "importance": "nice_to_have"
+  },
+  {
+    "role_name": "Android Native Developer",
+    "skill_name": "Figma",
+    "importance": "nice_to_have"
+  },
+  {
+    "role_name": "Angular Developer",
+    "skill_name": "HTML",
+    "importance": "required"
+  },
+  {
+    "role_name": "Angular Developer",
+    "skill_name": "Redux / State Management",
+    "importance": "nice_to_have"
+  },
+  {
+    "role_name": "Angular Developer",
+    "skill_name": "Angular",
+    "importance": "required"
+  },
+  {
+    "role_name": "Angular Developer",
+    "skill_name": "CSS",
+    "importance": "required"
+  },
+  {
+    "role_name": "Angular Developer",
+    "skill_name": "REST API",
+    "importance": "required"
+  },
+  {
+    "role_name": "Angular Developer",
+    "skill_name": "State Management (Redux/Zustand)",
+    "importance": "required"
+  },
+  {
+    "role_name": "Angular Developer",
+    "skill_name": "RESTful API Architecture",
+    "importance": "required"
+  },
+  {
+    "role_name": "Angular Developer",
+    "skill_name": "CSS3",
+    "importance": "required"
+  },
+  {
+    "role_name": "Angular Developer",
+    "skill_name": "HTML5",
+    "importance": "required"
+  },
+  {
+    "role_name": "Angular Developer",
+    "skill_name": "TypeScript",
+    "importance": "required"
+  },
+  {
+    "role_name": "Applied AI Scientist",
+    "skill_name": "LLM Fine-tuning",
+    "importance": "required"
+  },
+  {
+    "role_name": "Applied AI Scientist",
+    "skill_name": "Google Cloud Platform (GCP)",
+    "importance": "nice_to_have"
+  },
+  {
+    "role_name": "Applied AI Scientist",
+    "skill_name": "Bash/Shell Scripting",
+    "importance": "required"
+  },
+  {
+    "role_name": "Applied AI Scientist",
+    "skill_name": "Apache Kafka",
+    "importance": "nice_to_have"
+  },
+  {
+    "role_name": "Applied AI Scientist",
+    "skill_name": "Model Deployment",
+    "importance": "required"
+  },
+  {
+    "role_name": "Applied AI Scientist",
+    "skill_name": "SQL",
+    "importance": "required"
+  },
+  {
+    "role_name": "Applied AI Scientist",
+    "skill_name": "Data Warehousing Concepts",
+    "importance": "required"
+  },
+  {
+    "role_name": "Applied AI Scientist",
+    "skill_name": "Data Modeling",
+    "importance": "required"
+  },
+  {
+    "role_name": "Applied AI Scientist",
+    "skill_name": "Python",
+    "importance": "required"
+  },
+  {
+    "role_name": "Automation Architect",
+    "skill_name": "Analytical Thinking",
+    "importance": "required"
+  },
+  {
+    "role_name": "Automation Architect",
+    "skill_name": "Postman",
+    "importance": "nice_to_have"
+  },
+  {
+    "role_name": "Automation Architect",
+    "skill_name": "Test-Driven Development (TDD)",
+    "importance": "required"
+  },
+  {
+    "role_name": "Automation Architect",
+    "skill_name": "Jenkins",
+    "importance": "nice_to_have"
+  },
+  {
+    "role_name": "Automation Architect",
+    "skill_name": "Problem Solving",
+    "importance": "required"
+  },
+  {
+    "role_name": "Automation Architect",
+    "skill_name": "Python",
+    "importance": "required"
+  },
+  {
+    "role_name": "Automation Architect",
+    "skill_name": "JavaScript",
+    "importance": "required"
+  },
+  {
+    "role_name": "Automation Test Engineer",
+    "skill_name": "Python",
+    "importance": "required"
+  },
+  {
+    "role_name": "Automation Test Engineer",
+    "skill_name": "Cypress",
+    "importance": "nice_to_have"
+  },
+  {
+    "role_name": "Automation Test Engineer",
+    "skill_name": "Selenium",
+    "importance": "required"
+  },
+  {
+    "role_name": "Automation Test Engineer",
+    "skill_name": "Test Automation",
+    "importance": "required"
+  },
+  {
+    "role_name": "Automation Test Engineer",
+    "skill_name": "JavaScript",
+    "importance": "required"
+  },
+  {
+    "role_name": "Automation Test Engineer",
+    "skill_name": "Test-Driven Development (TDD)",
+    "importance": "required"
+  },
+  {
+    "role_name": "Automation Test Engineer",
+    "skill_name": "Problem Solving",
+    "importance": "required"
+  },
+  {
+    "role_name": "Automation Test Engineer",
+    "skill_name": "Behavior-Driven Development (BDD)",
+    "importance": "nice_to_have"
+  },
+  {
+    "role_name": "Automation Test Engineer",
+    "skill_name": "Agile Methodology",
+    "importance": "required"
+  },
+  {
+    "role_name": "Automation Test Engineer",
+    "skill_name": "Analytical Thinking",
+    "importance": "required"
+  },
+  {
+    "role_name": "Automation Test Engineer",
+    "skill_name": "Jenkins",
+    "importance": "nice_to_have"
+  },
+  {
+    "role_name": "Automation Test Engineer",
+    "skill_name": "Postman",
+    "importance": "nice_to_have"
+  },
+  {
+    "role_name": "Back-End Architect",
+    "skill_name": "High Availability",
+    "importance": "required"
+  },
+  {
+    "role_name": "Back-End Architect",
+    "skill_name": "Scalability Principles",
+    "importance": "required"
+  },
+  {
+    "role_name": "Back-End Architect",
+    "skill_name": "System Design",
+    "importance": "required"
+  },
+  {
+    "role_name": "Back-End Architect",
+    "skill_name": "Microservices Architecture",
+    "importance": "required"
+  },
+  {
+    "role_name": "Back-End Architect",
+    "skill_name": "AWS EC2",
+    "importance": "nice_to_have"
+  },
+  {
+    "role_name": "Back-End Architect",
+    "skill_name": "Load Balancing Strategies",
+    "importance": "required"
+  },
+  {
+    "role_name": "Back-End Architect",
+    "skill_name": "Database Normalization",
+    "importance": "required"
+  },
+  {
+    "role_name": "Back-End Architect",
+    "skill_name": "Leadership",
+    "importance": "required"
+  },
+  {
+    "role_name": "Back-End Architect",
+    "skill_name": "Apache Kafka",
+    "importance": "nice_to_have"
+  },
+  {
+    "role_name": "Back-End Architect",
+    "skill_name": "CQRS Pattern",
+    "importance": "nice_to_have"
+  },
+  {
+    "role_name": "Back-End Architect",
+    "skill_name": "Event-Driven Architecture",
+    "importance": "nice_to_have"
+  },
+  {
+    "role_name": "Back-End Developer",
+    "skill_name": "Authentication & JWT",
+    "importance": "nice_to_have"
+  },
+  {
+    "role_name": "Back-End Developer",
+    "skill_name": "Problem Solving",
+    "importance": "required"
+  },
+  {
+    "role_name": "Back-End Developer",
+    "skill_name": "MVC Architecture",
+    "importance": "required"
+  },
+  {
+    "role_name": "Back-End Developer",
+    "skill_name": "Caching Strategies",
+    "importance": "nice_to_have"
+  },
+  {
+    "role_name": "Back-End Developer",
+    "skill_name": "Database Query Optimization",
+    "importance": "nice_to_have"
+  },
+  {
+    "role_name": "Back-End Developer",
+    "skill_name": "API Design Best Practices",
+    "importance": "required"
+  },
+  {
+    "role_name": "Back-End Developer",
+    "skill_name": "ORM (Object-Relational Mapping)",
+    "importance": "required"
+  },
+  {
+    "role_name": "Back-End Developer",
+    "skill_name": "Express.js",
+    "importance": "nice_to_have"
+  },
+  {
+    "role_name": "Back-End Developer",
+    "skill_name": "Git",
+    "importance": "required"
+  },
+  {
+    "role_name": "Back-End Developer",
+    "skill_name": "SQL",
+    "importance": "required"
+  },
+  {
+    "role_name": "Back-End Developer",
+    "skill_name": "SOLID Principles",
+    "importance": "nice_to_have"
+  },
+  {
+    "role_name": "Back-End Developer",
+    "skill_name": "REST API",
+    "importance": "required"
+  },
+  {
+    "role_name": "Back-End Developer",
+    "skill_name": "RESTful API Architecture",
+    "importance": "required"
+  },
+  {
+    "role_name": "Back-End Developer",
+    "skill_name": "Version Control Workflows (Git Flow)",
+    "importance": "nice_to_have"
+  },
+  {
+    "role_name": "Back-End Developer",
+    "skill_name": "Postman",
+    "importance": "nice_to_have"
+  },
+  {
+    "role_name": "Back-End Developer",
+    "skill_name": "Docker",
+    "importance": "nice_to_have"
+  },
+  {
+    "role_name": "BI Developer",
+    "skill_name": "Tableau",
+    "importance": "required"
+  },
+  {
+    "role_name": "BI Developer",
+    "skill_name": "SQL",
+    "importance": "required"
+  },
+  {
+    "role_name": "BI Developer",
+    "skill_name": "Data Warehousing Concepts",
+    "importance": "required"
+  },
+  {
+    "role_name": "BI Developer",
+    "skill_name": "Data Modeling",
+    "importance": "required"
+  },
+  {
+    "role_name": "BI Developer",
+    "skill_name": "Bash/Shell Scripting",
+    "importance": "required"
+  },
+  {
+    "role_name": "BI Developer",
+    "skill_name": "Apache Kafka",
+    "importance": "nice_to_have"
+  },
+  {
+    "role_name": "BI Developer",
+    "skill_name": "Google Cloud Platform (GCP)",
+    "importance": "nice_to_have"
+  },
+  {
+    "role_name": "BI Developer",
+    "skill_name": "Python",
+    "importance": "required"
+  },
+  {
+    "role_name": "BI Developer",
+    "skill_name": "Data Visualization",
+    "importance": "required"
+  },
+  {
+    "role_name": "BI Developer",
+    "skill_name": "Power BI",
+    "importance": "required"
+  },
+  {
+    "role_name": "Big Data Engineer",
+    "skill_name": "Data Modeling",
+    "importance": "required"
+  },
+  {
+    "role_name": "Big Data Engineer",
+    "skill_name": "Spark",
+    "importance": "required"
+  },
+  {
+    "role_name": "Big Data Engineer",
+    "skill_name": "Python",
+    "importance": "required"
+  },
+  {
+    "role_name": "Big Data Engineer",
+    "skill_name": "Bash/Shell Scripting",
+    "importance": "required"
+  },
+  {
+    "role_name": "Big Data Engineer",
+    "skill_name": "Google Cloud Platform (GCP)",
+    "importance": "nice_to_have"
+  },
+  {
+    "role_name": "Big Data Engineer",
+    "skill_name": "Hadoop",
+    "importance": "required"
+  },
+  {
+    "role_name": "Big Data Engineer",
+    "skill_name": "Apache Kafka",
+    "importance": "nice_to_have"
+  },
+  {
+    "role_name": "Big Data Engineer",
+    "skill_name": "Data Warehousing Concepts",
+    "importance": "required"
+  },
+  {
+    "role_name": "Big Data Engineer",
+    "skill_name": "SQL",
+    "importance": "required"
+  },
+  {
+    "role_name": "Bioinformatician",
+    "skill_name": "Bash/Shell Scripting",
+    "importance": "required"
+  },
+  {
+    "role_name": "Bioinformatician",
+    "skill_name": "Apache Kafka",
+    "importance": "nice_to_have"
+  },
+  {
+    "role_name": "Bioinformatician",
+    "skill_name": "Data Modeling",
+    "importance": "required"
+  },
+  {
+    "role_name": "Bioinformatician",
+    "skill_name": "Genomics",
+    "importance": "required"
+  },
+  {
+    "role_name": "Bioinformatician",
+    "skill_name": "Bioinformatics Tools",
+    "importance": "required"
+  },
+  {
+    "role_name": "Bioinformatician",
+    "skill_name": "Python",
+    "importance": "required"
+  },
+  {
+    "role_name": "Bioinformatician",
+    "skill_name": "Google Cloud Platform (GCP)",
+    "importance": "nice_to_have"
+  },
+  {
+    "role_name": "Bioinformatician",
+    "skill_name": "Data Warehousing Concepts",
+    "importance": "required"
+  },
+  {
+    "role_name": "Bioinformatician",
+    "skill_name": "SQL",
+    "importance": "required"
+  },
+  {
+    "role_name": "Build and Release Engineer",
+    "skill_name": "CI/CD Principles",
+    "importance": "required"
+  },
+  {
+    "role_name": "Build and Release Engineer",
+    "skill_name": "Version Control Workflows (Git Flow)",
+    "importance": "required"
+  },
+  {
+    "role_name": "Build and Release Engineer",
+    "skill_name": "Jira",
+    "importance": "nice_to_have"
+  },
+  {
+    "role_name": "Build and Release Engineer",
+    "skill_name": "Team Collaboration",
+    "importance": "required"
+  },
+  {
+    "role_name": "Build and Release Engineer",
+    "skill_name": "Time Management",
+    "importance": "required"
+  },
+  {
+    "role_name": "Build and Release Engineer",
+    "skill_name": "Leadership",
+    "importance": "required"
+  },
+  {
+    "role_name": "Build and Release Engineer",
+    "skill_name": "Jenkins",
+    "importance": "nice_to_have"
+  },
+  {
+    "role_name": "Build and Release Engineer",
+    "skill_name": "Build Automation",
+    "importance": "required"
+  },
+  {
+    "role_name": "Build and Release Engineer",
+    "skill_name": "Artifact Management",
+    "importance": "required"
+  },
+  {
+    "role_name": "Business Intelligence (BI) Analyst",
+    "skill_name": "Excel (Data Analysis)",
+    "importance": "required"
+  },
+  {
+    "role_name": "Business Intelligence (BI) Analyst",
+    "skill_name": "Python",
+    "importance": "required"
+  },
+  {
+    "role_name": "Business Intelligence (BI) Analyst",
+    "skill_name": "SQL",
+    "importance": "required"
+  },
+  {
+    "role_name": "Business Intelligence (BI) Analyst",
+    "skill_name": "Data Warehousing Concepts",
+    "importance": "required"
+  },
+  {
+    "role_name": "Business Intelligence (BI) Analyst",
+    "skill_name": "Data Modeling",
+    "importance": "required"
+  },
+  {
+    "role_name": "Business Intelligence (BI) Analyst",
+    "skill_name": "Bash/Shell Scripting",
+    "importance": "required"
+  },
+  {
+    "role_name": "Business Intelligence (BI) Analyst",
+    "skill_name": "Apache Kafka",
+    "importance": "nice_to_have"
+  },
+  {
+    "role_name": "Business Intelligence (BI) Analyst",
+    "skill_name": "Google Cloud Platform (GCP)",
+    "importance": "nice_to_have"
+  },
+  {
+    "role_name": "Business Intelligence (BI) Analyst",
+    "skill_name": "Data Cleaning & Preprocessing",
+    "importance": "required"
+  },
+  {
+    "role_name": "Business Intelligence (BI) Analyst",
+    "skill_name": "Basic Statistics",
+    "importance": "required"
+  },
+  {
+    "role_name": "Business Intelligence (BI) Analyst",
+    "skill_name": "Power BI",
+    "importance": "required"
+  },
+  {
+    "role_name": "Business Intelligence (BI) Analyst",
+    "skill_name": "Tableau",
+    "importance": "required"
+  },
+  {
+    "role_name": "Chief Information Security Officer (CISO)",
+    "skill_name": "Network Protocols (TCP/IP, UDP)",
+    "importance": "required"
+  },
+  {
+    "role_name": "Chief Information Security Officer (CISO)",
+    "skill_name": "Incident Response Planning",
+    "importance": "required"
+  },
+  {
+    "role_name": "Chief Information Security Officer (CISO)",
+    "skill_name": "Operational Technology (OT) Security",
+    "importance": "nice_to_have"
+  },
+  {
+    "role_name": "Chief Information Security Officer (CISO)",
+    "skill_name": "Security Strategy",
+    "importance": "required"
+  },
+  {
+    "role_name": "Chief Information Security Officer (CISO)",
+    "skill_name": "Analytical Thinking",
+    "importance": "required"
+  },
+  {
+    "role_name": "Chief Information Security Officer (CISO)",
+    "skill_name": "Threat Modeling",
+    "importance": "required"
+  },
+  {
+    "role_name": "Chief Information Security Officer (CISO)",
+    "skill_name": "Splunk",
+    "importance": "required"
+  },
+  {
+    "role_name": "Chief Information Security Officer (CISO)",
+    "skill_name": "Wireshark",
+    "importance": "nice_to_have"
+  },
+  {
+    "role_name": "Chief Information Security Officer (CISO)",
+    "skill_name": "Executive Leadership",
+    "importance": "required"
+  },
+  {
+    "role_name": "Chief Technology Officer (CTO)",
+    "skill_name": "Negotiation Skills",
+    "importance": "nice_to_have"
+  },
+  {
+    "role_name": "Chief Technology Officer (CTO)",
+    "skill_name": "Strategic Decision Making",
+    "importance": "required"
+  },
+  {
+    "role_name": "Chief Technology Officer (CTO)",
+    "skill_name": "Leadership",
+    "importance": "required"
+  },
+  {
+    "role_name": "Chief Technology Officer (CTO)",
+    "skill_name": "Scalability Principles",
+    "importance": "required"
+  },
+  {
+    "role_name": "Chief Technology Officer (CTO)",
+    "skill_name": "Mentoring & Teaching",
+    "importance": "required"
+  },
+  {
+    "role_name": "Chief Technology Officer (CTO)",
+    "skill_name": "Technical Documentation",
+    "importance": "required"
+  },
+  {
+    "role_name": "Chief Technology Officer (CTO)",
+    "skill_name": "System Design",
+    "importance": "required"
+  },
+  {
+    "role_name": "Chief Technology Officer (CTO)",
+    "skill_name": "Mentoring & Coaching",
+    "importance": "nice_to_have"
+  },
+  {
+    "role_name": "Chief Technology Officer (CTO)",
+    "skill_name": "Team Collaboration",
+    "importance": "required"
+  },
+  {
+    "role_name": "Chief Technology Officer (CTO)",
+    "skill_name": "Cloud Computing Service Models (IaaS, PaaS, SaaS)",
+    "importance": "required"
+  },
+  {
+    "role_name": "CI/CD Pipeline Engineer",
+    "skill_name": "Bash/Shell Scripting",
+    "importance": "required"
+  },
+  {
+    "role_name": "CI/CD Pipeline Engineer",
+    "skill_name": "AWS EC2",
+    "importance": "nice_to_have"
+  },
+  {
+    "role_name": "CI/CD Pipeline Engineer",
+    "skill_name": "Terraform",
+    "importance": "nice_to_have"
+  },
+  {
+    "role_name": "CI/CD Pipeline Engineer",
+    "skill_name": "CI/CD Principles",
+    "importance": "required"
+  },
+  {
+    "role_name": "CI/CD Pipeline Engineer",
+    "skill_name": "GitHub Actions",
+    "importance": "required"
+  },
+  {
+    "role_name": "CI/CD Pipeline Engineer",
+    "skill_name": "Kubernetes",
+    "importance": "required"
+  },
+  {
+    "role_name": "CI/CD Pipeline Engineer",
+    "skill_name": "Docker",
+    "importance": "required"
+  },
+  {
+    "role_name": "CI/CD Pipeline Engineer",
+    "skill_name": "Jenkins",
+    "importance": "required"
+  },
+  {
+    "role_name": "Cloud API Developer",
+    "skill_name": "Authentication & JWT",
+    "importance": "required"
+  },
+  {
+    "role_name": "Cloud API Developer",
+    "skill_name": "Terraform",
+    "importance": "nice_to_have"
+  },
+  {
+    "role_name": "Cloud API Developer",
+    "skill_name": "Node.js",
+    "importance": "required"
+  },
+  {
+    "role_name": "Cloud API Developer",
+    "skill_name": "GraphQL Concepts",
+    "importance": "nice_to_have"
+  },
+  {
+    "role_name": "Cloud API Developer",
+    "skill_name": "RESTful API Architecture",
+    "importance": "required"
+  },
+  {
+    "role_name": "Cloud API Developer",
+    "skill_name": "Python",
+    "importance": "required"
+  },
+  {
+    "role_name": "Cloud API Developer",
+    "skill_name": "AWS Lambda",
+    "importance": "required"
+  },
+  {
+    "role_name": "Cloud API Developer",
+    "skill_name": "Serverless Computing Concepts",
+    "importance": "required"
+  },
+  {
+    "role_name": "Cloud API Developer",
+    "skill_name": "REST API",
+    "importance": "required"
+  },
+  {
+    "role_name": "Cloud Architect",
+    "skill_name": "Bash/Shell Scripting",
+    "importance": "required"
+  },
+  {
+    "role_name": "Cloud Architect",
+    "skill_name": "High Availability",
+    "importance": "required"
+  },
+  {
+    "role_name": "Cloud Architect",
+    "skill_name": "AWS EC2",
+    "importance": "required"
+  },
+  {
+    "role_name": "Cloud Architect",
+    "skill_name": "Cloud Computing Service Models (IaaS, PaaS, SaaS)",
+    "importance": "required"
+  },
+  {
+    "role_name": "Cloud Architect",
+    "skill_name": "Scalability Principles",
+    "importance": "required"
+  },
+  {
+    "role_name": "Cloud Architect",
+    "skill_name": "Disaster Recovery",
+    "importance": "required"
+  },
+  {
+    "role_name": "Cloud Architect",
+    "skill_name": "Google Cloud Platform (GCP)",
+    "importance": "nice_to_have"
+  },
+  {
+    "role_name": "Cloud Architect",
+    "skill_name": "System Design",
+    "importance": "required"
+  },
+  {
+    "role_name": "Cloud Architect",
+    "skill_name": "Terraform",
+    "importance": "required"
+  },
+  {
+    "role_name": "Cloud Architect",
+    "skill_name": "Network Protocols (TCP/IP, UDP)",
+    "importance": "required"
+  },
+  {
+    "role_name": "Cloud Architect",
+    "skill_name": "Microsoft Azure",
+    "importance": "nice_to_have"
+  },
+  {
+    "role_name": "Cloud Data Architect",
+    "skill_name": "Cloud Computing Service Models (IaaS, PaaS, SaaS)",
+    "importance": "required"
+  },
+  {
+    "role_name": "Cloud Data Architect",
+    "skill_name": "AWS EC2",
+    "importance": "required"
+  },
+  {
+    "role_name": "Cloud Data Architect",
+    "skill_name": "Network Protocols (TCP/IP, UDP)",
+    "importance": "required"
+  },
+  {
+    "role_name": "Cloud Data Architect",
+    "skill_name": "Cloud Databases",
+    "importance": "required"
+  },
+  {
+    "role_name": "Cloud Data Architect",
+    "skill_name": "Terraform",
+    "importance": "required"
+  },
+  {
+    "role_name": "Cloud Data Architect",
+    "skill_name": "Data Lake Architecture",
+    "importance": "required"
+  },
+  {
+    "role_name": "Cloud Data Architect",
+    "skill_name": "Microsoft Azure",
+    "importance": "nice_to_have"
+  },
+  {
+    "role_name": "Cloud Data Architect",
+    "skill_name": "Bash/Shell Scripting",
+    "importance": "required"
+  },
+  {
+    "role_name": "Cloud Data Architect",
+    "skill_name": "Google Cloud Platform (GCP)",
+    "importance": "nice_to_have"
+  },
+  {
+    "role_name": "Cloud Database Engineer",
+    "skill_name": "Network Protocols (TCP/IP, UDP)",
+    "importance": "required"
+  },
+  {
+    "role_name": "Cloud Database Engineer",
+    "skill_name": "Microsoft Azure",
+    "importance": "nice_to_have"
+  },
+  {
+    "role_name": "Cloud Database Engineer",
+    "skill_name": "Bash/Shell Scripting",
+    "importance": "required"
+  },
+  {
+    "role_name": "Cloud Database Engineer",
+    "skill_name": "Google Cloud Platform (GCP)",
+    "importance": "nice_to_have"
+  },
+  {
+    "role_name": "Cloud Database Engineer",
+    "skill_name": "AWS EC2",
+    "importance": "required"
+  },
+  {
+    "role_name": "Cloud Database Engineer",
+    "skill_name": "Cloud Databases",
+    "importance": "required"
+  },
+  {
+    "role_name": "Cloud Database Engineer",
+    "skill_name": "Database as a Service (DBaaS)",
+    "importance": "required"
+  },
+  {
+    "role_name": "Cloud Database Engineer",
+    "skill_name": "Cloud Computing Service Models (IaaS, PaaS, SaaS)",
+    "importance": "required"
+  },
+  {
+    "role_name": "Cloud Database Engineer",
+    "skill_name": "Terraform",
+    "importance": "required"
+  },
+  {
+    "role_name": "Cloud Infrastructure Engineer",
+    "skill_name": "Auto Scaling",
+    "importance": "required"
+  },
+  {
+    "role_name": "Cloud Infrastructure Engineer",
+    "skill_name": "Nginx",
+    "importance": "nice_to_have"
+  },
+  {
+    "role_name": "Cloud Infrastructure Engineer",
+    "skill_name": "Microsoft Azure",
+    "importance": "nice_to_have"
+  },
+  {
+    "role_name": "Cloud Infrastructure Engineer",
+    "skill_name": "Google Cloud Platform (GCP)",
+    "importance": "nice_to_have"
+  },
+  {
+    "role_name": "Cloud Infrastructure Engineer",
+    "skill_name": "Cloud Computing Service Models (IaaS, PaaS, SaaS)",
+    "importance": "required"
+  },
+  {
+    "role_name": "Cloud Infrastructure Engineer",
+    "skill_name": "Network Protocols (TCP/IP, UDP)",
+    "importance": "required"
+  },
+  {
+    "role_name": "Cloud Infrastructure Engineer",
+    "skill_name": "AWS S3",
+    "importance": "nice_to_have"
+  },
+  {
+    "role_name": "Cloud Infrastructure Engineer",
+    "skill_name": "Bash/Shell Scripting",
+    "importance": "required"
+  },
+  {
+    "role_name": "Cloud Infrastructure Engineer",
+    "skill_name": "Terraform",
+    "importance": "required"
+  },
+  {
+    "role_name": "Cloud Infrastructure Engineer",
+    "skill_name": "AWS EC2",
+    "importance": "required"
+  },
+  {
+    "role_name": "Cloud Infrastructure Engineer",
+    "skill_name": "Load Balancing",
+    "importance": "required"
+  },
+  {
+    "role_name": "Cloud Infrastructure Engineer",
+    "skill_name": "Disaster Recovery",
+    "importance": "nice_to_have"
+  },
+  {
+    "role_name": "Cloud Infrastructure Engineer",
+    "skill_name": "Infrastructure as Code (IaC)",
+    "importance": "required"
+  },
+  {
+    "role_name": "Cloud Migration Specialist",
+    "skill_name": "Bash/Shell Scripting",
+    "importance": "required"
+  },
+  {
+    "role_name": "Cloud Migration Specialist",
+    "skill_name": "Terraform",
+    "importance": "required"
+  },
+  {
+    "role_name": "Cloud Migration Specialist",
+    "skill_name": "Network Protocols (TCP/IP, UDP)",
+    "importance": "required"
+  },
+  {
+    "role_name": "Cloud Migration Specialist",
+    "skill_name": "Cloud Migration Strategies",
+    "importance": "required"
+  },
+  {
+    "role_name": "Cloud Migration Specialist",
+    "skill_name": "Google Cloud Platform (GCP)",
+    "importance": "nice_to_have"
+  },
+  {
+    "role_name": "Cloud Migration Specialist",
+    "skill_name": "Microsoft Azure",
+    "importance": "nice_to_have"
+  },
+  {
+    "role_name": "Cloud Migration Specialist",
+    "skill_name": "Legacy System Modernization",
+    "importance": "required"
+  },
+  {
+    "role_name": "Cloud Migration Specialist",
+    "skill_name": "Cloud Computing Service Models (IaaS, PaaS, SaaS)",
+    "importance": "required"
+  },
+  {
+    "role_name": "Cloud Migration Specialist",
+    "skill_name": "AWS EC2",
+    "importance": "required"
+  },
+  {
+    "role_name": "Cloud Network Engineer",
+    "skill_name": "Cloud Networking",
+    "importance": "required"
+  },
+  {
+    "role_name": "Cloud Network Engineer",
+    "skill_name": "Google Cloud Platform (GCP)",
+    "importance": "nice_to_have"
+  },
+  {
+    "role_name": "Cloud Network Engineer",
+    "skill_name": "Cloud Computing Service Models (IaaS, PaaS, SaaS)",
+    "importance": "required"
+  },
+  {
+    "role_name": "Cloud Network Engineer",
+    "skill_name": "Terraform",
+    "importance": "required"
+  },
+  {
+    "role_name": "Cloud Network Engineer",
+    "skill_name": "Network Protocols (TCP/IP, UDP)",
+    "importance": "required"
+  },
+  {
+    "role_name": "Cloud Network Engineer",
+    "skill_name": "Microsoft Azure",
+    "importance": "nice_to_have"
+  },
+  {
+    "role_name": "Cloud Network Engineer",
+    "skill_name": "Bash/Shell Scripting",
+    "importance": "required"
+  },
+  {
+    "role_name": "Cloud Network Engineer",
+    "skill_name": "AWS EC2",
+    "importance": "required"
+  },
+  {
+    "role_name": "Cloud Network Engineer",
+    "skill_name": "VPC Configuration",
+    "importance": "required"
+  },
+  {
+    "role_name": "Cloud Security Architect",
+    "skill_name": "AWS EC2",
+    "importance": "required"
+  },
+  {
+    "role_name": "Cloud Security Architect",
+    "skill_name": "Cloud Security Best Practices",
+    "importance": "required"
+  },
+  {
+    "role_name": "Cloud Security Architect",
+    "skill_name": "IAM Policies",
+    "importance": "required"
+  },
+  {
+    "role_name": "Cloud Security Architect",
+    "skill_name": "Google Cloud Platform (GCP)",
+    "importance": "nice_to_have"
+  },
+  {
+    "role_name": "Cloud Security Architect",
+    "skill_name": "Cloud Computing Service Models (IaaS, PaaS, SaaS)",
+    "importance": "required"
+  },
+  {
+    "role_name": "Cloud Security Architect",
+    "skill_name": "Terraform",
+    "importance": "required"
+  },
+  {
+    "role_name": "Cloud Security Architect",
+    "skill_name": "Network Protocols (TCP/IP, UDP)",
+    "importance": "required"
+  },
+  {
+    "role_name": "Cloud Security Architect",
+    "skill_name": "Microsoft Azure",
+    "importance": "nice_to_have"
+  },
+  {
+    "role_name": "Cloud Security Architect",
+    "skill_name": "Bash/Shell Scripting",
+    "importance": "required"
+  },
+  {
+    "role_name": "Cloud Support Engineer",
+    "skill_name": "Microsoft Azure",
+    "importance": "nice_to_have"
+  },
+  {
+    "role_name": "Cloud Support Engineer",
+    "skill_name": "Bash/Shell Scripting",
+    "importance": "required"
+  },
+  {
+    "role_name": "Cloud Support Engineer",
+    "skill_name": "AWS EC2",
+    "importance": "required"
+  },
+  {
+    "role_name": "Cloud Support Engineer",
+    "skill_name": "Google Cloud Platform (GCP)",
+    "importance": "nice_to_have"
+  },
+  {
+    "role_name": "Cloud Support Engineer",
+    "skill_name": "Cloud Computing Service Models (IaaS, PaaS, SaaS)",
+    "importance": "required"
+  },
+  {
+    "role_name": "Cloud Support Engineer",
+    "skill_name": "Terraform",
+    "importance": "required"
+  },
+  {
+    "role_name": "Cloud Support Engineer",
+    "skill_name": "Customer Support",
+    "importance": "required"
+  },
+  {
+    "role_name": "Cloud Support Engineer",
+    "skill_name": "Cloud Troubleshooting",
+    "importance": "required"
+  },
+  {
+    "role_name": "Cloud Support Engineer",
+    "skill_name": "Network Protocols (TCP/IP, UDP)",
+    "importance": "required"
+  },
+  {
+    "role_name": "Cognitive Software Engineer",
+    "skill_name": "Python",
+    "importance": "required"
+  },
+  {
+    "role_name": "Cognitive Software Engineer",
+    "skill_name": "Google Cloud Platform (GCP)",
+    "importance": "nice_to_have"
+  },
+  {
+    "role_name": "Cognitive Software Engineer",
+    "skill_name": "Knowledge Representation",
+    "importance": "required"
+  },
+  {
+    "role_name": "Cognitive Software Engineer",
+    "skill_name": "Data Modeling",
+    "importance": "required"
+  },
+  {
+    "role_name": "Cognitive Software Engineer",
+    "skill_name": "Data Warehousing Concepts",
+    "importance": "required"
+  },
+  {
+    "role_name": "Cognitive Software Engineer",
+    "skill_name": "SQL",
+    "importance": "required"
+  },
+  {
+    "role_name": "Cognitive Software Engineer",
+    "skill_name": "Bash/Shell Scripting",
+    "importance": "required"
+  },
+  {
+    "role_name": "Cognitive Software Engineer",
+    "skill_name": "Apache Kafka",
+    "importance": "nice_to_have"
+  },
+  {
+    "role_name": "Cognitive Software Engineer",
+    "skill_name": "Expert Systems",
+    "importance": "required"
+  },
+  {
+    "role_name": "Computer Vision Engineer",
+    "skill_name": "Apache Kafka",
+    "importance": "nice_to_have"
+  },
+  {
+    "role_name": "Computer Vision Engineer",
+    "skill_name": "TensorFlow",
+    "importance": "required"
+  },
+  {
+    "role_name": "Computer Vision Engineer",
+    "skill_name": "PyTorch",
+    "importance": "required"
+  },
+  {
+    "role_name": "Computer Vision Engineer",
+    "skill_name": "Computer Vision",
+    "importance": "required"
+  },
+  {
+    "role_name": "Computer Vision Engineer",
+    "skill_name": "NumPy",
+    "importance": "required"
+  },
+  {
+    "role_name": "Computer Vision Engineer",
+    "skill_name": "Google Cloud Platform (GCP)",
+    "importance": "nice_to_have"
+  },
+  {
+    "role_name": "Computer Vision Engineer",
+    "skill_name": "Python",
+    "importance": "required"
+  },
+  {
+    "role_name": "Computer Vision Engineer",
+    "skill_name": "Data Modeling",
+    "importance": "required"
+  },
+  {
+    "role_name": "Computer Vision Engineer",
+    "skill_name": "Data Warehousing Concepts",
+    "importance": "required"
+  },
+  {
+    "role_name": "Computer Vision Engineer",
+    "skill_name": "SQL",
+    "importance": "required"
+  },
+  {
+    "role_name": "Computer Vision Engineer",
+    "skill_name": "Bash/Shell Scripting",
+    "importance": "required"
+  },
+  {
+    "role_name": "Containerization Orchestrator",
+    "skill_name": "Bash/Shell Scripting",
+    "importance": "required"
+  },
+  {
+    "role_name": "Containerization Orchestrator",
+    "skill_name": "Linux",
+    "importance": "required"
+  },
+  {
+    "role_name": "Containerization Orchestrator",
+    "skill_name": "Docker",
+    "importance": "required"
+  },
+  {
+    "role_name": "Containerization Orchestrator",
+    "skill_name": "Terraform",
+    "importance": "nice_to_have"
+  },
+  {
+    "role_name": "Containerization Orchestrator",
+    "skill_name": "Containerization Concepts",
+    "importance": "required"
+  },
+  {
+    "role_name": "Containerization Orchestrator",
+    "skill_name": "Kubernetes",
+    "importance": "required"
+  },
+  {
+    "role_name": "Containerization Orchestrator",
+    "skill_name": "Prometheus",
+    "importance": "nice_to_have"
+  },
+  {
+    "role_name": "Containerization Specialist",
+    "skill_name": "Docker",
+    "importance": "required"
+  },
+  {
+    "role_name": "Containerization Specialist",
+    "skill_name": "Kubernetes",
+    "importance": "required"
+  },
+  {
+    "role_name": "Containerization Specialist",
+    "skill_name": "Containerization Concepts",
+    "importance": "required"
+  },
+  {
+    "role_name": "Containerization Specialist",
+    "skill_name": "Linux",
+    "importance": "required"
+  },
+  {
+    "role_name": "Containerization Specialist",
+    "skill_name": "Bash/Shell Scripting",
+    "importance": "required"
+  },
+  {
+    "role_name": "Containerization Specialist",
+    "skill_name": "Prometheus",
+    "importance": "nice_to_have"
+  },
+  {
+    "role_name": "Containerization Specialist",
+    "skill_name": "Terraform",
+    "importance": "nice_to_have"
+  },
+  {
+    "role_name": "Containerization Specialist",
+    "skill_name": "Service Mesh",
+    "importance": "nice_to_have"
+  },
+  {
+    "role_name": "Containerization Specialist",
+    "skill_name": "Container Orchestration",
+    "importance": "required"
+  },
+  {
+    "role_name": "Cryptography Engineer",
+    "skill_name": "Network Protocols (TCP/IP, UDP)",
+    "importance": "required"
+  },
+  {
+    "role_name": "Cryptography Engineer",
+    "skill_name": "Zero Trust Architecture",
+    "importance": "required"
+  },
+  {
+    "role_name": "Cryptography Engineer",
+    "skill_name": "Cryptography Fundamentals",
+    "importance": "required"
+  },
+  {
+    "role_name": "Cryptography Engineer",
+    "skill_name": "Operational Technology (OT) Security",
+    "importance": "nice_to_have"
+  },
+  {
+    "role_name": "Cryptography Engineer",
+    "skill_name": "Splunk",
+    "importance": "required"
+  },
+  {
+    "role_name": "Cryptography Engineer",
+    "skill_name": "Wireshark",
+    "importance": "nice_to_have"
+  },
+  {
+    "role_name": "Cryptography Engineer",
+    "skill_name": "Incident Response Planning",
+    "importance": "required"
+  },
+  {
+    "role_name": "Cryptography Engineer",
+    "skill_name": "Threat Modeling",
+    "importance": "required"
+  },
+  {
+    "role_name": "Cryptography Engineer",
+    "skill_name": "Analytical Thinking",
+    "importance": "required"
+  },
+  {
+    "role_name": "Cybersecurity Awareness Program Manager",
+    "skill_name": "Incident Response Planning",
+    "importance": "required"
+  },
+  {
+    "role_name": "Cybersecurity Awareness Program Manager",
+    "skill_name": "Training Program Development",
+    "importance": "required"
+  },
+  {
+    "role_name": "Cybersecurity Awareness Program Manager",
+    "skill_name": "Operational Technology (OT) Security",
+    "importance": "nice_to_have"
+  },
+  {
+    "role_name": "Cybersecurity Awareness Program Manager",
+    "skill_name": "Splunk",
+    "importance": "required"
+  },
+  {
+    "role_name": "Cybersecurity Awareness Program Manager",
+    "skill_name": "Wireshark",
+    "importance": "nice_to_have"
+  },
+  {
+    "role_name": "Cybersecurity Awareness Program Manager",
+    "skill_name": "Network Protocols (TCP/IP, UDP)",
+    "importance": "required"
+  },
+  {
+    "role_name": "Cybersecurity Awareness Program Manager",
+    "skill_name": "Security Awareness Training",
+    "importance": "required"
+  },
+  {
+    "role_name": "Cybersecurity Awareness Program Manager",
+    "skill_name": "Analytical Thinking",
+    "importance": "required"
+  },
+  {
+    "role_name": "Cybersecurity Awareness Program Manager",
+    "skill_name": "Threat Modeling",
+    "importance": "required"
+  },
+  {
+    "role_name": "Cybersecurity Compliance Auditor",
+    "skill_name": "Incident Response Planning",
+    "importance": "required"
+  },
+  {
+    "role_name": "Cybersecurity Compliance Auditor",
+    "skill_name": "Threat Modeling",
+    "importance": "required"
+  },
+  {
+    "role_name": "Cybersecurity Compliance Auditor",
+    "skill_name": "Security Compliance (ISO 27001, SOC 2)",
+    "importance": "required"
+  },
+  {
+    "role_name": "Cybersecurity Compliance Auditor",
+    "skill_name": "Analytical Thinking",
+    "importance": "required"
+  },
+  {
+    "role_name": "Cybersecurity Compliance Auditor",
+    "skill_name": "Audit Procedures",
+    "importance": "required"
+  },
+  {
+    "role_name": "Cybersecurity Compliance Auditor",
+    "skill_name": "Operational Technology (OT) Security",
+    "importance": "nice_to_have"
+  },
+  {
+    "role_name": "Cybersecurity Compliance Auditor",
+    "skill_name": "Splunk",
+    "importance": "required"
+  },
+  {
+    "role_name": "Cybersecurity Compliance Auditor",
+    "skill_name": "Wireshark",
+    "importance": "nice_to_have"
+  },
+  {
+    "role_name": "Cybersecurity Compliance Auditor",
+    "skill_name": "Network Protocols (TCP/IP, UDP)",
+    "importance": "required"
+  },
+  {
+    "role_name": "Data Analyst",
+    "skill_name": "Python",
+    "importance": "required"
+  },
+  {
+    "role_name": "Data Analyst",
+    "skill_name": "SQL",
+    "importance": "required"
+  },
+  {
+    "role_name": "Data Analyst",
+    "skill_name": "Data Warehousing Concepts",
+    "importance": "required"
+  },
+  {
+    "role_name": "Data Analyst",
+    "skill_name": "Data Modeling",
+    "importance": "required"
+  },
+  {
+    "role_name": "Data Analyst",
+    "skill_name": "Bash/Shell Scripting",
+    "importance": "required"
+  },
+  {
+    "role_name": "Data Analyst",
+    "skill_name": "Apache Kafka",
+    "importance": "nice_to_have"
+  },
+  {
+    "role_name": "Data Analyst",
+    "skill_name": "Google Cloud Platform (GCP)",
+    "importance": "nice_to_have"
+  },
+  {
+    "role_name": "Data Analyst",
+    "skill_name": "Excel (Data Analysis)",
+    "importance": "required"
+  },
+  {
+    "role_name": "Data Analyst",
+    "skill_name": "Basic Statistics",
+    "importance": "required"
+  },
+  {
+    "role_name": "Data Analyst",
+    "skill_name": "Data Visualization",
+    "importance": "required"
+  },
+  {
+    "role_name": "Data Analyst",
+    "skill_name": "Tableau",
+    "importance": "nice_to_have"
+  },
+  {
+    "role_name": "Data Analyst",
+    "skill_name": "Power BI",
+    "importance": "nice_to_have"
+  },
+  {
+    "role_name": "Data Analyst",
+    "skill_name": "Data Cleaning & Preprocessing",
+    "importance": "required"
+  },
+  {
+    "role_name": "Data Analyst",
+    "skill_name": "A/B Testing",
+    "importance": "nice_to_have"
+  },
+  {
+    "role_name": "Data Architect",
+    "skill_name": "Data Modeling",
+    "importance": "required"
+  },
+  {
+    "role_name": "Data Architect",
+    "skill_name": "Apache Kafka",
+    "importance": "nice_to_have"
+  },
+  {
+    "role_name": "Data Architect",
+    "skill_name": "Python",
+    "importance": "required"
+  },
+  {
+    "role_name": "Data Architect",
+    "skill_name": "Bash/Shell Scripting",
+    "importance": "required"
+  },
+  {
+    "role_name": "Data Architect",
+    "skill_name": "SQL",
+    "importance": "required"
+  },
+  {
+    "role_name": "Data Architect",
+    "skill_name": "Google Cloud Platform (GCP)",
+    "importance": "nice_to_have"
+  },
+  {
+    "role_name": "Data Architect",
+    "skill_name": "Enterprise Data Strategy",
+    "importance": "required"
+  },
+  {
+    "role_name": "Data Architect",
+    "skill_name": "Data Architecture Patterns",
+    "importance": "required"
+  },
+  {
+    "role_name": "Data Architect",
+    "skill_name": "Data Warehousing Concepts",
+    "importance": "required"
+  },
+  {
+    "role_name": "Data Engineer",
+    "skill_name": "Python",
+    "importance": "required"
+  },
+  {
+    "role_name": "Data Engineer",
+    "skill_name": "Google Cloud Platform (GCP)",
+    "importance": "nice_to_have"
+  },
+  {
+    "role_name": "Data Engineer",
+    "skill_name": "Apache Kafka",
+    "importance": "nice_to_have"
+  },
+  {
+    "role_name": "Data Engineer",
+    "skill_name": "Bash/Shell Scripting",
+    "importance": "required"
+  },
+  {
+    "role_name": "Data Engineer",
+    "skill_name": "Data Modeling",
+    "importance": "required"
+  },
+  {
+    "role_name": "Data Engineer",
+    "skill_name": "Data Warehousing Concepts",
+    "importance": "required"
+  },
+  {
+    "role_name": "Data Engineer",
+    "skill_name": "SQL",
+    "importance": "required"
+  },
+  {
+    "role_name": "Data Engineer",
+    "skill_name": "Database Indexing",
+    "importance": "nice_to_have"
+  },
+  {
+    "role_name": "Data Engineer",
+    "skill_name": "NoSQL Databases",
+    "importance": "nice_to_have"
+  },
+  {
+    "role_name": "Data Governance Lead",
+    "skill_name": "Splunk",
+    "importance": "required"
+  },
+  {
+    "role_name": "Data Governance Lead",
+    "skill_name": "Incident Response Planning",
+    "importance": "required"
+  },
+  {
+    "role_name": "Data Governance Lead",
+    "skill_name": "Operational Technology (OT) Security",
+    "importance": "nice_to_have"
+  },
+  {
+    "role_name": "Data Governance Lead",
+    "skill_name": "Analytical Thinking",
+    "importance": "required"
+  },
+  {
+    "role_name": "Data Governance Lead",
+    "skill_name": "Data Stewardship",
+    "importance": "required"
+  },
+  {
+    "role_name": "Data Governance Lead",
+    "skill_name": "Data Governance",
+    "importance": "required"
+  },
+  {
+    "role_name": "Data Governance Lead",
+    "skill_name": "Threat Modeling",
+    "importance": "required"
+  },
+  {
+    "role_name": "Data Governance Lead",
+    "skill_name": "Wireshark",
+    "importance": "nice_to_have"
+  },
+  {
+    "role_name": "Data Governance Lead",
+    "skill_name": "Network Protocols (TCP/IP, UDP)",
+    "importance": "required"
+  },
+  {
+    "role_name": "Data Loss Prevention (DLP) Engineer",
+    "skill_name": "Splunk",
+    "importance": "required"
+  },
+  {
+    "role_name": "Data Loss Prevention (DLP) Engineer",
+    "skill_name": "Network Protocols (TCP/IP, UDP)",
+    "importance": "required"
+  },
+  {
+    "role_name": "Data Loss Prevention (DLP) Engineer",
+    "skill_name": "Incident Response Planning",
+    "importance": "required"
+  },
+  {
+    "role_name": "Data Loss Prevention (DLP) Engineer",
+    "skill_name": "Threat Modeling",
+    "importance": "required"
+  },
+  {
+    "role_name": "Data Loss Prevention (DLP) Engineer",
+    "skill_name": "Analytical Thinking",
+    "importance": "required"
+  },
+  {
+    "role_name": "Data Loss Prevention (DLP) Engineer",
+    "skill_name": "Data Loss Prevention (DLP)",
+    "importance": "required"
+  },
+  {
+    "role_name": "Data Loss Prevention (DLP) Engineer",
+    "skill_name": "Data Classification",
+    "importance": "required"
+  },
+  {
+    "role_name": "Data Loss Prevention (DLP) Engineer",
+    "skill_name": "Operational Technology (OT) Security",
+    "importance": "nice_to_have"
+  },
+  {
+    "role_name": "Data Loss Prevention (DLP) Engineer",
+    "skill_name": "Wireshark",
+    "importance": "nice_to_have"
+  },
+  {
+    "role_name": "Data Ops Engineer",
+    "skill_name": "Apache Kafka",
+    "importance": "nice_to_have"
+  },
+  {
+    "role_name": "Data Ops Engineer",
+    "skill_name": "Data Quality Monitoring",
+    "importance": "required"
+  },
+  {
+    "role_name": "Data Ops Engineer",
+    "skill_name": "Data Modeling",
+    "importance": "required"
+  },
+  {
+    "role_name": "Data Ops Engineer",
+    "skill_name": "Data Warehousing Concepts",
+    "importance": "required"
+  },
+  {
+    "role_name": "Data Ops Engineer",
+    "skill_name": "SQL",
+    "importance": "required"
+  },
+  {
+    "role_name": "Data Ops Engineer",
+    "skill_name": "Bash/Shell Scripting",
+    "importance": "required"
+  },
+  {
+    "role_name": "Data Ops Engineer",
+    "skill_name": "Google Cloud Platform (GCP)",
+    "importance": "nice_to_have"
+  },
+  {
+    "role_name": "Data Ops Engineer",
+    "skill_name": "Python",
+    "importance": "required"
+  },
+  {
+    "role_name": "Data Ops Engineer",
+    "skill_name": "Data Pipeline Automation",
+    "importance": "required"
+  },
+  {
+    "role_name": "Data Privacy Engineer",
+    "skill_name": "Analytical Thinking",
+    "importance": "required"
+  },
+  {
+    "role_name": "Data Privacy Engineer",
+    "skill_name": "Threat Modeling",
+    "importance": "required"
+  },
+  {
+    "role_name": "Data Privacy Engineer",
+    "skill_name": "Incident Response Planning",
+    "importance": "required"
+  },
+  {
+    "role_name": "Data Privacy Engineer",
+    "skill_name": "Network Protocols (TCP/IP, UDP)",
+    "importance": "required"
+  },
+  {
+    "role_name": "Data Privacy Engineer",
+    "skill_name": "Wireshark",
+    "importance": "nice_to_have"
+  },
+  {
+    "role_name": "Data Privacy Engineer",
+    "skill_name": "Operational Technology (OT) Security",
+    "importance": "nice_to_have"
+  },
+  {
+    "role_name": "Data Privacy Engineer",
+    "skill_name": "Privacy Regulations (GDPR, CCPA)",
+    "importance": "required"
+  },
+  {
+    "role_name": "Data Privacy Engineer",
+    "skill_name": "Splunk",
+    "importance": "required"
+  },
+  {
+    "role_name": "Data Privacy Engineer",
+    "skill_name": "Privacy by Design",
+    "importance": "required"
+  },
+  {
+    "role_name": "Data Scientist",
+    "skill_name": "Data Warehousing Concepts",
+    "importance": "required"
+  },
+  {
+    "role_name": "Data Scientist",
+    "skill_name": "Scikit-learn",
+    "importance": "required"
+  },
+  {
+    "role_name": "Data Scientist",
+    "skill_name": "Jupyter Notebook",
+    "importance": "required"
+  },
+  {
+    "role_name": "Data Scientist",
+    "skill_name": "Data Cleaning & Preprocessing",
+    "importance": "required"
+  },
+  {
+    "role_name": "Data Scientist",
+    "skill_name": "Feature Engineering",
+    "importance": "required"
+  },
+  {
+    "role_name": "Data Scientist",
+    "skill_name": "Model Evaluation & Validation",
+    "importance": "required"
+  },
+  {
+    "role_name": "Data Scientist",
+    "skill_name": "Machine Learning Lifecycle",
+    "importance": "required"
+  },
+  {
+    "role_name": "Data Scientist",
+    "skill_name": "Google Cloud Platform (GCP)",
+    "importance": "nice_to_have"
+  },
+  {
+    "role_name": "Data Scientist",
+    "skill_name": "Apache Kafka",
+    "importance": "nice_to_have"
+  },
+  {
+    "role_name": "Data Scientist",
+    "skill_name": "Bash/Shell Scripting",
+    "importance": "required"
+  },
+  {
+    "role_name": "Data Scientist",
+    "skill_name": "Data Modeling",
+    "importance": "required"
+  },
+  {
+    "role_name": "Data Scientist",
+    "skill_name": "Data Visualization",
+    "importance": "nice_to_have"
+  },
+  {
+    "role_name": "Data Scientist",
+    "skill_name": "Pandas",
+    "importance": "required"
+  },
+  {
+    "role_name": "Data Scientist",
+    "skill_name": "SQL",
+    "importance": "required"
+  },
+  {
+    "role_name": "Data Scientist",
+    "skill_name": "Python",
+    "importance": "required"
+  },
+  {
+    "role_name": "Data Scientist",
+    "skill_name": "Basic Statistics",
+    "importance": "required"
+  },
+  {
+    "role_name": "Data Scientist",
+    "skill_name": "NumPy",
+    "importance": "required"
+  },
+  {
+    "role_name": "Database Administrator (DBA)",
+    "skill_name": "ACID Properties",
+    "importance": "required"
+  },
+  {
+    "role_name": "Database Administrator (DBA)",
+    "skill_name": "MongoDB",
+    "importance": "nice_to_have"
+  },
+  {
+    "role_name": "Database Administrator (DBA)",
+    "skill_name": "Bash/Shell Scripting",
+    "importance": "nice_to_have"
+  },
+  {
+    "role_name": "Database Administrator (DBA)",
+    "skill_name": "SQL",
+    "importance": "required"
+  },
+  {
+    "role_name": "Database Administrator (DBA)",
+    "skill_name": "Database Normalization",
+    "importance": "required"
+  },
+  {
+    "role_name": "Database Administrator (DBA)",
+    "skill_name": "PostgreSQL",
+    "importance": "required"
+  },
+  {
+    "role_name": "Database Administrator (DBA)",
+    "skill_name": "MySQL",
+    "importance": "required"
+  },
+  {
+    "role_name": "Database Administrator (DBA)",
+    "skill_name": "Backup & Recovery",
+    "importance": "required"
+  },
+  {
+    "role_name": "Database Administrator (DBA)",
+    "skill_name": "Database Replication",
+    "importance": "nice_to_have"
+  },
+  {
+    "role_name": "Database Administrator (DBA)",
+    "skill_name": "Query Optimization",
+    "importance": "required"
+  },
+  {
+    "role_name": "Database Administrator (DBA)",
+    "skill_name": "Database Indexing",
+    "importance": "required"
+  },
+  {
+    "role_name": "Database Administrator (DBA)",
+    "skill_name": "PL/SQL",
+    "importance": "nice_to_have"
+  },
+  {
+    "role_name": "Database Administrator (DBA)",
+    "skill_name": "CAP Theorem",
+    "importance": "nice_to_have"
+  },
+  {
+    "role_name": "Database Reliability Engineer (DBRE)",
+    "skill_name": "Query Optimization",
+    "importance": "required"
+  },
+  {
+    "role_name": "Database Reliability Engineer (DBRE)",
+    "skill_name": "High Availability",
+    "importance": "required"
+  },
+  {
+    "role_name": "Database Reliability Engineer (DBRE)",
+    "skill_name": "PostgreSQL",
+    "importance": "required"
+  },
+  {
+    "role_name": "Database Reliability Engineer (DBRE)",
+    "skill_name": "ACID Properties",
+    "importance": "required"
+  },
+  {
+    "role_name": "Database Reliability Engineer (DBRE)",
+    "skill_name": "Bash/Shell Scripting",
+    "importance": "nice_to_have"
+  },
+  {
+    "role_name": "Database Reliability Engineer (DBRE)",
+    "skill_name": "MongoDB",
+    "importance": "nice_to_have"
+  },
+  {
+    "role_name": "Database Reliability Engineer (DBRE)",
+    "skill_name": "SQL",
+    "importance": "required"
+  },
+  {
+    "role_name": "Database Reliability Engineer (DBRE)",
+    "skill_name": "MySQL",
+    "importance": "required"
+  },
+  {
+    "role_name": "Database Reliability Engineer (DBRE)",
+    "skill_name": "Database Normalization",
+    "importance": "required"
+  },
+  {
+    "role_name": "Database Reliability Engineer (DBRE)",
+    "skill_name": "Database Indexing",
+    "importance": "required"
+  },
+  {
+    "role_name": "Database Reliability Engineer (DBRE)",
+    "skill_name": "Database Replication",
+    "importance": "required"
+  },
+  {
+    "role_name": "Deep Learning Engineer",
+    "skill_name": "Machine Learning Lifecycle",
+    "importance": "required"
+  },
+  {
+    "role_name": "Deep Learning Engineer",
+    "skill_name": "TensorFlow",
+    "importance": "required"
+  },
+  {
+    "role_name": "Deep Learning Engineer",
+    "skill_name": "PyTorch",
+    "importance": "required"
+  },
+  {
+    "role_name": "Deep Learning Engineer",
+    "skill_name": "Neural Networks",
+    "importance": "required"
+  },
+  {
+    "role_name": "Deep Learning Engineer",
+    "skill_name": "NumPy",
+    "importance": "required"
+  },
+  {
+    "role_name": "Deep Learning Engineer",
+    "skill_name": "Google Cloud Platform (GCP)",
+    "importance": "nice_to_have"
+  },
+  {
+    "role_name": "Deep Learning Engineer",
+    "skill_name": "Python",
+    "importance": "required"
+  },
+  {
+    "role_name": "Deep Learning Engineer",
+    "skill_name": "Data Modeling",
+    "importance": "required"
+  },
+  {
+    "role_name": "Deep Learning Engineer",
+    "skill_name": "Data Warehousing Concepts",
+    "importance": "required"
+  },
+  {
+    "role_name": "Deep Learning Engineer",
+    "skill_name": "Pandas",
+    "importance": "required"
+  },
+  {
+    "role_name": "Deep Learning Engineer",
+    "skill_name": "Deep Learning Fundamentals",
+    "importance": "required"
+  },
+  {
+    "role_name": "Deep Learning Engineer",
+    "skill_name": "SQL",
+    "importance": "required"
+  },
+  {
+    "role_name": "Deep Learning Engineer",
+    "skill_name": "Bash/Shell Scripting",
+    "importance": "required"
+  },
+  {
+    "role_name": "Deep Learning Engineer",
+    "skill_name": "Apache Kafka",
+    "importance": "nice_to_have"
+  },
+  {
+    "role_name": "DevOps Engineer",
+    "skill_name": "GitHub Actions",
+    "importance": "nice_to_have"
+  },
+  {
+    "role_name": "DevOps Engineer",
+    "skill_name": "AWS EC2",
+    "importance": "nice_to_have"
+  },
+  {
+    "role_name": "DevOps Engineer",
+    "skill_name": "Terraform",
+    "importance": "nice_to_have"
+  },
+  {
+    "role_name": "DevOps Engineer",
+    "skill_name": "Jenkins",
+    "importance": "required"
+  },
+  {
+    "role_name": "DevOps Engineer",
+    "skill_name": "Bash/Shell Scripting",
+    "importance": "required"
+  },
+  {
+    "role_name": "DevOps Engineer",
+    "skill_name": "CI/CD Principles",
+    "importance": "required"
+  },
+  {
+    "role_name": "DevOps Engineer",
+    "skill_name": "Kubernetes",
+    "importance": "required"
+  },
+  {
+    "role_name": "DevOps Engineer",
+    "skill_name": "Docker",
+    "importance": "required"
+  },
+  {
+    "role_name": "DevOps Engineer",
+    "skill_name": "GitLab CI/CD",
+    "importance": "nice_to_have"
+  },
+  {
+    "role_name": "DevOps Engineer",
+    "skill_name": "Container Orchestration",
+    "importance": "required"
+  },
+  {
+    "role_name": "DevOps Engineer",
+    "skill_name": "Monitoring & Logging",
+    "importance": "required"
+  },
+  {
+    "role_name": "DevOps Engineer",
+    "skill_name": "Infrastructure as Code (IaC)",
+    "importance": "required"
+  },
+  {
+    "role_name": "DevOps Engineer",
+    "skill_name": "Nginx",
+    "importance": "nice_to_have"
+  },
+  {
+    "role_name": "DevSecOps Engineer",
+    "skill_name": "Security Auditing",
+    "importance": "required"
+  },
+  {
+    "role_name": "DevSecOps Engineer",
+    "skill_name": "OWASP Security Principles",
+    "importance": "required"
+  },
+  {
+    "role_name": "DevSecOps Engineer",
+    "skill_name": "Docker",
+    "importance": "required"
+  },
+  {
+    "role_name": "DevSecOps Engineer",
+    "skill_name": "Kubernetes",
+    "importance": "required"
+  },
+  {
+    "role_name": "DevSecOps Engineer",
+    "skill_name": "Vulnerability Management",
+    "importance": "required"
+  },
+  {
+    "role_name": "DevSecOps Engineer",
+    "skill_name": "Jenkins",
+    "importance": "required"
+  },
+  {
+    "role_name": "DevSecOps Engineer",
+    "skill_name": "Terraform",
+    "importance": "nice_to_have"
+  },
+  {
+    "role_name": "DevSecOps Engineer",
+    "skill_name": "Ansible",
+    "importance": "nice_to_have"
+  },
+  {
+    "role_name": "DevSecOps Engineer",
+    "skill_name": "Cryptography Fundamentals",
+    "importance": "required"
+  },
+  {
+    "role_name": "DevSecOps Engineer",
+    "skill_name": "Vulnerability Scanning",
+    "importance": "required"
+  },
+  {
+    "role_name": "DevSecOps Engineer",
+    "skill_name": "CI/CD Principles",
+    "importance": "required"
+  },
+  {
+    "role_name": "DevSecOps Engineer",
+    "skill_name": "Zero Trust Architecture",
+    "importance": "nice_to_have"
+  },
+  {
+    "role_name": "DevSecOps Integration Engineer",
+    "skill_name": "CI/CD Principles",
+    "importance": "required"
+  },
+  {
+    "role_name": "DevSecOps Integration Engineer",
+    "skill_name": "Jenkins",
+    "importance": "required"
+  },
+  {
+    "role_name": "DevSecOps Integration Engineer",
+    "skill_name": "Ansible",
+    "importance": "nice_to_have"
+  },
+  {
+    "role_name": "DevSecOps Integration Engineer",
+    "skill_name": "Docker",
+    "importance": "required"
+  },
+  {
+    "role_name": "DevSecOps Integration Engineer",
+    "skill_name": "Kubernetes",
+    "importance": "required"
+  },
+  {
+    "role_name": "DevSecOps Integration Engineer",
+    "skill_name": "Vulnerability Management",
+    "importance": "required"
+  },
+  {
+    "role_name": "DevSecOps Integration Engineer",
+    "skill_name": "Terraform",
+    "importance": "nice_to_have"
+  },
+  {
+    "role_name": "Digital Forensics Investigator",
+    "skill_name": "Splunk",
+    "importance": "required"
+  },
+  {
+    "role_name": "Digital Forensics Investigator",
+    "skill_name": "Analytical Thinking",
+    "importance": "required"
+  },
+  {
+    "role_name": "Digital Forensics Investigator",
+    "skill_name": "Threat Modeling",
+    "importance": "required"
+  },
+  {
+    "role_name": "Digital Forensics Investigator",
+    "skill_name": "Incident Response Planning",
+    "importance": "required"
+  },
+  {
+    "role_name": "Digital Forensics Investigator",
+    "skill_name": "Network Protocols (TCP/IP, UDP)",
+    "importance": "required"
+  },
+  {
+    "role_name": "Digital Forensics Investigator",
+    "skill_name": "Wireshark",
+    "importance": "nice_to_have"
+  },
+  {
+    "role_name": "Digital Forensics Investigator",
+    "skill_name": "Operational Technology (OT) Security",
+    "importance": "nice_to_have"
+  },
+  {
+    "role_name": "Digital Forensics Investigator",
+    "skill_name": "Digital Forensics",
+    "importance": "required"
+  },
+  {
+    "role_name": "Digital Forensics Investigator",
+    "skill_name": "Evidence Collection",
+    "importance": "required"
+  },
+  {
+    "role_name": "Digital Marketing",
+    "skill_name": "Responsive Web Design",
+    "importance": "required"
+  },
+  {
+    "role_name": "Digital Marketing",
+    "skill_name": "Meta Ads",
+    "importance": "nice_to_have"
+  },
+  {
+    "role_name": "Digital Marketing",
+    "skill_name": "Content Writing",
+    "importance": "required"
+  },
+  {
+    "role_name": "Digital Marketing",
+    "skill_name": "Social Media Marketing",
+    "importance": "required"
+  },
+  {
+    "role_name": "Digital Marketing",
+    "skill_name": "UI Design Systems",
+    "importance": "required"
+  },
+  {
+    "role_name": "Digital Marketing",
+    "skill_name": "Sass/SCSS",
+    "importance": "required"
+  },
+  {
+    "role_name": "Digital Marketing",
+    "skill_name": "Google Analytics",
+    "importance": "required"
+  },
+  {
+    "role_name": "Digital Marketing",
+    "skill_name": "Google Ads",
+    "importance": "nice_to_have"
+  },
+  {
+    "role_name": "Digital Marketing",
+    "skill_name": "CSS3",
+    "importance": "required"
+  },
+  {
+    "role_name": "Digital Marketing",
+    "skill_name": "Tailwind CSS",
+    "importance": "nice_to_have"
+  },
+  {
+    "role_name": "Digital Marketing",
+    "skill_name": "JavaScript",
+    "importance": "required"
+  },
+  {
+    "role_name": "Digital Marketing",
+    "skill_name": "Figma",
+    "importance": "nice_to_have"
+  },
+  {
+    "role_name": "Digital Marketing",
+    "skill_name": "HTML5",
+    "importance": "required"
+  },
+  {
+    "role_name": "Edge AI Developer",
+    "skill_name": "Apache Kafka",
+    "importance": "nice_to_have"
+  },
+  {
+    "role_name": "Edge AI Developer",
+    "skill_name": "Bash/Shell Scripting",
+    "importance": "required"
+  },
+  {
+    "role_name": "Edge AI Developer",
+    "skill_name": "SQL",
+    "importance": "required"
+  },
+  {
+    "role_name": "Edge AI Developer",
+    "skill_name": "Data Warehousing Concepts",
+    "importance": "required"
+  },
+  {
+    "role_name": "Edge AI Developer",
+    "skill_name": "Data Modeling",
+    "importance": "required"
+  },
+  {
+    "role_name": "Edge AI Developer",
+    "skill_name": "Python",
+    "importance": "required"
+  },
+  {
+    "role_name": "Edge AI Developer",
+    "skill_name": "Google Cloud Platform (GCP)",
+    "importance": "nice_to_have"
+  },
+  {
+    "role_name": "Edge AI Developer",
+    "skill_name": "Edge Computing",
+    "importance": "required"
+  },
+  {
+    "role_name": "Edge AI Developer",
+    "skill_name": "Model Optimization",
+    "importance": "required"
+  },
+  {
+    "role_name": "Enterprise Full-Stack Engineer",
+    "skill_name": "Apache Kafka",
+    "importance": "nice_to_have"
+  },
+  {
+    "role_name": "Enterprise Full-Stack Engineer",
+    "skill_name": "SQL",
+    "importance": "required"
+  },
+  {
+    "role_name": "Enterprise Full-Stack Engineer",
+    "skill_name": "Angular",
+    "importance": "required"
+  },
+  {
+    "role_name": "Enterprise Full-Stack Engineer",
+    "skill_name": "Java",
+    "importance": "required"
+  },
+  {
+    "role_name": "Enterprise Full-Stack Engineer",
+    "skill_name": "Kubernetes",
+    "importance": "nice_to_have"
+  },
+  {
+    "role_name": "Enterprise Full-Stack Engineer",
+    "skill_name": "Microservices Architecture",
+    "importance": "required"
+  },
+  {
+    "role_name": "Enterprise Full-Stack Engineer",
+    "skill_name": "Spring Boot",
+    "importance": "required"
+  },
+  {
+    "role_name": "ETL Developer",
+    "skill_name": "Google Cloud Platform (GCP)",
+    "importance": "nice_to_have"
+  },
+  {
+    "role_name": "ETL Developer",
+    "skill_name": "Data Transformation",
+    "importance": "required"
+  },
+  {
+    "role_name": "ETL Developer",
+    "skill_name": "ETL Pipelines",
+    "importance": "required"
+  },
+  {
+    "role_name": "ETL Developer",
+    "skill_name": "Apache Kafka",
+    "importance": "nice_to_have"
+  },
+  {
+    "role_name": "ETL Developer",
+    "skill_name": "Bash/Shell Scripting",
+    "importance": "required"
+  },
+  {
+    "role_name": "ETL Developer",
+    "skill_name": "SQL",
+    "importance": "required"
+  },
+  {
+    "role_name": "ETL Developer",
+    "skill_name": "Data Warehousing Concepts",
+    "importance": "required"
+  },
+  {
+    "role_name": "ETL Developer",
+    "skill_name": "Data Modeling",
+    "importance": "required"
+  },
+  {
+    "role_name": "ETL Developer",
+    "skill_name": "Python",
+    "importance": "required"
+  },
+  {
+    "role_name": "Expert System Designer",
+    "skill_name": "Bash/Shell Scripting",
+    "importance": "required"
+  },
+  {
+    "role_name": "Expert System Designer",
+    "skill_name": "Expert Systems",
+    "importance": "required"
+  },
+  {
+    "role_name": "Expert System Designer",
+    "skill_name": "Rule-Based Systems",
+    "importance": "required"
+  },
+  {
+    "role_name": "Expert System Designer",
+    "skill_name": "Apache Kafka",
+    "importance": "nice_to_have"
+  },
+  {
+    "role_name": "Expert System Designer",
+    "skill_name": "Google Cloud Platform (GCP)",
+    "importance": "nice_to_have"
+  },
+  {
+    "role_name": "Expert System Designer",
+    "skill_name": "Python",
+    "importance": "required"
+  },
+  {
+    "role_name": "Expert System Designer",
+    "skill_name": "Data Modeling",
+    "importance": "required"
+  },
+  {
+    "role_name": "Expert System Designer",
+    "skill_name": "Data Warehousing Concepts",
+    "importance": "required"
+  },
+  {
+    "role_name": "Expert System Designer",
+    "skill_name": "SQL",
+    "importance": "required"
+  },
+  {
+    "role_name": "FinOps Analyst",
+    "skill_name": "Microsoft Azure",
+    "importance": "nice_to_have"
+  },
+  {
+    "role_name": "FinOps Analyst",
+    "skill_name": "AWS EC2",
+    "importance": "required"
+  },
+  {
+    "role_name": "FinOps Analyst",
+    "skill_name": "Cloud Billing Analysis",
+    "importance": "required"
+  },
+  {
+    "role_name": "FinOps Analyst",
+    "skill_name": "Bash/Shell Scripting",
+    "importance": "required"
+  },
+  {
+    "role_name": "FinOps Analyst",
+    "skill_name": "Network Protocols (TCP/IP, UDP)",
+    "importance": "required"
+  },
+  {
+    "role_name": "FinOps Analyst",
+    "skill_name": "Terraform",
+    "importance": "required"
+  },
+  {
+    "role_name": "FinOps Analyst",
+    "skill_name": "Cloud Cost Optimization",
+    "importance": "required"
+  },
+  {
+    "role_name": "FinOps Analyst",
+    "skill_name": "Google Cloud Platform (GCP)",
+    "importance": "nice_to_have"
+  },
+  {
+    "role_name": "FinOps Analyst",
+    "skill_name": "Cloud Computing Service Models (IaaS, PaaS, SaaS)",
+    "importance": "required"
+  },
+  {
+    "role_name": "Flutter Developer",
+    "skill_name": "Flutter",
+    "importance": "required"
+  },
+  {
+    "role_name": "Flutter Developer",
+    "skill_name": "RESTful API Architecture",
+    "importance": "required"
+  },
+  {
+    "role_name": "Flutter Developer",
+    "skill_name": "Mobile Performance Optimization",
+    "importance": "nice_to_have"
+  },
+  {
+    "role_name": "Flutter Developer",
+    "skill_name": "App Store Deployment",
+    "importance": "required"
+  },
+  {
+    "role_name": "Flutter Developer",
+    "skill_name": "Redux / State Management",
+    "importance": "required"
+  },
+  {
+    "role_name": "Flutter Developer",
+    "skill_name": "Object-Oriented Programming (OOP)",
+    "importance": "required"
+  },
+  {
+    "role_name": "Flutter Developer",
+    "skill_name": "Mobile UI/UX Patterns",
+    "importance": "required"
+  },
+  {
+    "role_name": "Flutter Developer",
+    "skill_name": "Dart",
+    "importance": "required"
+  },
+  {
+    "role_name": "Flutter Developer",
+    "skill_name": "CI/CD Principles",
+    "importance": "nice_to_have"
+  },
+  {
+    "role_name": "Fraud Analytics Specialist",
+    "skill_name": "Python",
+    "importance": "required"
+  },
+  {
+    "role_name": "Fraud Analytics Specialist",
+    "skill_name": "Data Modeling",
+    "importance": "required"
+  },
+  {
+    "role_name": "Fraud Analytics Specialist",
+    "skill_name": "Data Warehousing Concepts",
+    "importance": "required"
+  },
+  {
+    "role_name": "Fraud Analytics Specialist",
+    "skill_name": "SQL",
+    "importance": "required"
+  },
+  {
+    "role_name": "Fraud Analytics Specialist",
+    "skill_name": "Bash/Shell Scripting",
+    "importance": "required"
+  },
+  {
+    "role_name": "Fraud Analytics Specialist",
+    "skill_name": "Apache Kafka",
+    "importance": "nice_to_have"
+  },
+  {
+    "role_name": "Fraud Analytics Specialist",
+    "skill_name": "Anomaly Detection",
+    "importance": "required"
+  },
+  {
+    "role_name": "Fraud Analytics Specialist",
+    "skill_name": "Fraud Detection Algorithms",
+    "importance": "required"
+  },
+  {
+    "role_name": "Fraud Analytics Specialist",
+    "skill_name": "Google Cloud Platform (GCP)",
+    "importance": "nice_to_have"
+  },
+  {
+    "role_name": "Front-End Architect",
+    "skill_name": "Webpack",
+    "importance": "nice_to_have"
+  },
+  {
+    "role_name": "Front-End Architect",
+    "skill_name": "Frontend Performance Optimization",
+    "importance": "required"
+  },
+  {
+    "role_name": "Front-End Architect",
+    "skill_name": "CI/CD Principles",
+    "importance": "required"
+  },
+  {
+    "role_name": "Front-End Architect",
+    "skill_name": "Microservices Architecture",
+    "importance": "required"
+  },
+  {
+    "role_name": "Front-End Architect",
+    "skill_name": "TypeScript",
+    "importance": "required"
+  },
+  {
+    "role_name": "Front-End Architect",
+    "skill_name": "JavaScript",
+    "importance": "required"
+  },
+  {
+    "role_name": "Front-End Architect",
+    "skill_name": "System Design",
+    "importance": "required"
+  },
+  {
+    "role_name": "Front-End Architect",
+    "skill_name": "Design Patterns",
+    "importance": "required"
+  },
+  {
+    "role_name": "Front-End Architect",
+    "skill_name": "Scalability Principles",
+    "importance": "required"
+  },
+  {
+    "role_name": "Front-End Architect",
+    "skill_name": "Leadership",
+    "importance": "required"
+  },
+  {
+    "role_name": "Front-End Architect",
+    "skill_name": "Vite",
+    "importance": "nice_to_have"
+  },
+  {
+    "role_name": "Front-End Developer",
+    "skill_name": "HTML5",
+    "importance": "required"
+  },
+  {
+    "role_name": "Front-End Developer",
+    "skill_name": "HTML",
+    "importance": "required"
+  },
+  {
+    "role_name": "Front-End Developer",
+    "skill_name": "npm",
+    "importance": "nice_to_have"
+  },
+  {
+    "role_name": "Front-End Developer",
+    "skill_name": "REST API",
+    "importance": "nice_to_have"
+  },
+  {
+    "role_name": "Front-End Developer",
+    "skill_name": "CSS",
+    "importance": "required"
+  },
+  {
+    "role_name": "Front-End Developer",
+    "skill_name": "State Management (Redux/Zustand)",
+    "importance": "required"
+  },
+  {
+    "role_name": "Front-End Developer",
+    "skill_name": "Browser DevTools",
+    "importance": "required"
+  },
+  {
+    "role_name": "Front-End Developer",
+    "skill_name": "Frontend Performance Optimization",
+    "importance": "nice_to_have"
+  },
+  {
+    "role_name": "Front-End Developer",
+    "skill_name": "Accessibility (WCAG)",
+    "importance": "nice_to_have"
+  },
+  {
+    "role_name": "Front-End Developer",
+    "skill_name": "Figma",
+    "importance": "nice_to_have"
+  },
+  {
+    "role_name": "Front-End Developer",
+    "skill_name": "Tailwind CSS",
+    "importance": "nice_to_have"
+  },
+  {
+    "role_name": "Front-End Developer",
+    "skill_name": "TypeScript",
+    "importance": "nice_to_have"
+  },
+  {
+    "role_name": "Front-End Developer",
+    "skill_name": "Version Control Workflows (Git Flow)",
+    "importance": "required"
+  },
+  {
+    "role_name": "Front-End Developer",
+    "skill_name": "React.js",
+    "importance": "required"
+  },
+  {
+    "role_name": "Front-End Developer",
+    "skill_name": "Responsive Web Design",
+    "importance": "required"
+  },
+  {
+    "role_name": "Front-End Developer",
+    "skill_name": "JavaScript",
+    "importance": "required"
+  },
+  {
+    "role_name": "Front-End Developer",
+    "skill_name": "CSS3",
+    "importance": "required"
+  },
+  {
+    "role_name": "Full-Stack Developer",
+    "skill_name": "JavaScript",
+    "importance": "required"
+  },
+  {
+    "role_name": "Full-Stack Developer",
+    "skill_name": "ORM (Object-Relational Mapping)",
+    "importance": "required"
+  },
+  {
+    "role_name": "Full-Stack Developer",
+    "skill_name": "System Design",
+    "importance": "nice_to_have"
+  },
+  {
+    "role_name": "Full-Stack Developer",
+    "skill_name": "CSS",
+    "importance": "required"
+  },
+  {
+    "role_name": "Full-Stack Developer",
+    "skill_name": "HTML",
+    "importance": "required"
+  },
+  {
+    "role_name": "Full-Stack Developer",
+    "skill_name": "TypeScript",
+    "importance": "nice_to_have"
+  },
+  {
+    "role_name": "Full-Stack Developer",
+    "skill_name": "Docker",
+    "importance": "nice_to_have"
+  },
+  {
+    "role_name": "Full-Stack Developer",
+    "skill_name": "RESTful API Architecture",
+    "importance": "required"
+  },
+  {
+    "role_name": "Full-Stack Developer",
+    "skill_name": "SQL",
+    "importance": "required"
+  },
+  {
+    "role_name": "Full-Stack Developer",
+    "skill_name": "Node.js",
+    "importance": "required"
+  },
+  {
+    "role_name": "Full-Stack Developer",
+    "skill_name": "React.js",
+    "importance": "required"
+  },
+  {
+    "role_name": "Full-Stack Developer",
+    "skill_name": "State Management (Redux/Zustand)",
+    "importance": "required"
+  },
+  {
+    "role_name": "Full-Stack Developer",
+    "skill_name": "npm",
+    "importance": "nice_to_have"
+  },
+  {
+    "role_name": "Full-Stack Developer",
+    "skill_name": "Authentication & JWT",
+    "importance": "required"
+  },
+  {
+    "role_name": "Full-Stack Developer",
+    "skill_name": "REST API",
+    "importance": "required"
+  },
+  {
+    "role_name": "Full-Stack Software Architect",
+    "skill_name": "Scalability Principles",
+    "importance": "required"
+  },
+  {
+    "role_name": "Full-Stack Software Architect",
+    "skill_name": "Design Patterns",
+    "importance": "required"
+  },
+  {
+    "role_name": "Full-Stack Software Architect",
+    "skill_name": "Leadership",
+    "importance": "required"
+  },
+  {
+    "role_name": "Full-Stack Software Architect",
+    "skill_name": "Cloud Computing Service Models (IaaS, PaaS, SaaS)",
+    "importance": "nice_to_have"
+  },
+  {
+    "role_name": "Full-Stack Software Architect",
+    "skill_name": "Docker",
+    "importance": "nice_to_have"
+  },
+  {
+    "role_name": "Full-Stack Software Architect",
+    "skill_name": "Strategic Decision Making",
+    "importance": "required"
+  },
+  {
+    "role_name": "Full-Stack Software Architect",
+    "skill_name": "CI/CD Principles",
+    "importance": "required"
+  },
+  {
+    "role_name": "Full-Stack Software Architect",
+    "skill_name": "Microservices Architecture",
+    "importance": "required"
+  },
+  {
+    "role_name": "Full-Stack Software Architect",
+    "skill_name": "System Design",
+    "importance": "required"
+  },
+  {
+    "role_name": "Generative AI Specialist",
+    "skill_name": "SQL",
+    "importance": "required"
+  },
+  {
+    "role_name": "Generative AI Specialist",
+    "skill_name": "Apache Kafka",
+    "importance": "nice_to_have"
+  },
+  {
+    "role_name": "Generative AI Specialist",
+    "skill_name": "Data Warehousing Concepts",
+    "importance": "required"
+  },
+  {
+    "role_name": "Generative AI Specialist",
+    "skill_name": "Data Modeling",
+    "importance": "required"
+  },
+  {
+    "role_name": "Generative AI Specialist",
+    "skill_name": "Python",
+    "importance": "required"
+  },
+  {
+    "role_name": "Generative AI Specialist",
+    "skill_name": "Google Cloud Platform (GCP)",
+    "importance": "nice_to_have"
+  },
+  {
+    "role_name": "Generative AI Specialist",
+    "skill_name": "Neural Networks",
+    "importance": "required"
+  },
+  {
+    "role_name": "Generative AI Specialist",
+    "skill_name": "PyTorch",
+    "importance": "required"
+  },
+  {
+    "role_name": "Generative AI Specialist",
+    "skill_name": "TensorFlow",
+    "importance": "required"
+  },
+  {
+    "role_name": "Generative AI Specialist",
+    "skill_name": "Machine Learning Lifecycle",
+    "importance": "required"
+  },
+  {
+    "role_name": "Generative AI Specialist",
+    "skill_name": "Prompt Engineering",
+    "importance": "required"
+  },
+  {
+    "role_name": "Generative AI Specialist",
+    "skill_name": "Deep Learning Fundamentals",
+    "importance": "required"
+  },
+  {
+    "role_name": "Generative AI Specialist",
+    "skill_name": "Bash/Shell Scripting",
+    "importance": "required"
+  },
+  {
+    "role_name": "Golang Backend Developer",
+    "skill_name": "Go (Golang)",
+    "importance": "required"
+  },
+  {
+    "role_name": "Golang Backend Developer",
+    "skill_name": "REST API",
+    "importance": "required"
+  },
+  {
+    "role_name": "Golang Backend Developer",
+    "skill_name": "Authentication & JWT",
+    "importance": "required"
+  },
+  {
+    "role_name": "Golang Backend Developer",
+    "skill_name": "gRPC",
+    "importance": "required"
+  },
+  {
+    "role_name": "Golang Backend Developer",
+    "skill_name": "High Availability",
+    "importance": "nice_to_have"
+  },
+  {
+    "role_name": "Golang Backend Developer",
+    "skill_name": "Kubernetes",
+    "importance": "nice_to_have"
+  },
+  {
+    "role_name": "Golang Backend Developer",
+    "skill_name": "Docker",
+    "importance": "required"
+  },
+  {
+    "role_name": "Golang Backend Developer",
+    "skill_name": "SQL",
+    "importance": "required"
+  },
+  {
+    "role_name": "Golang Backend Developer",
+    "skill_name": "RESTful API Architecture",
+    "importance": "required"
+  },
+  {
+    "role_name": "Golang Backend Developer",
+    "skill_name": "Microservices Architecture",
+    "importance": "required"
+  },
+  {
+    "role_name": "Graph Database Engineer",
+    "skill_name": "Database Normalization",
+    "importance": "required"
+  },
+  {
+    "role_name": "Graph Database Engineer",
+    "skill_name": "PostgreSQL",
+    "importance": "required"
+  },
+  {
+    "role_name": "Graph Database Engineer",
+    "skill_name": "Elasticsearch",
+    "importance": "nice_to_have"
+  },
+  {
+    "role_name": "Graph Database Engineer",
+    "skill_name": "CAP Theorem",
+    "importance": "required"
+  },
+  {
+    "role_name": "Graph Database Engineer",
+    "skill_name": "Query Optimization",
+    "importance": "required"
+  },
+  {
+    "role_name": "Graph Database Engineer",
+    "skill_name": "ACID Properties",
+    "importance": "required"
+  },
+  {
+    "role_name": "Graph Database Engineer",
+    "skill_name": "Bash/Shell Scripting",
+    "importance": "nice_to_have"
+  },
+  {
+    "role_name": "Graph Database Engineer",
+    "skill_name": "MongoDB",
+    "importance": "nice_to_have"
+  },
+  {
+    "role_name": "Graph Database Engineer",
+    "skill_name": "SQL",
+    "importance": "required"
+  },
+  {
+    "role_name": "Graph Database Engineer",
+    "skill_name": "Graph Databases",
+    "importance": "required"
+  },
+  {
+    "role_name": "Graph Database Engineer",
+    "skill_name": "MySQL",
+    "importance": "required"
+  },
+  {
+    "role_name": "Hardware Security Researcher",
+    "skill_name": "Threat Modeling",
+    "importance": "required"
+  },
+  {
+    "role_name": "Hardware Security Researcher",
+    "skill_name": "Operational Technology (OT) Security",
+    "importance": "nice_to_have"
+  },
+  {
+    "role_name": "Hardware Security Researcher",
+    "skill_name": "Splunk",
+    "importance": "required"
+  },
+  {
+    "role_name": "Hardware Security Researcher",
+    "skill_name": "Wireshark",
+    "importance": "nice_to_have"
+  },
+  {
+    "role_name": "Hardware Security Researcher",
+    "skill_name": "Network Protocols (TCP/IP, UDP)",
+    "importance": "required"
+  },
+  {
+    "role_name": "Hardware Security Researcher",
+    "skill_name": "Incident Response Planning",
+    "importance": "required"
+  },
+  {
+    "role_name": "Hardware Security Researcher",
+    "skill_name": "Hardware Security",
+    "importance": "required"
+  },
+  {
+    "role_name": "Hardware Security Researcher",
+    "skill_name": "Analytical Thinking",
+    "importance": "required"
+  },
+  {
+    "role_name": "Hardware Security Researcher",
+    "skill_name": "Firmware Analysis",
+    "importance": "required"
+  },
+  {
+    "role_name": "Identity and Access Management (IAM) Engineer",
+    "skill_name": "Wireshark",
+    "importance": "nice_to_have"
+  },
+  {
+    "role_name": "Identity and Access Management (IAM) Engineer",
+    "skill_name": "Operational Technology (OT) Security",
+    "importance": "nice_to_have"
+  },
+  {
+    "role_name": "Identity and Access Management (IAM) Engineer",
+    "skill_name": "Splunk",
+    "importance": "required"
+  },
+  {
+    "role_name": "Identity and Access Management (IAM) Engineer",
+    "skill_name": "Network Protocols (TCP/IP, UDP)",
+    "importance": "required"
+  },
+  {
+    "role_name": "Identity and Access Management (IAM) Engineer",
+    "skill_name": "Incident Response Planning",
+    "importance": "required"
+  },
+  {
+    "role_name": "Identity and Access Management (IAM) Engineer",
+    "skill_name": "Threat Modeling",
+    "importance": "required"
+  },
+  {
+    "role_name": "Identity and Access Management (IAM) Engineer",
+    "skill_name": "Analytical Thinking",
+    "importance": "required"
+  },
+  {
+    "role_name": "Identity and Access Management (IAM) Engineer",
+    "skill_name": "Identity and Access Management (IAM)",
+    "importance": "required"
+  },
+  {
+    "role_name": "Identity and Access Management (IAM) Engineer",
+    "skill_name": "Cryptography Fundamentals",
+    "importance": "required"
+  },
+  {
+    "role_name": "Identity and Access Management (IAM) Engineer",
+    "skill_name": "Zero Trust Architecture",
+    "importance": "required"
+  },
+  {
+    "role_name": "Incident Response (IR) Handler",
+    "skill_name": "Threat Modeling",
+    "importance": "required"
+  },
+  {
+    "role_name": "Incident Response (IR) Handler",
+    "skill_name": "Operational Technology (OT) Security",
+    "importance": "nice_to_have"
+  },
+  {
+    "role_name": "Incident Response (IR) Handler",
+    "skill_name": "Splunk",
+    "importance": "required"
+  },
+  {
+    "role_name": "Incident Response (IR) Handler",
+    "skill_name": "Wireshark",
+    "importance": "nice_to_have"
+  },
+  {
+    "role_name": "Incident Response (IR) Handler",
+    "skill_name": "Forensic Analysis",
+    "importance": "required"
+  },
+  {
+    "role_name": "Incident Response (IR) Handler",
+    "skill_name": "Analytical Thinking",
+    "importance": "required"
+  },
+  {
+    "role_name": "Incident Response (IR) Handler",
+    "skill_name": "Network Protocols (TCP/IP, UDP)",
+    "importance": "required"
+  },
+  {
+    "role_name": "Incident Response (IR) Handler",
+    "skill_name": "Incident Response Planning",
+    "importance": "required"
+  },
+  {
+    "role_name": "Information Security Analyst",
+    "skill_name": "Network Protocols (TCP/IP, UDP)",
+    "importance": "required"
+  },
+  {
+    "role_name": "Information Security Analyst",
+    "skill_name": "Vulnerability Scanning",
+    "importance": "required"
+  },
+  {
+    "role_name": "Information Security Analyst",
+    "skill_name": "Security Auditing",
+    "importance": "required"
+  },
+  {
+    "role_name": "Information Security Analyst",
+    "skill_name": "OWASP Security Principles",
+    "importance": "required"
+  },
+  {
+    "role_name": "Information Security Analyst",
+    "skill_name": "Operational Technology (OT) Security",
+    "importance": "nice_to_have"
+  },
+  {
+    "role_name": "Information Security Analyst",
+    "skill_name": "Wireshark",
+    "importance": "nice_to_have"
+  },
+  {
+    "role_name": "Information Security Analyst",
+    "skill_name": "Splunk",
+    "importance": "required"
+  },
+  {
+    "role_name": "Information Security Analyst",
+    "skill_name": "Analytical Thinking",
+    "importance": "required"
+  },
+  {
+    "role_name": "Information Security Analyst",
+    "skill_name": "Incident Response Planning",
+    "importance": "required"
+  },
+  {
+    "role_name": "Information Security Analyst",
+    "skill_name": "Threat Modeling",
+    "importance": "required"
+  },
+  {
+    "role_name": "Information Security Analyst",
+    "skill_name": "Cryptography Fundamentals",
+    "importance": "required"
+  },
+  {
+    "role_name": "Information Security Analyst",
+    "skill_name": "Zero Trust Architecture",
+    "importance": "nice_to_have"
+  },
+  {
+    "role_name": "Information Security Analyst",
+    "skill_name": "Identity and Access Management (IAM)",
+    "importance": "nice_to_have"
+  },
+  {
+    "role_name": "Information Security Analyst",
+    "skill_name": "Incident Response",
+    "importance": "required"
+  },
+  {
+    "role_name": "Information Systems Security Officer (ISSO)",
+    "skill_name": "Operational Technology (OT) Security",
+    "importance": "nice_to_have"
+  },
+  {
+    "role_name": "Information Systems Security Officer (ISSO)",
+    "skill_name": "Splunk",
+    "importance": "required"
+  },
+  {
+    "role_name": "Information Systems Security Officer (ISSO)",
+    "skill_name": "Wireshark",
+    "importance": "nice_to_have"
+  },
+  {
+    "role_name": "Information Systems Security Officer (ISSO)",
+    "skill_name": "Network Protocols (TCP/IP, UDP)",
+    "importance": "required"
+  },
+  {
+    "role_name": "Information Systems Security Officer (ISSO)",
+    "skill_name": "Security Policy Development",
+    "importance": "required"
+  },
+  {
+    "role_name": "Information Systems Security Officer (ISSO)",
+    "skill_name": "Incident Response Planning",
+    "importance": "required"
+  },
+  {
+    "role_name": "Information Systems Security Officer (ISSO)",
+    "skill_name": "Analytical Thinking",
+    "importance": "required"
+  },
+  {
+    "role_name": "Information Systems Security Officer (ISSO)",
+    "skill_name": "Threat Modeling",
+    "importance": "required"
+  },
+  {
+    "role_name": "Information Systems Security Officer (ISSO)",
+    "skill_name": "Security Compliance (ISO 27001, SOC 2)",
+    "importance": "required"
+  },
+  {
+    "role_name": "Infrastructure as Code (IaC) Engineer",
+    "skill_name": "Bash/Shell Scripting",
+    "importance": "required"
+  },
+  {
+    "role_name": "Infrastructure as Code (IaC) Engineer",
+    "skill_name": "Terraform",
+    "importance": "nice_to_have"
+  },
+  {
+    "role_name": "Infrastructure as Code (IaC) Engineer",
+    "skill_name": "Kubernetes",
+    "importance": "required"
+  },
+  {
+    "role_name": "Infrastructure as Code (IaC) Engineer",
+    "skill_name": "Jenkins",
+    "importance": "required"
+  },
+  {
+    "role_name": "Infrastructure as Code (IaC) Engineer",
+    "skill_name": "Docker",
+    "importance": "required"
+  },
+  {
+    "role_name": "Infrastructure as Code (IaC) Engineer",
+    "skill_name": "AWS EC2",
+    "importance": "nice_to_have"
+  },
+  {
+    "role_name": "Infrastructure as Code (IaC) Engineer",
+    "skill_name": "Pulumi",
+    "importance": "nice_to_have"
+  },
+  {
+    "role_name": "Infrastructure as Code (IaC) Engineer",
+    "skill_name": "CloudFormation",
+    "importance": "required"
+  },
+  {
+    "role_name": "Infrastructure as Code (IaC) Engineer",
+    "skill_name": "CI/CD Principles",
+    "importance": "required"
+  },
+  {
+    "role_name": "iOS Native Developer",
+    "skill_name": "Object-Oriented Programming (OOP)",
+    "importance": "required"
+  },
+  {
+    "role_name": "iOS Native Developer",
+    "skill_name": "Swift",
+    "importance": "required"
+  },
+  {
+    "role_name": "iOS Native Developer",
+    "skill_name": "iOS Development (Swift)",
+    "importance": "required"
+  },
+  {
+    "role_name": "iOS Native Developer",
+    "skill_name": "Mobile UI/UX Patterns",
+    "importance": "required"
+  },
+  {
+    "role_name": "iOS Native Developer",
+    "skill_name": "App Store Deployment",
+    "importance": "required"
+  },
+  {
+    "role_name": "iOS Native Developer",
+    "skill_name": "Mobile Performance Optimization",
+    "importance": "nice_to_have"
+  },
+  {
+    "role_name": "iOS Native Developer",
+    "skill_name": "Problem Solving",
+    "importance": "required"
+  },
+  {
+    "role_name": "iOS Native Developer",
+    "skill_name": "Figma",
+    "importance": "nice_to_have"
+  },
+  {
+    "role_name": "iOS Native Developer",
+    "skill_name": "CI/CD Principles",
+    "importance": "nice_to_have"
+  },
+  {
+    "role_name": "iOS Native Developer",
+    "skill_name": "Version Control Workflows (Git Flow)",
+    "importance": "required"
+  },
+  {
+    "role_name": "iOS Native Developer",
+    "skill_name": "RESTful API Architecture",
+    "importance": "required"
+  },
+  {
+    "role_name": "IoT Data Scientist",
+    "skill_name": "Sensor Data Analysis",
+    "importance": "required"
+  },
+  {
+    "role_name": "IoT Data Scientist",
+    "skill_name": "Data Warehousing Concepts",
+    "importance": "required"
+  },
+  {
+    "role_name": "IoT Data Scientist",
+    "skill_name": "Data Modeling",
+    "importance": "required"
+  },
+  {
+    "role_name": "IoT Data Scientist",
+    "skill_name": "IoT Protocols (MQTT, CoAP)",
+    "importance": "required"
+  },
+  {
+    "role_name": "IoT Data Scientist",
+    "skill_name": "Google Cloud Platform (GCP)",
+    "importance": "nice_to_have"
+  },
+  {
+    "role_name": "IoT Data Scientist",
+    "skill_name": "Python",
+    "importance": "required"
+  },
+  {
+    "role_name": "IoT Data Scientist",
+    "skill_name": "Bash/Shell Scripting",
+    "importance": "required"
+  },
+  {
+    "role_name": "IoT Data Scientist",
+    "skill_name": "SQL",
+    "importance": "required"
+  },
+  {
+    "role_name": "IoT Data Scientist",
+    "skill_name": "Apache Kafka",
+    "importance": "nice_to_have"
+  },
+  {
+    "role_name": "Jamstack Engineer",
+    "skill_name": "REST API",
+    "importance": "required"
+  },
+  {
+    "role_name": "Jamstack Engineer",
+    "skill_name": "Netlify",
+    "importance": "required"
+  },
+  {
+    "role_name": "Jamstack Engineer",
+    "skill_name": "JavaScript",
+    "importance": "required"
+  },
+  {
+    "role_name": "Jamstack Engineer",
+    "skill_name": "React.js",
+    "importance": "required"
+  },
+  {
+    "role_name": "Jamstack Engineer",
+    "skill_name": "Next.js",
+    "importance": "required"
+  },
+  {
+    "role_name": "Jamstack Engineer",
+    "skill_name": "RESTful API Architecture",
+    "importance": "required"
+  },
+  {
+    "role_name": "Jamstack Engineer",
+    "skill_name": "Vercel",
+    "importance": "nice_to_have"
+  },
+  {
+    "role_name": "Jamstack Engineer",
+    "skill_name": "GraphQL Concepts",
+    "importance": "nice_to_have"
+  },
+  {
+    "role_name": "Jamstack Engineer",
+    "skill_name": "HTML",
+    "importance": "required"
+  },
+  {
+    "role_name": "Jamstack Engineer",
+    "skill_name": "CSS",
+    "importance": "required"
+  },
+  {
+    "role_name": "Java Software Engineer",
+    "skill_name": "Java",
+    "importance": "required"
+  },
+  {
+    "role_name": "Java Software Engineer",
+    "skill_name": "Microservices Architecture",
+    "importance": "required"
+  },
+  {
+    "role_name": "Java Software Engineer",
+    "skill_name": "Design Patterns",
+    "importance": "required"
+  },
+  {
+    "role_name": "Java Software Engineer",
+    "skill_name": "Kubernetes",
+    "importance": "nice_to_have"
+  },
+  {
+    "role_name": "Java Software Engineer",
+    "skill_name": "Apache Kafka",
+    "importance": "nice_to_have"
+  },
+  {
+    "role_name": "Java Software Engineer",
+    "skill_name": "SOLID Principles",
+    "importance": "required"
+  },
+  {
+    "role_name": "Java Software Engineer",
+    "skill_name": "Domain-Driven Design (DDD)",
+    "importance": "nice_to_have"
+  },
+  {
+    "role_name": "Java Software Engineer",
+    "skill_name": "Object-Oriented Programming (OOP)",
+    "importance": "required"
+  },
+  {
+    "role_name": "Java Software Engineer",
+    "skill_name": "SQL",
+    "importance": "required"
+  },
+  {
+    "role_name": "Java Software Engineer",
+    "skill_name": "Spring Boot",
+    "importance": "required"
+  },
+  {
+    "role_name": "Java Software Engineer",
+    "skill_name": "REST API",
+    "importance": "required"
+  },
+  {
+    "role_name": "LAMP Stack Developer",
+    "skill_name": "Linux",
+    "importance": "required"
+  },
+  {
+    "role_name": "LAMP Stack Developer",
+    "skill_name": "Apache HTTP Server",
+    "importance": "required"
+  },
+  {
+    "role_name": "LAMP Stack Developer",
+    "skill_name": "MySQL",
+    "importance": "required"
+  },
+  {
+    "role_name": "LAMP Stack Developer",
+    "skill_name": "PHP",
+    "importance": "required"
+  },
+  {
+    "role_name": "LAMP Stack Developer",
+    "skill_name": "Bash/Shell Scripting",
+    "importance": "required"
+  },
+  {
+    "role_name": "LAMP Stack Developer",
+    "skill_name": "Laravel",
+    "importance": "nice_to_have"
+  },
+  {
+    "role_name": "LAMP Stack Developer",
+    "skill_name": "jQuery",
+    "importance": "nice_to_have"
+  },
+  {
+    "role_name": "Machine Learning Architect",
+    "skill_name": "SQL",
+    "importance": "required"
+  },
+  {
+    "role_name": "Machine Learning Architect",
+    "skill_name": "Bash/Shell Scripting",
+    "importance": "required"
+  },
+  {
+    "role_name": "Machine Learning Architect",
+    "skill_name": "Apache Kafka",
+    "importance": "nice_to_have"
+  },
+  {
+    "role_name": "Machine Learning Architect",
+    "skill_name": "Data Warehousing Concepts",
+    "importance": "required"
+  },
+  {
+    "role_name": "Machine Learning Architect",
+    "skill_name": "Data Modeling",
+    "importance": "required"
+  },
+  {
+    "role_name": "Machine Learning Architect",
+    "skill_name": "Python",
+    "importance": "required"
+  },
+  {
+    "role_name": "Machine Learning Architect",
+    "skill_name": "Google Cloud Platform (GCP)",
+    "importance": "nice_to_have"
+  },
+  {
+    "role_name": "Machine Learning Engineer",
+    "skill_name": "Bash/Shell Scripting",
+    "importance": "required"
+  },
+  {
+    "role_name": "Machine Learning Engineer",
+    "skill_name": "Data Warehousing Concepts",
+    "importance": "required"
+  },
+  {
+    "role_name": "Machine Learning Engineer",
+    "skill_name": "Pandas",
+    "importance": "required"
+  },
+  {
+    "role_name": "Machine Learning Engineer",
+    "skill_name": "Machine Learning Lifecycle",
+    "importance": "required"
+  },
+  {
+    "role_name": "Machine Learning Engineer",
+    "skill_name": "Deep Learning Fundamentals",
+    "importance": "nice_to_have"
+  },
+  {
+    "role_name": "Machine Learning Engineer",
+    "skill_name": "Data Modeling",
+    "importance": "required"
+  },
+  {
+    "role_name": "Machine Learning Engineer",
+    "skill_name": "Apache Kafka",
+    "importance": "nice_to_have"
+  },
+  {
+    "role_name": "Machine Learning Engineer",
+    "skill_name": "Python",
+    "importance": "required"
+  },
+  {
+    "role_name": "Machine Learning Engineer",
+    "skill_name": "Model Evaluation & Validation",
+    "importance": "required"
+  },
+  {
+    "role_name": "Machine Learning Engineer",
+    "skill_name": "Feature Engineering",
+    "importance": "required"
+  },
+  {
+    "role_name": "Machine Learning Engineer",
+    "skill_name": "PyTorch",
+    "importance": "nice_to_have"
+  },
+  {
+    "role_name": "Machine Learning Engineer",
+    "skill_name": "TensorFlow",
+    "importance": "nice_to_have"
+  },
+  {
+    "role_name": "Machine Learning Engineer",
+    "skill_name": "Scikit-learn",
+    "importance": "required"
+  },
+  {
+    "role_name": "Machine Learning Engineer",
+    "skill_name": "NumPy",
+    "importance": "required"
+  },
+  {
+    "role_name": "Machine Learning Engineer",
+    "skill_name": "Google Cloud Platform (GCP)",
+    "importance": "nice_to_have"
+  },
+  {
+    "role_name": "Machine Learning Engineer",
+    "skill_name": "SQL",
+    "importance": "required"
+  },
+  {
+    "role_name": "Malware Reverse Engineer",
+    "skill_name": "Threat Modeling",
+    "importance": "required"
+  },
+  {
+    "role_name": "Malware Reverse Engineer",
+    "skill_name": "Splunk",
+    "importance": "required"
+  },
+  {
+    "role_name": "Malware Reverse Engineer",
+    "skill_name": "Operational Technology (OT) Security",
+    "importance": "nice_to_have"
+  },
+  {
+    "role_name": "Malware Reverse Engineer",
+    "skill_name": "Analytical Thinking",
+    "importance": "required"
+  },
+  {
+    "role_name": "Malware Reverse Engineer",
+    "skill_name": "Reverse Engineering Tools",
+    "importance": "required"
+  },
+  {
+    "role_name": "Malware Reverse Engineer",
+    "skill_name": "Malware Analysis",
+    "importance": "required"
+  },
+  {
+    "role_name": "Malware Reverse Engineer",
+    "skill_name": "Incident Response Planning",
+    "importance": "required"
+  },
+  {
+    "role_name": "Malware Reverse Engineer",
+    "skill_name": "Network Protocols (TCP/IP, UDP)",
+    "importance": "required"
+  },
+  {
+    "role_name": "Malware Reverse Engineer",
+    "skill_name": "Wireshark",
+    "importance": "nice_to_have"
+  },
+  {
+    "role_name": "Master Data Management (MDM) Specialist",
+    "skill_name": "PostgreSQL",
+    "importance": "required"
+  },
+  {
+    "role_name": "Master Data Management (MDM) Specialist",
+    "skill_name": "ACID Properties",
+    "importance": "required"
+  },
+  {
+    "role_name": "Master Data Management (MDM) Specialist",
+    "skill_name": "MySQL",
+    "importance": "required"
+  },
+  {
+    "role_name": "Master Data Management (MDM) Specialist",
+    "skill_name": "SQL",
+    "importance": "required"
+  },
+  {
+    "role_name": "Master Data Management (MDM) Specialist",
+    "skill_name": "Database Normalization",
+    "importance": "required"
+  },
+  {
+    "role_name": "Master Data Management (MDM) Specialist",
+    "skill_name": "Bash/Shell Scripting",
+    "importance": "nice_to_have"
+  },
+  {
+    "role_name": "Master Data Management (MDM) Specialist",
+    "skill_name": "MongoDB",
+    "importance": "nice_to_have"
+  },
+  {
+    "role_name": "MERN Stack Specialist",
+    "skill_name": "Tailwind CSS",
+    "importance": "nice_to_have"
+  },
+  {
+    "role_name": "MERN Stack Specialist",
+    "skill_name": "Express.js",
+    "importance": "required"
+  },
+  {
+    "role_name": "MERN Stack Specialist",
+    "skill_name": "MongoDB",
+    "importance": "required"
+  },
+  {
+    "role_name": "MERN Stack Specialist",
+    "skill_name": "npm",
+    "importance": "required"
+  },
+  {
+    "role_name": "MERN Stack Specialist",
+    "skill_name": "Authentication & JWT",
+    "importance": "required"
+  },
+  {
+    "role_name": "MERN Stack Specialist",
+    "skill_name": "REST API",
+    "importance": "required"
+  },
+  {
+    "role_name": "MERN Stack Specialist",
+    "skill_name": "CSS",
+    "importance": "required"
+  },
+  {
+    "role_name": "MERN Stack Specialist",
+    "skill_name": "HTML",
+    "importance": "required"
+  },
+  {
+    "role_name": "MERN Stack Specialist",
+    "skill_name": "Mongoose",
+    "importance": "nice_to_have"
+  },
+  {
+    "role_name": "MERN Stack Specialist",
+    "skill_name": "ORM (Object-Relational Mapping)",
+    "importance": "required"
+  },
+  {
+    "role_name": "MERN Stack Specialist",
+    "skill_name": "State Management (Redux/Zustand)",
+    "importance": "required"
+  },
+  {
+    "role_name": "MERN Stack Specialist",
+    "skill_name": "JavaScript",
+    "importance": "required"
+  },
+  {
+    "role_name": "MERN Stack Specialist",
+    "skill_name": "Node.js",
+    "importance": "required"
+  },
+  {
+    "role_name": "MERN Stack Specialist",
+    "skill_name": "React.js",
+    "importance": "required"
+  },
+  {
+    "role_name": "MLOps Engineer",
+    "skill_name": "Machine Learning Lifecycle",
+    "importance": "required"
+  },
+  {
+    "role_name": "MLOps Engineer",
+    "skill_name": "AWS EC2",
+    "importance": "nice_to_have"
+  },
+  {
+    "role_name": "MLOps Engineer",
+    "skill_name": "Kubernetes",
+    "importance": "required"
+  },
+  {
+    "role_name": "MLOps Engineer",
+    "skill_name": "Jenkins",
+    "importance": "required"
+  },
+  {
+    "role_name": "MLOps Engineer",
+    "skill_name": "Docker",
+    "importance": "required"
+  },
+  {
+    "role_name": "MLOps Engineer",
+    "skill_name": "Terraform",
+    "importance": "nice_to_have"
+  },
+  {
+    "role_name": "MLOps Engineer",
+    "skill_name": "Monitoring & Logging",
+    "importance": "required"
+  },
+  {
+    "role_name": "MLOps Engineer",
+    "skill_name": "Infrastructure as Code (IaC)",
+    "importance": "required"
+  },
+  {
+    "role_name": "MLOps Engineer",
+    "skill_name": "GitHub Actions",
+    "importance": "nice_to_have"
+  },
+  {
+    "role_name": "MLOps Engineer",
+    "skill_name": "Bash/Shell Scripting",
+    "importance": "required"
+  },
+  {
+    "role_name": "MLOps Engineer",
+    "skill_name": "Model Evaluation & Validation",
+    "importance": "required"
+  },
+  {
+    "role_name": "MLOps Engineer",
+    "skill_name": "CI/CD Principles",
+    "importance": "required"
+  },
+  {
+    "role_name": "Mobile Architect",
+    "skill_name": "CI/CD Principles",
+    "importance": "required"
+  },
+  {
+    "role_name": "Mobile Architect",
+    "skill_name": "Leadership",
+    "importance": "required"
+  },
+  {
+    "role_name": "Mobile Architect",
+    "skill_name": "Strategic Decision Making",
+    "importance": "required"
+  },
+  {
+    "role_name": "Mobile Architect",
+    "skill_name": "Swift",
+    "importance": "nice_to_have"
+  },
+  {
+    "role_name": "Mobile Architect",
+    "skill_name": "Kotlin",
+    "importance": "nice_to_have"
+  },
+  {
+    "role_name": "Mobile Architect",
+    "skill_name": "Mobile UI/UX Patterns",
+    "importance": "required"
+  },
+  {
+    "role_name": "Mobile Architect",
+    "skill_name": "Mobile Performance Optimization",
+    "importance": "required"
+  },
+  {
+    "role_name": "Mobile Architect",
+    "skill_name": "Mobile Security Best Practices",
+    "importance": "required"
+  },
+  {
+    "role_name": "Mobile Architect",
+    "skill_name": "System Design",
+    "importance": "required"
+  },
+  {
+    "role_name": "Mobile Architect",
+    "skill_name": "Microservices Architecture",
+    "importance": "required"
+  },
+  {
+    "role_name": "Mobile Security Researcher",
+    "skill_name": "Incident Response Planning",
+    "importance": "required"
+  },
+  {
+    "role_name": "Mobile Security Researcher",
+    "skill_name": "Threat Modeling",
+    "importance": "required"
+  },
+  {
+    "role_name": "Mobile Security Researcher",
+    "skill_name": "Analytical Thinking",
+    "importance": "required"
+  },
+  {
+    "role_name": "Mobile Security Researcher",
+    "skill_name": "Splunk",
+    "importance": "required"
+  },
+  {
+    "role_name": "Mobile Security Researcher",
+    "skill_name": "Operational Technology (OT) Security",
+    "importance": "nice_to_have"
+  },
+  {
+    "role_name": "Mobile Security Researcher",
+    "skill_name": "Mobile Security",
+    "importance": "required"
+  },
+  {
+    "role_name": "Mobile Security Researcher",
+    "skill_name": "Mobile App Reverse Engineering",
+    "importance": "required"
+  },
+  {
+    "role_name": "Mobile Security Researcher",
+    "skill_name": "Wireshark",
+    "importance": "nice_to_have"
+  },
+  {
+    "role_name": "Mobile Security Researcher",
+    "skill_name": "Network Protocols (TCP/IP, UDP)",
+    "importance": "required"
+  },
+  {
+    "role_name": "Model Risk Officer",
+    "skill_name": "Risk Assessment",
+    "importance": "required"
+  },
+  {
+    "role_name": "Model Risk Officer",
+    "skill_name": "Model Validation",
+    "importance": "required"
+  },
+  {
+    "role_name": "Model Risk Officer",
+    "skill_name": "Splunk",
+    "importance": "required"
+  },
+  {
+    "role_name": "Model Risk Officer",
+    "skill_name": "Incident Response Planning",
+    "importance": "required"
+  },
+  {
+    "role_name": "Model Risk Officer",
+    "skill_name": "Wireshark",
+    "importance": "nice_to_have"
+  },
+  {
+    "role_name": "Model Risk Officer",
+    "skill_name": "Analytical Thinking",
+    "importance": "required"
+  },
+  {
+    "role_name": "Model Risk Officer",
+    "skill_name": "Operational Technology (OT) Security",
+    "importance": "nice_to_have"
+  },
+  {
+    "role_name": "Model Risk Officer",
+    "skill_name": "Threat Modeling",
+    "importance": "required"
+  },
+  {
+    "role_name": "Model Risk Officer",
+    "skill_name": "Network Protocols (TCP/IP, UDP)",
+    "importance": "required"
+  },
+  {
+    "role_name": "Multi-Cloud Strategist",
+    "skill_name": "Multi-Cloud Management",
+    "importance": "required"
+  },
+  {
+    "role_name": "Multi-Cloud Strategist",
+    "skill_name": "Google Cloud Platform (GCP)",
+    "importance": "nice_to_have"
+  },
+  {
+    "role_name": "Multi-Cloud Strategist",
+    "skill_name": "Cloud Vendor Comparison",
+    "importance": "required"
+  },
+  {
+    "role_name": "Multi-Cloud Strategist",
+    "skill_name": "Network Protocols (TCP/IP, UDP)",
+    "importance": "required"
+  },
+  {
+    "role_name": "Multi-Cloud Strategist",
+    "skill_name": "Microsoft Azure",
+    "importance": "nice_to_have"
+  },
+  {
+    "role_name": "Multi-Cloud Strategist",
+    "skill_name": "Bash/Shell Scripting",
+    "importance": "required"
+  },
+  {
+    "role_name": "Multi-Cloud Strategist",
+    "skill_name": "AWS EC2",
+    "importance": "required"
+  },
+  {
+    "role_name": "Multi-Cloud Strategist",
+    "skill_name": "Terraform",
+    "importance": "required"
+  },
+  {
+    "role_name": "Multi-Cloud Strategist",
+    "skill_name": "Cloud Computing Service Models (IaaS, PaaS, SaaS)",
+    "importance": "required"
+  },
+  {
+    "role_name": "Network Security Engineer",
+    "skill_name": "Network Security",
+    "importance": "required"
+  },
+  {
+    "role_name": "Network Security Engineer",
+    "skill_name": "Splunk",
+    "importance": "required"
+  },
+  {
+    "role_name": "Network Security Engineer",
+    "skill_name": "Wireshark",
+    "importance": "nice_to_have"
+  },
+  {
+    "role_name": "Network Security Engineer",
+    "skill_name": "Network Protocols (TCP/IP, UDP)",
+    "importance": "required"
+  },
+  {
+    "role_name": "Network Security Engineer",
+    "skill_name": "Firewall Configuration",
+    "importance": "required"
+  },
+  {
+    "role_name": "Network Security Engineer",
+    "skill_name": "SSL/TLS",
+    "importance": "required"
+  },
+  {
+    "role_name": "Network Security Engineer",
+    "skill_name": "Threat Modeling",
+    "importance": "required"
+  },
+  {
+    "role_name": "Network Security Engineer",
+    "skill_name": "Incident Response Planning",
+    "importance": "required"
+  },
+  {
+    "role_name": "Network Security Engineer",
+    "skill_name": "Operational Technology (OT) Security",
+    "importance": "nice_to_have"
+  },
+  {
+    "role_name": "Network Security Engineer",
+    "skill_name": "Analytical Thinking",
+    "importance": "required"
+  },
+  {
+    "role_name": "Next.js Full-Stack Developer",
+    "skill_name": "Server-Side Rendering (SSR)",
+    "importance": "required"
+  },
+  {
+    "role_name": "Next.js Full-Stack Developer",
+    "skill_name": "Next.js",
+    "importance": "required"
+  },
+  {
+    "role_name": "Next.js Full-Stack Developer",
+    "skill_name": "TypeScript",
+    "importance": "required"
+  },
+  {
+    "role_name": "Next.js Full-Stack Developer",
+    "skill_name": "React.js",
+    "importance": "required"
+  },
+  {
+    "role_name": "Next.js Full-Stack Developer",
+    "skill_name": "HTML",
+    "importance": "required"
+  },
+  {
+    "role_name": "Next.js Full-Stack Developer",
+    "skill_name": "CSS",
+    "importance": "required"
+  },
+  {
+    "role_name": "Next.js Full-Stack Developer",
+    "skill_name": "PostgreSQL",
+    "importance": "nice_to_have"
+  },
+  {
+    "role_name": "Next.js Full-Stack Developer",
+    "skill_name": "Prisma ORM",
+    "importance": "nice_to_have"
+  },
+  {
+    "role_name": "Next.js Full-Stack Developer",
+    "skill_name": "Vercel",
+    "importance": "required"
+  },
+  {
+    "role_name": "Next.js Full-Stack Developer",
+    "skill_name": "Tailwind CSS",
+    "importance": "required"
+  },
+  {
+    "role_name": "Next.js Full-Stack Developer",
+    "skill_name": "API Design Best Practices",
+    "importance": "required"
+  },
+  {
+    "role_name": "Next.js Full-Stack Developer",
+    "skill_name": "State Management (Redux/Zustand)",
+    "importance": "required"
+  },
+  {
+    "role_name": "Next.js Full-Stack Developer",
+    "skill_name": "REST API",
+    "importance": "required"
+  },
+  {
+    "role_name": "Next.js Full-Stack Developer",
+    "skill_name": "npm",
+    "importance": "required"
+  },
+  {
+    "role_name": "NLP Engineer",
+    "skill_name": "Bash/Shell Scripting",
+    "importance": "required"
+  },
+  {
+    "role_name": "NLP Engineer",
+    "skill_name": "Apache Kafka",
+    "importance": "nice_to_have"
+  },
+  {
+    "role_name": "NLP Engineer",
+    "skill_name": "Pandas",
+    "importance": "required"
+  },
+  {
+    "role_name": "NLP Engineer",
+    "skill_name": "Data Modeling",
+    "importance": "required"
+  },
+  {
+    "role_name": "NLP Engineer",
+    "skill_name": "Python",
+    "importance": "required"
+  },
+  {
+    "role_name": "NLP Engineer",
+    "skill_name": "Data Warehousing Concepts",
+    "importance": "required"
+  },
+  {
+    "role_name": "NLP Engineer",
+    "skill_name": "TensorFlow",
+    "importance": "required"
+  },
+  {
+    "role_name": "NLP Engineer",
+    "skill_name": "PyTorch",
+    "importance": "required"
+  },
+  {
+    "role_name": "NLP Engineer",
+    "skill_name": "SQL",
+    "importance": "required"
+  },
+  {
+    "role_name": "NLP Engineer",
+    "skill_name": "NumPy",
+    "importance": "required"
+  },
+  {
+    "role_name": "NLP Engineer",
+    "skill_name": "Deep Learning Fundamentals",
+    "importance": "required"
+  },
+  {
+    "role_name": "NLP Engineer",
+    "skill_name": "Natural Language Processing (NLP)",
+    "importance": "required"
+  },
+  {
+    "role_name": "NLP Engineer",
+    "skill_name": "Google Cloud Platform (GCP)",
+    "importance": "nice_to_have"
+  },
+  {
+    "role_name": "Node.js Developer",
+    "skill_name": "NestJS",
+    "importance": "nice_to_have"
+  },
+  {
+    "role_name": "Node.js Developer",
+    "skill_name": "REST API",
+    "importance": "required"
+  },
+  {
+    "role_name": "Node.js Developer",
+    "skill_name": "Authentication & JWT",
+    "importance": "required"
+  },
+  {
+    "role_name": "Node.js Developer",
+    "skill_name": "npm",
+    "importance": "required"
+  },
+  {
+    "role_name": "Node.js Developer",
+    "skill_name": "TypeScript",
+    "importance": "nice_to_have"
+  },
+  {
+    "role_name": "Node.js Developer",
+    "skill_name": "MongoDB",
+    "importance": "required"
+  },
+  {
+    "role_name": "Node.js Developer",
+    "skill_name": "RESTful API Architecture",
+    "importance": "required"
+  },
+  {
+    "role_name": "Node.js Developer",
+    "skill_name": "Express.js",
+    "importance": "required"
+  },
+  {
+    "role_name": "Node.js Developer",
+    "skill_name": "JavaScript",
+    "importance": "required"
+  },
+  {
+    "role_name": "Node.js Developer",
+    "skill_name": "Node.js",
+    "importance": "required"
+  },
+  {
+    "role_name": "Node.js Developer",
+    "skill_name": "WebSockets",
+    "importance": "nice_to_have"
+  },
+  {
+    "role_name": "Node.js Developer",
+    "skill_name": "Message Queues",
+    "importance": "nice_to_have"
+  },
+  {
+    "role_name": "Node.js Developer",
+    "skill_name": "Microservices Architecture",
+    "importance": "nice_to_have"
+  },
+  {
+    "role_name": "Observability Engineer",
+    "skill_name": "Prometheus",
+    "importance": "required"
+  },
+  {
+    "role_name": "Observability Engineer",
+    "skill_name": "Kubernetes",
+    "importance": "required"
+  },
+  {
+    "role_name": "Observability Engineer",
+    "skill_name": "Python",
+    "importance": "required"
+  },
+  {
+    "role_name": "Observability Engineer",
+    "skill_name": "Grafana",
+    "importance": "nice_to_have"
+  },
+  {
+    "role_name": "Observability Engineer",
+    "skill_name": "Observability Tools",
+    "importance": "required"
+  },
+  {
+    "role_name": "Observability Engineer",
+    "skill_name": "Distributed Tracing",
+    "importance": "required"
+  },
+  {
+    "role_name": "Observability Engineer",
+    "skill_name": "Linux",
+    "importance": "required"
+  },
+  {
+    "role_name": "Observability Engineer",
+    "skill_name": "Docker",
+    "importance": "required"
+  },
+  {
+    "role_name": "Observability Engineer",
+    "skill_name": "Datadog",
+    "importance": "nice_to_have"
+  },
+  {
+    "role_name": "Operational Technology (OT) Security Engineer",
+    "skill_name": "Cryptography Fundamentals",
+    "importance": "required"
+  },
+  {
+    "role_name": "Operational Technology (OT) Security Engineer",
+    "skill_name": "Operational Technology (OT) Security",
+    "importance": "required"
+  },
+  {
+    "role_name": "Operational Technology (OT) Security Engineer",
+    "skill_name": "Network Protocols (TCP/IP, UDP)",
+    "importance": "required"
+  },
+  {
+    "role_name": "Operational Technology (OT) Security Engineer",
+    "skill_name": "Python",
+    "importance": "nice_to_have"
+  },
+  {
+    "role_name": "Operational Technology (OT) Security Engineer",
+    "skill_name": "Linux",
+    "importance": "required"
+  },
+  {
+    "role_name": "Operational Technology (OT) Security Engineer",
+    "skill_name": "Zero Trust Architecture",
+    "importance": "required"
+  },
+  {
+    "role_name": "Penetration Tester",
+    "skill_name": "OWASP Security Principles",
+    "importance": "required"
+  },
+  {
+    "role_name": "Penetration Tester",
+    "skill_name": "Penetration Testing Methodologies",
+    "importance": "required"
+  },
+  {
+    "role_name": "Penetration Tester",
+    "skill_name": "Bash/Shell Scripting",
+    "importance": "required"
+  },
+  {
+    "role_name": "Penetration Tester",
+    "skill_name": "Python",
+    "importance": "required"
+  },
+  {
+    "role_name": "Penetration Tester",
+    "skill_name": "Metasploit",
+    "importance": "required"
+  },
+  {
+    "role_name": "Penetration Tester",
+    "skill_name": "Nmap",
+    "importance": "required"
+  },
+  {
+    "role_name": "Penetration Tester",
+    "skill_name": "Burp Suite",
+    "importance": "nice_to_have"
+  },
+  {
+    "role_name": "Penetration Tester",
+    "skill_name": "OWASP Top 10",
+    "importance": "nice_to_have"
+  },
+  {
+    "role_name": "Penetration Tester",
+    "skill_name": "Vulnerability Scanning",
+    "importance": "required"
+  },
+  {
+    "role_name": "Penetration Tester",
+    "skill_name": "Cryptography Fundamentals",
+    "importance": "required"
+  },
+  {
+    "role_name": "Penetration Tester",
+    "skill_name": "Nessus",
+    "importance": "nice_to_have"
+  },
+  {
+    "role_name": "Penetration Tester",
+    "skill_name": "Qualys",
+    "importance": "nice_to_have"
+  },
+  {
+    "role_name": "Penetration Tester",
+    "skill_name": "Kali Linux",
+    "importance": "required"
+  },
+  {
+    "role_name": "Performance Reliability Engineer",
+    "skill_name": "Java",
+    "importance": "required"
+  },
+  {
+    "role_name": "Performance Reliability Engineer",
+    "skill_name": "Python",
+    "importance": "required"
+  },
+  {
+    "role_name": "Performance Reliability Engineer",
+    "skill_name": "HTTP/HTTPS Lifecycle",
+    "importance": "required"
+  },
+  {
+    "role_name": "Performance Reliability Engineer",
+    "skill_name": "Analytical Thinking",
+    "importance": "required"
+  },
+  {
+    "role_name": "Performance Reliability Engineer",
+    "skill_name": "Network Protocols (TCP/IP, UDP)",
+    "importance": "required"
+  },
+  {
+    "role_name": "Performance Reliability Engineer",
+    "skill_name": "Datadog",
+    "importance": "nice_to_have"
+  },
+  {
+    "role_name": "Performance Test Engineer",
+    "skill_name": "Analytical Thinking",
+    "importance": "required"
+  },
+  {
+    "role_name": "Performance Test Engineer",
+    "skill_name": "HTTP/HTTPS Lifecycle",
+    "importance": "required"
+  },
+  {
+    "role_name": "Performance Test Engineer",
+    "skill_name": "Datadog",
+    "importance": "nice_to_have"
+  },
+  {
+    "role_name": "Performance Test Engineer",
+    "skill_name": "Network Protocols (TCP/IP, UDP)",
+    "importance": "required"
+  },
+  {
+    "role_name": "Performance Test Engineer",
+    "skill_name": "Performance Testing",
+    "importance": "required"
+  },
+  {
+    "role_name": "Performance Test Engineer",
+    "skill_name": "Java",
+    "importance": "required"
+  },
+  {
+    "role_name": "Performance Test Engineer",
+    "skill_name": "Performance Profiling",
+    "importance": "required"
+  },
+  {
+    "role_name": "Performance Test Engineer",
+    "skill_name": "Load Testing",
+    "importance": "required"
+  },
+  {
+    "role_name": "Performance Test Engineer",
+    "skill_name": "Python",
+    "importance": "required"
+  },
+  {
+    "role_name": "PHP/Laravel Engineer",
+    "skill_name": "Authentication & JWT",
+    "importance": "required"
+  },
+  {
+    "role_name": "PHP/Laravel Engineer",
+    "skill_name": "PHP",
+    "importance": "required"
+  },
+  {
+    "role_name": "PHP/Laravel Engineer",
+    "skill_name": "Laravel",
+    "importance": "required"
+  },
+  {
+    "role_name": "PHP/Laravel Engineer",
+    "skill_name": "REST API",
+    "importance": "required"
+  },
+  {
+    "role_name": "PHP/Laravel Engineer",
+    "skill_name": "Redis",
+    "importance": "nice_to_have"
+  },
+  {
+    "role_name": "PHP/Laravel Engineer",
+    "skill_name": "Tailwind CSS",
+    "importance": "nice_to_have"
+  },
+  {
+    "role_name": "PHP/Laravel Engineer",
+    "skill_name": "MVC Architecture",
+    "importance": "required"
+  },
+  {
+    "role_name": "PHP/Laravel Engineer",
+    "skill_name": "Eloquent ORM",
+    "importance": "required"
+  },
+  {
+    "role_name": "PHP/Laravel Engineer",
+    "skill_name": "MySQL",
+    "importance": "required"
+  },
+  {
+    "role_name": "PHP/Laravel Engineer",
+    "skill_name": "API Design Best Practices",
+    "importance": "required"
+  },
+  {
+    "role_name": "PHP/Laravel Engineer",
+    "skill_name": "ORM (Object-Relational Mapping)",
+    "importance": "required"
+  },
+  {
+    "role_name": "Platform Engineer",
+    "skill_name": "Microsoft Azure",
+    "importance": "nice_to_have"
+  },
+  {
+    "role_name": "Platform Engineer",
+    "skill_name": "Cloud Computing Service Models (IaaS, PaaS, SaaS)",
+    "importance": "required"
+  },
+  {
+    "role_name": "Platform Engineer",
+    "skill_name": "Google Cloud Platform (GCP)",
+    "importance": "nice_to_have"
+  },
+  {
+    "role_name": "Platform Engineer",
+    "skill_name": "Bash/Shell Scripting",
+    "importance": "required"
+  },
+  {
+    "role_name": "Platform Engineer",
+    "skill_name": "AWS EC2",
+    "importance": "required"
+  },
+  {
+    "role_name": "Platform Engineer",
+    "skill_name": "Platform as a Service (PaaS)",
+    "importance": "required"
+  },
+  {
+    "role_name": "Platform Engineer",
+    "skill_name": "Network Protocols (TCP/IP, UDP)",
+    "importance": "required"
+  },
+  {
+    "role_name": "Platform Engineer",
+    "skill_name": "Terraform",
+    "importance": "required"
+  },
+  {
+    "role_name": "Platform Engineer",
+    "skill_name": "Developer Experience",
+    "importance": "required"
+  },
+  {
+    "role_name": "Principal Data Scientist",
+    "skill_name": "Data Warehousing Concepts",
+    "importance": "required"
+  },
+  {
+    "role_name": "Principal Data Scientist",
+    "skill_name": "Data Modeling",
+    "importance": "required"
+  },
+  {
+    "role_name": "Principal Data Scientist",
+    "skill_name": "Python",
+    "importance": "required"
+  },
+  {
+    "role_name": "Principal Data Scientist",
+    "skill_name": "Bash/Shell Scripting",
+    "importance": "required"
+  },
+  {
+    "role_name": "Principal Data Scientist",
+    "skill_name": "SQL",
+    "importance": "required"
+  },
+  {
+    "role_name": "Principal Data Scientist",
+    "skill_name": "Apache Kafka",
+    "importance": "nice_to_have"
+  },
+  {
+    "role_name": "Principal Data Scientist",
+    "skill_name": "Google Cloud Platform (GCP)",
+    "importance": "nice_to_have"
+  },
+  {
+    "role_name": "Product Data Analyst",
+    "skill_name": "Bash/Shell Scripting",
+    "importance": "required"
+  },
+  {
+    "role_name": "Product Data Analyst",
+    "skill_name": "Python",
+    "importance": "required"
+  },
+  {
+    "role_name": "Product Data Analyst",
+    "skill_name": "Data Warehousing Concepts",
+    "importance": "required"
+  },
+  {
+    "role_name": "Product Data Analyst",
+    "skill_name": "SQL",
+    "importance": "required"
+  },
+  {
+    "role_name": "Product Data Analyst",
+    "skill_name": "Google Cloud Platform (GCP)",
+    "importance": "nice_to_have"
+  },
+  {
+    "role_name": "Product Data Analyst",
+    "skill_name": "Apache Kafka",
+    "importance": "nice_to_have"
+  },
+  {
+    "role_name": "Product Data Analyst",
+    "skill_name": "Data Modeling",
+    "importance": "required"
+  }
+]
