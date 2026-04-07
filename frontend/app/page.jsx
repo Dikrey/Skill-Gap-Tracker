@@ -245,7 +245,7 @@ const page = () => {
           background: 'linear-gradient(to bottom, #e9ecef 50%, #f8f9fa 50%)',
         }}
       >
-        <div className='container mx-auto px-4 shadow-lg bg-gray-100 rounded-xl md:px-16 lg:px-24 py-10 md:py-12 flex flex-col gap-10'>
+        <div className='container mx-auto px-4 shadow-lg bg-gray-100 rounded-xl px-6 md:px-16 lg:px-24 py-10 md:py-12 flex flex-col gap-10'>
           <div className='flex flex-col gap-5'>
             <span className='text-sm text-gray-500 font-medium'>Features</span>
             <div className='grid grid-cols-1 md:grid-cols-5 gap-6'>
