@@ -119,5 +119,6 @@ Jika telah berhasil tereksekusi tanpa gagal (error), Anda dapat mulai menggunaka
 | Neezar Abdurrahman Ahnaf Abiyyi | CFS054D6Y012 |
 | Zaky Mubarok | CFS202D6Y038 |
 | Dhanis Fathan Gunawan | CFS202D6Y039 | https://github.com/Dhnth |
-| Muhammad Raihan | CFS122D6Y041 |
+| Muhammad Raihan | CFS122D6Y041 | https://github.com/Dikrey |
 
+---
