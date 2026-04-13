@@ -19,7 +19,7 @@ const genAI = new GoogleGenerativeAI(process.env.GEMINI_API_KEY);
  * @returns {Object} roadmap dari Gemini dalam format JSON
  */
 export const generateRoadmap = async (targetRole, targetRoleId, gapSkills, currentPosition = 'tidak diketahui') => {
-  const model = genAI.getGenerativeModel({ model: 'gemini-2.5-flash' });
+  const model = genAI.getGenerativeModel({ model: 'gemini-2.5-flash-lite' });
 
   const skillList = gapSkills.map((s) => `- ${s.name}`).join('\n');
 
